@@ -1,0 +1,2338 @@
+name,company,year,Price,kms_driven,fuel_type
+Toyota,Allion,2018,"9,300,000.00",8000,Petrol
+Toyota,Allion,2018,"9,775,000.00",9185,Petrol
+Toyota,Allion,2018,"9,890,000.00",9875,Petrol
+Toyota,Allion,2018,"9,850,000.00",10907,Petrol
+Toyota,Allion,2008,"4,885,000.00",13000,Petrol
+Toyota,Allion,2017,"8,000,000.00",22300,Petrol
+Toyota,Allion,2016,"7,675,000.00",26000,Petrol
+Toyota,Allion,2016,"7,900,000.00",27000,Petrol
+Toyota,Allion,2016,"7,000,000.00",31000,Petrol
+Toyota,Allion,2016,"8,900,000.00",34000,Petrol
+Toyota,Allion,2017,"8,850,000.00",41000,Petrol
+Toyota,Allion,2018,"8,150,000.00",47000,Petrol
+Toyota,Allion,2016,"8,200,000.00",47000,Petrol
+Toyota,Allion,2016,"8,200,000.00",49000,Petrol
+Toyota,Allion,2014,"7,600,000.00",54000,Petrol
+Toyota,Allion,2016,"7,900,000.00",56000,Petrol
+Toyota,Allion,2013,"6,500,000.00",60000,Petrol
+Toyota,Allion,2013,"5,735,000.00",71000,Petrol
+Toyota,Allion,2013,"6,725,000.00",71500,Petrol
+Toyota,Allion,2013,"6,500,000.00",75000,Petrol
+Toyota,Allion,2011,"5,650,000.00",76501,Petrol
+Toyota,Allion,2010,"5,300,000.00",85000,Petrol
+Toyota,Allion,2013,"6,600,000.00",85000,Petrol
+Toyota,Allion,2010,"5,600,000.00",86000,Petrol
+Toyota,Allion,2010,"5,750,000.00",86000,Petrol
+Toyota,Allion,2013,"4,950,000.00",87000,Petrol
+Toyota,Allion,2010,"5,500,000.00",89000,Petrol
+Toyota,Allion,2008,"4,900,000.00",90000,Petrol
+Toyota,Allion,2010,"5,450,000.00",90000,Petrol
+Toyota,Allion,2011,"5,875,000.00",90080,Petrol
+Toyota,Allion,2010,"5,525,000.00",92000,Petrol
+Toyota,Allion,2010,"5,650,000.00",92700,Petrol
+Toyota,Allion,2009,"4,900,000.00",93000,Petrol
+Toyota,Allion,2009,"4,985,000.00",96000,Petrol
+Toyota,Allion,2007,"4,450,000.00",97000,Petrol
+Toyota,Allion,2010,"4,790,000.00",97000,Petrol
+Toyota,Allion,2008,"4,950,000.00",97000,Petrol
+Toyota,Allion,2010,"5,525,000.00",97000,Petrol
+Toyota,Allion,2007,"4,575,000.00",100000,Petrol
+Toyota,Allion,2010,"5,475,000.00",100000,Petrol
+Toyota,Allion,2013,"5,100,000.00",102000,Petrol
+Toyota,Allion,2012,"5,900,000.00",102000,Petrol
+Toyota,Allion,2010,"4,790,000.00",104000,Petrol
+Toyota,Allion,2010,"4,625,000.00",105000,Petrol
+Toyota,Allion,2012,"5,790,000.00",106000,Petrol
+Toyota,Allion,2007,"6,200,000.00",106000,Petrol
+Toyota,Allion,2006,"4,400,000.00",107000,Petrol
+Toyota,Allion,2007,"4,350,000.00",109000,Petrol
+Toyota,Allion,2008,"5,200,000.00",110000,Petrol
+Toyota,Allion,2008,"5,390,000.00",110000,Petrol
+Toyota,Allion,2007,"4,725,000.00",112000,Petrol
+Toyota,Allion,2007,"4,750,000.00",112000,Petrol
+Toyota,Allion,2007,"4,900,000.00",112000,Petrol
+Toyota,Allion,2010,"5,385,000.00",112000,Petrol
+Toyota,Allion,2010,"5,325,000.00",112500,Petrol
+Toyota,Allion,2009,"4,650,000.00",113000,Petrol
+Toyota,Allion,2008,"4,650,000.00",115000,Petrol
+Toyota,Allion,2004,"3,825,000.00",116000,Petrol
+Toyota,Allion,2003,"3,500,000.00",117000,Petrol
+Toyota,Allion,2007,"4,590,000.00",117000,Petrol
+Toyota,Allion,2007,"4,850,000.00",117000,Petrol
+Toyota,Allion,2007,"4,895,000.00",117000,Petrol
+Toyota,Allion,2002,"3,600,000.00",118000,Petrol
+Toyota,Allion,2003,"3,275,000.00",120000,Petrol
+Toyota,Allion,2004,"3,290,000.00",120000,Petrol
+Toyota,Allion,2002,"3,390,000.00",120000,Petrol
+Toyota,Allion,2003,"3,450,000.00",120000,Petrol
+Toyota,Allion,2003,"3,900,000.00",120000,Petrol
+Toyota,Allion,2007,"4,250,000.00",120000,Petrol
+Toyota,Allion,2007,"4,665,000.00",120000,Petrol
+Toyota,Allion,2007,"4,850,000.00",120000,Petrol
+Toyota,Allion,2001,"3,290,000.00",121000,Petrol
+Toyota,Allion,2001,"3,480,000.00",121000,Petrol
+Toyota,Allion,2004,"4,200,000.00",124000,Petrol
+Toyota,Allion,2005,"4,275,000.00",124000,Petrol
+Toyota,Allion,2009,"4,975,000.00",124000,Petrol
+Toyota,Allion,2004,"4,250,000.00",125000,Petrol
+Toyota,Allion,2010,"5,425,000.00",126000,Petrol
+Toyota,Allion,2004,"3,650,000.00",128000,Petrol
+Toyota,Allion,2008,"3,865,000.00",130000,Petrol
+Toyota,Allion,2008,"4,875,000.00",130000,Petrol
+Toyota,Allion,2004,"3,950,000.00",133000,Petrol
+Toyota,Allion,2008,"4,175,000.00",133000,Petrol
+Toyota,Allion,2008,"4,775,000.00",133000,Petrol
+Toyota,Allion,2003,"4,300,000.00",135000,Petrol
+Toyota,Allion,2011,"4,250,000.00",137000,Petrol
+Toyota,Allion,2002,"3,440,000.00",138000,Petrol
+Toyota,Allion,2011,"5,490,000.00",138000,Petrol
+Toyota,Allion,2007,"4,600,000.00",140000,Petrol
+Toyota,Allion,2008,"4,750,000.00",140000,Petrol
+Toyota,Allion,2010,"5,375,000.00",140000,Petrol
+Toyota,Allion,2012,"6,225,000.00",140000,Petrol
+Toyota,Allion,2007,"4,975,000.00",142000,Petrol
+Toyota,Allion,2004,"3,975,000.00",144000,Petrol
+Toyota,Allion,2002,"3,490,000.00",145000,Petrol
+Toyota,Allion,2002,"3,325,000.00",146000,Petrol
+Toyota,Allion,2002,"3,460,000.00",147000,Petrol
+Toyota,Allion,2007,"5,100,000.00",152000,Petrol
+Toyota,Allion,2013,"6,150,000.00",152000,Petrol
+Toyota,Allion,2003,"3,500,000.00",153000,Petrol
+Toyota,Allion,2008,"4,290,000.00",156000,Petrol
+Toyota,Allion,2011,"5,490,000.00",160000,Petrol
+Toyota,Allion,2005,"3,840,000.00",168000,Petrol
+Toyota,Allion,2007,"4,600,000.00",170000,Petrol
+Toyota,Allion,2008,"4,995,000.00",170676,Petrol
+Toyota,Allion,2004,"3,150,000.00",180000,Petrol
+Toyota,Allion,2007,"4,250,000.00",180000,Petrol
+Toyota,Allion,2013,"4,495,000.00",190000,Petrol
+Toyota,Allion,2007,"4,000,000.00",192000,Petrol
+Toyota,Allion,2002,"3,500,000.00",200000,Petrol
+Toyota,Allion ,2018,"9,975,000.00",1000,Petrol
+Toyota,Allion ,2018,"9,580,000.00",32000,Petrol
+Toyota,Allion ,2010,"5,590,000.00",69000,Petrol
+Toyota,Allion ,2010,"5,490,000.00",82000,Petrol
+Toyota,Allion ,2006,"4,775,000.00",92000,Petrol
+Toyota,Allion 240,2004,"3,975,000.00",92000,Petrol
+Toyota,Allion 240,2003,"3,925,000.00",95000,Petrol
+Toyota,Allion 240,2006,"3,500,000.00",96000,Petrol
+Toyota,Allion 240,2005,"4,750,000.00",99000,Petrol
+Toyota,Allion 240,2006,"4,375,000.00",102000,Petrol
+Toyota,Allion 240,2004,"4,250,000.00",102500,Petrol
+Toyota,Allion 240,2002,"3,450,000.00",107960,Petrol
+Toyota,Allion 240,2007,"3,790,000.00",112000,Petrol
+Toyota,Allion 240,2003,"3,390,000.00",115000,Petrol
+Toyota,Allion 240,2003,"3,875,000.00",115000,Petrol
+Toyota,Allion 240,2003,"3,450,000.00",120000,Petrol
+Toyota,Allion 240,2003,"3,850,000.00",120000,Petrol
+Toyota,Allion 240,2004,"4,250,000.00",121000,Petrol
+Toyota,Allion 240,2003,"3,775,000.00",122600,Petrol
+Toyota,Allion 240,2005,"4,225,000.00",124000,Petrol
+Toyota,Allion 240,2005,"4,450,000.00",124000,Petrol
+Toyota,Allion 240,2003,"3,450,000.00",127000,Petrol
+Toyota,Allion 240,2003,"3,850,000.00",127000,Petrol
+Toyota,Allion 240,2006,"4,250,000.00",127000,Petrol
+Toyota,Allion 240,2005,"4,150,000.00",128000,Petrol
+Toyota,Allion 240,2002,"3,380,000.00",132000,Petrol
+Toyota,Allion 240,2003,"3,675,000.00",135000,Petrol
+Toyota,Allion 240,2003,"3,900,000.00",135000,Petrol
+Toyota,Allion 240,2007,"4,690,000.00",135000,Petrol
+Toyota,Allion 240,2002,"3,580,000.00",138000,Petrol
+Toyota,Allion 240,2007,"4,675,000.00",143000,Petrol
+Toyota,Allion 240,2002,"3,500,000.00",145000,Petrol
+Toyota,Allion 240,2001,"3,150,000.00",151000,Petrol
+Toyota,Allion 240,2002,"3,590,000.00",151000,Petrol
+Toyota,Allion 240,2002,"3,190,000.00",152547,Petrol
+Toyota,Allion 240,2002,"3,590,000.00",160000,Petrol
+Toyota,Allion 240,2004,"3,050,000.00",161300,Petrol
+Toyota,Allion 240,2009,"4,350,000.00",163000,Petrol
+Toyota,Allion 240,2001,"3,350,000.00",165000,Petrol
+Toyota,Allion 240,2006,"3,790,000.00",171000,Petrol
+Toyota,Allion 240,2007,"4,600,000.00",171000,Petrol
+Toyota,Allion 240,2007,"4,375,000.00",185000,Petrol
+Toyota,Allion 240,2002,"3,850,000.00",186000,Petrol
+Toyota,Allion 240,2002,"3,235,000.00",190000,Petrol
+Toyota,Allion 240,2003,"3,680,000.00",190006,Petrol
+Toyota,Allion 240,2002,"3,625,000.00",193000,Petrol
+Toyota,Allion 240,2007,"3,990,000.00",193000,Petrol
+Toyota,Allion 240,2007,"4,600,000.00",197000,Petrol
+Toyota,Allion 240,2003,"3,900,000.00",198000,Petrol
+Toyota,Allion 240,2003,"3,850,000.00",198500,Petrol
+Toyota,Allion 240,2005,"3,850,000.00",200000,Petrol
+Toyota,Allion 240,2002,"3,550,000.00",210000,Petrol
+Toyota,Allion 240,2002,"3,350,000.00",211255,Petrol
+Toyota,Allion 240,2002,"3,400,000.00",218000,Petrol
+Toyota,Allion 240,2006,"4,275,000.00",238000,Petrol
+Toyota,Allion 240 ,2006,"4,695,000.00",145000,Petrol
+Toyota,Allion 260,2010,"5,940,000.00",10600,Petrol
+Toyota,Allion 260,2016,"8,295,000.00",48128,Petrol
+Toyota,Allion 260,2007,"4,990,000.00",58000,Petrol
+Toyota,Allion 260,2013,"6,250,000.00",70000,Petrol
+Toyota,Allion 260,2007,"4,625,000.00",74976,Petrol
+Toyota,Allion 260,2007,"5,225,000.00",78000,Petrol
+Toyota,Allion 260,2013,"6,550,000.00",83000,Petrol
+Toyota,Allion 260,2011,"5,850,000.00",84000,Petrol
+Toyota,Allion 260,2007,"4,950,000.00",88000,Petrol
+Toyota,Allion 260,2009,"5,150,000.00",92000,Petrol
+Toyota,Allion 260,2007,"4,600,000.00",94000,Petrol
+Toyota,Allion 260,2008,"4,650,000.00",95600,Petrol
+Toyota,Allion 260,2011,"4,825,000.00",96000,Petrol
+Toyota,Allion 260,2010,"4,825,000.00",96471,Petrol
+Toyota,Allion 260,2007,"4,650,000.00",100000,Petrol
+Toyota,Allion 260,2009,"4,750,000.00",100000,Petrol
+Toyota,Allion 260,2013,"7,050,000.00",100000,Petrol
+Toyota,Allion 260,2008,"4,850,000.00",102000,Petrol
+Toyota,Allion 260,2007,"4,850,000.00",103000,Petrol
+Toyota,Allion 260,2010,"5,475,000.00",104000,Petrol
+Toyota,Allion 260,2007,"4,725,000.00",105000,Petrol
+Toyota,Allion 260,2007,"4,700,000.00",106000,Petrol
+Toyota,Allion 260,2010,"5,690,000.00",108000,Petrol
+Toyota,Allion 260,2008,"4,750,000.00",109000,Petrol
+Toyota,Allion 260,2007,"4,625,000.00",115000,Petrol
+Toyota,Allion 260,2011,"5,100,000.00",117000,Petrol
+Toyota,Allion 260,2007,"4,275,000.00",120000,Petrol
+Toyota,Allion 260,2007,"4,825,000.00",120000,Petrol
+Toyota,Allion 260,2007,"4,790,000.00",123000,Petrol
+Toyota,Allion 260,2009,"5,275,000.00",124500,Petrol
+Toyota,Allion 260,2010,"5,180,000.00",125000,Petrol
+Toyota,Allion 260,2010,"5,500,000.00",125000,Petrol
+Toyota,Allion 260,2012,"5,550,000.00",127000,Petrol
+Toyota,Allion 260,2007,"4,690,000.00",130000,Petrol
+Toyota,Allion 260,2007,"5,085,000.00",130000,Petrol
+Toyota,Allion 260,2009,"5,250,000.00",130000,Petrol
+Toyota,Allion 260,2011,"5,890,000.00",130000,Petrol
+Toyota,Allion 260,2007,"4,525,000.00",140000,Petrol
+Toyota,Allion 260,2008,"5,000,000.00",147000,Petrol
+Toyota,Allion 260,2007,"4,800,000.00",148000,Petrol
+Toyota,Allion 260,2007,"4,600,000.00",150000,Petrol
+Toyota,Allion 260,2007,"4,690,000.00",157000,Petrol
+Toyota,Allion 260,2008,"4,980,000.00",159000,Petrol
+Toyota,Allion 260,2007,"4,750,000.00",160000,Petrol
+Toyota,Allion 260,2007,"4,765,000.00",160000,Petrol
+Toyota,Allion 260,2007,"4,825,000.00",160000,Petrol
+Toyota,Allion 260,2008,"5,300,000.00",160000,Petrol
+Toyota,Allion 260,2007,"4,800,000.00",174000,Petrol
+Toyota,Allion 260,2012,"5,880,000.00",183000,Petrol
+Toyota,Allion 260,2008,"4,750,000.00",190000,Petrol
+Toyota,Allion 260,2008,"4,650,000.00",200000,Petrol
+Toyota,Allion 260,2011,"5,690,000.00",230000,Petrol
+Toyota,Aqua,2015,"4,350,000.00",5800,Hybrid
+Toyota,Aqua,2017,"5,100,000.00",15000,Petrol
+Toyota,Aqua,2015,"4,800,000.00",22000,Hybrid
+Toyota,Aqua,2013,"4,450,000.00",28000,Hybrid
+Toyota,Aqua,2015,"4,200,000.00",30000,Hybrid
+Toyota,Aqua,2018,"6,350,000.00",30400,Hybrid
+Toyota,Aqua,2015,"4,350,000.00",32000,Hybrid
+Toyota,Aqua,2015,"4,500,000.00",32000,Hybrid
+Toyota,Aqua,2015,"4,195,000.00",34000,Hybrid
+Toyota,Aqua,2014,"4,350,000.00",34300,Hybrid
+Toyota,Aqua,2015,"4,300,000.00",36000,Petrol
+Toyota,Aqua,2015,"3,750,000.00",38000,Hybrid
+Toyota,Aqua,2014,"4,875,000.00",38750,Petrol
+Toyota,Aqua,2014,"4,000,000.00",39500,Hybrid
+Toyota,Aqua,2013,"3,850,000.00",40000,Hybrid
+Toyota,Aqua,2014,"4,500,000.00",40000,Hybrid
+Toyota,Aqua,2012,"3,890,000.00",40500,Hybrid
+Toyota,Aqua,2014,"4,000,000.00",41000,Hybrid
+Toyota,Aqua,2015,"3,800,000.00",42035,Hybrid
+Toyota,Aqua,2016,"5,100,000.00",43000,Hybrid
+Toyota,Aqua,2015,"4,425,000.00",44000,Petrol
+Toyota,Aqua,2015,"4,500,000.00",45000,Hybrid
+Toyota,Aqua,2015,"4,850,000.00",45000,Petrol
+Toyota,Aqua,2017,"5,345,000.00",45000,Hybrid
+Toyota,Aqua,2014,"3,900,000.00",46000,Petrol
+Toyota,Aqua,2015,"4,450,000.00",46000,Hybrid
+Toyota,Aqua,2012,"3,075,000.00",47000,Petrol
+Toyota,Aqua,2013,"3,250,000.00",47000,Hybrid
+Toyota,Aqua,2015,"4,075,000.00",47100,Petrol
+Toyota,Aqua,2013,"3,700,000.00",47500,Hybrid
+Toyota,Aqua,2013,"3,250,000.00",48000,Hybrid
+Toyota,Aqua,2014,"4,150,000.00",53000,Petrol
+Toyota,Aqua,2015,"4,780,000.00",53300,Hybrid
+Toyota,Aqua,2015,"3,785,000.00",54000,Petrol
+Toyota,Aqua,2014,"3,675,000.00",55000,Petrol
+Toyota,Aqua,2014,"4,050,000.00",55000,Hybrid
+Toyota,Aqua,2015,"4,500,000.00",55000,Hybrid
+Toyota,Aqua,2014,"3,850,000.00",55227,Hybrid
+Toyota,Aqua,2013,"3,900,000.00",55400,Hybrid
+Toyota,Aqua,2012,"4,200,000.00",56000,Hybrid
+Toyota,Aqua,2015,"4,350,000.00",56000,Hybrid
+Toyota,Aqua,2012,"3,150,000.00",57000,Petrol
+Toyota,Aqua,2013,"3,675,000.00",57000,Hybrid
+Toyota,Aqua,2013,"3,400,000.00",58000,Petrol
+Toyota,Aqua,2013,"3,550,000.00",60000,Petrol
+Toyota,Aqua,2013,"3,800,000.00",60000,Petrol
+Toyota,Aqua,2014,"3,850,000.00",60000,Petrol
+Toyota,Aqua,2016,"4,450,000.00",60000,Petrol
+Toyota,Aqua,2012,"3,225,000.00",60100,Hybrid
+Toyota,Aqua,2013,"3,800,000.00",62000,Hybrid
+Toyota,Aqua,2014,"3,950,000.00",62000,Petrol
+Toyota,Aqua,2013,"3,975,000.00",62000,Hybrid
+Toyota,Aqua,2012,"3,200,000.00",62500,Petrol
+Toyota,Aqua,2013,"3,265,000.00",63000,Petrol
+Toyota,Aqua,2015,"4,550,000.00",63421,Hybrid
+Toyota,Aqua,2013,"3,980,000.00",63600,Hybrid
+Toyota,Aqua,2014,"3,300,000.00",64000,Hybrid
+Toyota,Aqua,2014,"3,890,000.00",64000,Petrol
+Toyota,Aqua,2014,"3,600,000.00",65000,Petrol
+Toyota,Aqua,2013,"3,850,000.00",65000,Petrol
+Toyota,Aqua,2014,"4,250,000.00",65000,Hybrid
+Toyota,Aqua,2015,"4,725,000.00",65000,Hybrid
+Toyota,Aqua,2014,"4,350,000.00",65800,Petrol
+Toyota,Aqua,2013,"3,850,000.00",66000,Hybrid
+Toyota,Aqua,2012,"3,850,000.00",66000,Hybrid
+Toyota,Aqua,2012,"3,290,000.00",67000,Hybrid
+Toyota,Aqua,2012,"3,675,000.00",67000,Hybrid
+Toyota,Aqua,2014,"4,000,000.00",68000,Hybrid
+Toyota,Aqua,2014,"3,950,000.00",68850,Petrol
+Toyota,Aqua,2012,"3,220,000.00",69000,Petrol
+Toyota,Aqua,2013,"3,300,000.00",69000,Hybrid
+Toyota,Aqua,2012,"3,475,000.00",69000,Hybrid
+Toyota,Aqua,2014,"3,550,000.00",69000,Hybrid
+Toyota,Aqua,2014,"3,800,000.00",69000,Hybrid
+Toyota,Aqua,2014,"4,650,000.00",69000,Hybrid
+Toyota,Aqua,2013,"3,895,000.00",69266,Petrol
+Toyota,Aqua,2013,"3,250,000.00",70000,Petrol
+Toyota,Aqua,2013,"3,450,000.00",70000,Hybrid
+Toyota,Aqua,2013,"3,500,000.00",70000,Petrol
+Toyota,Aqua,2012,"3,050,000.00",71000,Petrol
+Toyota,Aqua,2014,"4,050,000.00",71000,Petrol
+Toyota,Aqua,2014,"3,485,000.00",72000,Hybrid
+Toyota,Aqua,2013,"3,750,000.00",72000,Hybrid
+Toyota,Aqua,2013,"3,825,000.00",72000,Petrol
+Toyota,Aqua,2013,"3,490,000.00",73900,Petrol
+Toyota,Aqua,2013,"2,980,000.00",74000,Petrol
+Toyota,Aqua,2013,"3,260,000.00",74000,Hybrid
+Toyota,Aqua,2014,"3,500,000.00",74000,Petrol
+Toyota,Aqua,2013,"3,890,000.00",74000,Hybrid
+Toyota,Aqua,2014,"3,275,000.00",74450,Hybrid
+Toyota,Aqua,2014,"3,400,000.00",75000,Petrol
+Toyota,Aqua,2015,"3,650,000.00",75400,Petrol
+Toyota,Aqua,2012,"3,100,000.00",76000,Hybrid
+Toyota,Aqua,2012,"3,450,000.00",76000,Petrol
+Toyota,Aqua,2012,"3,550,000.00",76000,Hybrid
+Toyota,Aqua,2014,"3,585,000.00",76000,Petrol
+Toyota,Aqua,2014,"3,775,000.00",76000,Hybrid
+Toyota,Aqua,2013,"3,600,000.00",77000,Hybrid
+Toyota,Aqua,2013,"3,700,000.00",77000,Petrol
+Toyota,Aqua,2013,"4,500,000.00",77000,Petrol
+Toyota,Aqua,2014,"3,300,000.00",78000,Hybrid
+Toyota,Aqua,2012,"3,550,000.00",78000,Petrol
+Toyota,Aqua,2014,"3,675,000.00",78000,Electric
+Toyota,Aqua,2014,"3,690,000.00",78000,Hybrid
+Toyota,Aqua,2013,"3,850,000.00",78000,Hybrid
+Toyota,Aqua,2013,"3,850,000.00",78000,Petrol
+Toyota,Aqua,2014,"3,500,000.00",78200,Hybrid
+Toyota,Aqua,2013,"3,375,000.00",79000,Petrol
+Toyota,Aqua,2012,"3,390,000.00",79000,Hybrid
+Toyota,Aqua,2012,"3,475,000.00",79000,Hybrid
+Toyota,Aqua,2014,"3,950,000.00",79000,Hybrid
+Toyota,Aqua,2012,"3,200,000.00",80000,Hybrid
+Toyota,Aqua,2013,"3,280,000.00",80000,Petrol
+Toyota,Aqua,2012,"3,280,000.00",80000,Hybrid
+Toyota,Aqua,2012,"3,400,000.00",80000,Petrol
+Toyota,Aqua,2014,"3,590,000.00",80000,Hybrid
+Toyota,Aqua,2015,"3,850,000.00",80000,Hybrid
+Toyota,Aqua,2014,"3,925,000.00",80000,Hybrid
+Toyota,Aqua,2015,"4,500,000.00",80000,Petrol
+Toyota,Aqua,2014,"3,550,000.00",80500,Hybrid
+Toyota,Aqua,2013,"3,500,000.00",81000,Petrol
+Toyota,Aqua,2015,"3,550,000.00",81000,Petrol
+Toyota,Aqua,2013,"3,850,000.00",81000,Hybrid
+Toyota,Aqua,2012,"3,575,000.00",81250,Hybrid
+Toyota,Aqua,2014,"3,425,000.00",81550,Hybrid
+Toyota,Aqua,2013,"3,300,000.00",82000,Petrol
+Toyota,Aqua,2013,"3,100,000.00",82500,Hybrid
+Toyota,Aqua,2013,"3,650,000.00",82600,Hybrid
+Toyota,Aqua,2012,"3,450,000.00",82700,Petrol
+Toyota,Aqua,2012,"3,475,000.00",82833,Hybrid
+Toyota,Aqua,2013,"3,200,000.00",83000,Petrol
+Toyota,Aqua,2013,"3,285,000.00",83000,Petrol
+Toyota,Aqua,2013,"3,400,000.00",83000,Hybrid
+Toyota,Aqua,2012,"3,690,000.00",83000,Petrol
+Toyota,Aqua,2013,"3,465,000.00",83300,Hybrid
+Toyota,Aqua,2014,"3,790,000.00",84000,Hybrid
+Toyota,Aqua,2014,"3,475,000.00",84500,Hybrid
+Toyota,Aqua,2012,"3,525,000.00",85000,Hybrid
+Toyota,Aqua,2014,"3,550,000.00",85000,Hybrid
+Toyota,Aqua,2013,"3,585,000.00",85000,Petrol
+Toyota,Aqua,2012,"3,820,000.00",85000,Petrol
+Toyota,Aqua,2014,"3,980,000.00",85440,Hybrid
+Toyota,Aqua,2013,"3,840,000.00",86000,Hybrid
+Toyota,Aqua,2014,"3,850,000.00",86000,Hybrid
+Toyota,Aqua,2013,"3,975,000.00",86000,Hybrid
+Toyota,Aqua,2012,"3,250,000.00",87000,Hybrid
+Toyota,Aqua,2013,"3,450,000.00",87000,Petrol
+Toyota,Aqua,2013,"3,650,000.00",87000,Petrol
+Toyota,Aqua,2015,"3,750,000.00",87000,Hybrid
+Toyota,Aqua,2012,"2,935,000.00",88000,Petrol
+Toyota,Aqua,2014,"3,600,000.00",88000,Petrol
+Toyota,Aqua,2012,"3,625,000.00",88000,Hybrid
+Toyota,Aqua,2014,"3,650,000.00",88000,Hybrid
+Toyota,Aqua,2013,"3,775,000.00",88000,Petrol
+Toyota,Aqua,2013,"3,790,000.00",88000,Hybrid
+Toyota,Aqua,2014,"3,950,000.00",88000,Petrol
+Toyota,Aqua,2015,"4,000,000.00",88000,Hybrid
+Toyota,Aqua,2014,"3,390,000.00",88350,Hybrid
+Toyota,Aqua,2012,"3,325,000.00",88500,Hybrid
+Toyota,Aqua,2013,"3,390,000.00",89000,Hybrid
+Toyota,Aqua,2013,"3,890,000.00",89000,Hybrid
+Toyota,Aqua,2012,"3,195,000.00",89600,Hybrid
+Toyota,Aqua,2012,"2,990,000.00",90000,Petrol
+Toyota,Aqua,2012,"3,400,000.00",90000,Hybrid
+Toyota,Aqua,2013,"3,650,000.00",90000,Hybrid
+Toyota,Aqua,2013,"3,400,000.00",90100,Petrol
+Toyota,Aqua,2012,"3,050,000.00",91000,Hybrid
+Toyota,Aqua,2014,"3,850,000.00",91000,Hybrid
+Toyota,Aqua,2012,"2,990,000.00",92000,Petrol
+Toyota,Aqua,2013,"3,700,000.00",92000,Hybrid
+Toyota,Aqua,2013,"3,800,000.00",92000,Petrol
+Toyota,Aqua,2014,"3,970,000.00",92000,Hybrid
+Toyota,Aqua,2013,"2,850,000.00",94000,Hybrid
+Toyota,Aqua,2012,"3,495,000.00",94200,Hybrid
+Toyota,Aqua,2012,"3,400,000.00",94464,Hybrid
+Toyota,Aqua,2013,"3,225,000.00",95000,Petrol
+Toyota,Aqua,2013,"2,900,000.00",96000,Petrol
+Toyota,Aqua,2014,"3,625,000.00",96000,Hybrid
+Toyota,Aqua,2014,"3,875,000.00",96000,Hybrid
+Toyota,Aqua,2012,"3,490,000.00",97000,Hybrid
+Toyota,Aqua,2013,"3,320,000.00",98000,Petrol
+Toyota,Aqua,2013,"3,375,000.00",98000,Hybrid
+Toyota,Aqua,2012,"3,825,000.00",98000,Hybrid
+Toyota,Aqua,2012,"2,990,000.00",98400,Petrol
+Toyota,Aqua,2013,"3,200,000.00",99000,Hybrid
+Toyota,Aqua,2013,"3,385,000.00",99324,Hybrid
+Toyota,Aqua,2012,"2,800,000.00",100000,Hybrid
+Toyota,Aqua,2012,"3,200,000.00",100000,Hybrid
+Toyota,Aqua,2013,"3,375,000.00",100150,Petrol
+Toyota,Aqua,2012,"3,950,000.00",100200,Hybrid
+Toyota,Aqua,2013,"3,050,000.00",102000,Hybrid
+Toyota,Aqua,2012,"3,425,000.00",105000,Hybrid
+Toyota,Aqua,2013,"3,600,000.00",105000,Hybrid
+Toyota,Aqua,2013,"3,480,000.00",107000,Hybrid
+Toyota,Aqua,2012,"3,495,000.00",107000,Hybrid
+Toyota,Aqua,2012,"3,650,000.00",107000,Hybrid
+Toyota,Aqua,2012,"3,700,000.00",109000,Petrol
+Toyota,Aqua,2015,"3,775,000.00",110000,Hybrid
+Toyota,Aqua,2012,"2,850,000.00",111200,Petrol
+Toyota,Aqua,2013,"3,200,000.00",112000,Hybrid
+Toyota,Aqua,2012,"3,275,000.00",112000,Hybrid
+Toyota,Aqua,2012,"3,450,000.00",115000,Hybrid
+Toyota,Aqua,2013,"3,485,000.00",115308,Hybrid
+Toyota,Aqua,2012,"3,375,000.00",116000,Hybrid
+Toyota,Aqua,2012,"2,850,000.00",117000,Petrol
+Toyota,Aqua,2012,"3,500,000.00",119000,Petrol
+Toyota,Aqua,2013,"3,375,000.00",120000,Hybrid
+Toyota,Aqua,2012,"3,400,000.00",120000,Petrol
+Toyota,Aqua,2012,"3,600,000.00",120000,Hybrid
+Toyota,Aqua,2013,"3,425,000.00",132000,Hybrid
+Toyota,Aqua,2013,"3,400,000.00",135000,Hybrid
+Toyota,Aqua,2012,"3,490,000.00",140000,Hybrid
+Toyota,Aqua,2012,"3,350,000.00",144000,Hybrid
+Toyota,Aqua,2013,"3,515,000.00",145000,Hybrid
+Toyota,Aqua,2012,"3,550,000.00",145000,Petrol
+Toyota,Aqua,2012,"3,150,000.00",153000,Hybrid
+Toyota,Aqua,2012,"3,450,000.00",159000,Hybrid
+Toyota,Aqua,2012,"3,390,000.00",166300,Petrol
+Toyota,Aqua,2013,"3,250,000.00",182000,Hybrid
+Toyota,Aqua,2012,"3,625,000.00",220000,Hybrid
+Toyota,Aqua G Grade,2015,"3,750,000.00",7900,Hybrid
+Toyota,Aqua G Grade,2018,"4,850,000.00",15870,Hybrid
+Toyota,Aqua G Grade,2012,"3,590,000.00",40000,Petrol
+Toyota,Aqua G Grade,2012,"3,500,000.00",45000,Petrol
+Toyota,Aqua G Grade,2013,"3,990,000.00",46000,Hybrid
+Toyota,Aqua G Grade,2014,"3,875,000.00",50680,Hybrid
+Toyota,Aqua G Grade,2015,"3,800,000.00",51500,Hybrid
+Toyota,Aqua G grade,2017,"3,850,000.00",53100,Petrol
+Toyota,Aqua G Grade,2013,"3,990,000.00",62000,Hybrid
+Toyota,Aqua G Grade,2014,"3,850,000.00",64500,Hybrid
+Toyota,Aqua G Grade,2012,"3,650,000.00",64567,Petrol
+Toyota,Aqua G Grade,2014,"3,550,000.00",65395,Hybrid
+Toyota,Aqua G Grade,2013,"3,875,000.00",66000,Hybrid
+Toyota,Aqua G Grade,2012,"3,690,000.00",67000,Hybrid
+Toyota,Aqua G Grade,2013,"3,500,000.00",68000,Hybrid
+Toyota,Aqua G Grade,2013,"3,600,000.00",68000,Hybrid
+Toyota,Aqua G Grade,2013,"3,775,000.00",68000,Petrol
+Toyota,Aqua G Grade,2012,"3,650,000.00",69500,Petrol
+Toyota,Aqua G Grade,2012,"3,550,000.00",71000,Hybrid
+Toyota,Aqua G Grade,2013,"3,375,000.00",74600,Hybrid
+Toyota,Aqua G Grade,2012,"3,050,000.00",75000,Hybrid
+Toyota,Aqua G Grade,2013,"3,790,000.00",76000,Hybrid
+Toyota,Aqua G Grade,2012,"3,575,000.00",78000,Hybrid
+Toyota,Aqua G Grade,2012,"3,190,000.00",80000,Hybrid
+Toyota,Aqua G Grade,2014,"3,840,000.00",80000,Hybrid
+Toyota,Aqua G Grade,2014,"4,050,000.00",80000,Hybrid
+Toyota,Aqua G Grade,2012,"3,375,000.00",82000,Hybrid
+Toyota,Aqua G Grade,2013,"3,590,000.00",83000,Hybrid
+Toyota,Aqua G Grade,2014,"3,650,000.00",83000,Petrol
+Toyota,Aqua G Grade,2014,"3,625,000.00",86000,Hybrid
+Toyota,Aqua G Grade,2013,"3,975,000.00",88000,Hybrid
+Toyota,Aqua G Grade,2012,"2,900,000.00",90000,Hybrid
+Toyota,Aqua G Grade,2013,"3,975,000.00",90000,Hybrid
+Toyota,Aqua G Grade,2012,"3,185,000.00",92000,Hybrid
+Toyota,Aqua G Grade,2014,"3,575,000.00",92000,Hybrid
+Toyota,Aqua G Grade,2012,"3,750,000.00",92000,Hybrid
+Toyota,Aqua G Grade,2014,"3,985,000.00",92000,Hybrid
+Toyota,Aqua G Grade,2013,"3,980,000.00",98500,Petrol
+Toyota,Aqua G Grade,2014,"3,590,000.00",99000,Hybrid
+Toyota,Aqua G Grade,2014,"3,950,000.00",99500,Hybrid
+Toyota,Aqua G Grade,2013,"3,200,000.00",100000,Hybrid
+Toyota,Aqua G Grade,2012,"3,675,000.00",118000,Petrol
+Toyota,Aqua G Grade,2012,"3,100,000.00",121000,Hybrid
+Toyota,Aqua G Grade,2012,"3,590,000.00",127000,Hybrid
+Toyota,Aqua G Sport,2014,"4,725,000.00",50000,Hybrid
+Toyota,Aqua G Sport,2014,"5,300,000.00",53000,Hybrid
+Toyota,Aqua G Sport,2014,"5,250,000.00",53156,Petrol
+Toyota,Aqua G Sport,2015,"5,175,000.00",58000,Hybrid
+Toyota,Aqua G Sport,2014,"4,950,000.00",58500,Petrol
+Toyota,Aqua G Sport,2014,"4,750,000.00",61200,Hybrid
+Toyota,Aqua G Sport,2014,"4,900,000.00",65000,Hybrid
+Toyota,Aqua G Sport,2014,"5,050,000.00",71000,Hybrid
+Toyota,Aqua G Sport,2015,"5,150,000.00",73000,Petrol
+Toyota,Aqua G Sport,2014,"4,525,000.00",75000,Hybrid
+Toyota,Aqua G Sport,2014,"4,675,000.00",83000,Hybrid
+Toyota,Aqua G Sport,2013,"4,200,000.00",92000,Hybrid
+Toyota,Aqua S Grade,2017,"5,850,000.00",17000,Hybrid
+Toyota,Aqua S Grade,2015,"4,275,000.00",52300,Hybrid
+Toyota,Aqua S Grade,2014,"3,310,000.00",54000,Petrol
+Toyota,Aqua S Grade,2014,"3,700,000.00",60000,Petrol
+Toyota,Aqua S Grade,2013,"3,400,000.00",61632,Hybrid
+Toyota,Aqua S Grade,2012,"3,625,000.00",66000,Petrol
+Toyota,Aqua S Grade,2012,"3,275,000.00",67500,Hybrid
+Toyota,Aqua S Grade,2012,"3,660,000.00",68000,Petrol
+Toyota,Aqua S Grade,2014,"3,685,000.00",70000,Hybrid
+Toyota,Aqua S Grade,2014,"3,795,000.00",75000,Hybrid
+Toyota,Aqua S Grade,2012,"2,895,000.00",76000,Petrol
+Toyota,Aqua S Grade,2016,"4,975,000.00",77600,Hybrid
+Toyota,Aqua S Grade,2012,"3,175,000.00",78000,Petrol
+Toyota,Aqua S Grade,2012,"3,475,000.00",78000,Hybrid
+Toyota,Aqua S Grade,2012,"3,565,000.00",78000,Hybrid
+Toyota,Aqua S Grade,2012,"3,600,000.00",82000,Hybrid
+Toyota,Aqua S Grade,2014,"4,075,000.00",83400,Petrol
+Toyota,Aqua S Grade,2012,"3,465,000.00",87800,Hybrid
+Toyota,Aqua S Grade,2012,"3,025,000.00",92000,Petrol
+Toyota,Aqua S Grade,2013,"3,125,000.00",92000,Petrol
+Toyota,Aqua S Grade,2015,"4,340,000.00",92000,Hybrid
+Toyota,Aqua S Grade,2012,"3,350,000.00",93000,Petrol
+Toyota,Aqua S Grade,2012,"3,295,000.00",96000,Hybrid
+Toyota,Aqua S Grade,2012,"3,325,000.00",98000,Hybrid
+Toyota,Aqua S Grade,2014,"3,990,000.00",98000,Hybrid
+Toyota,Aqua S Grade,2013,"3,675,000.00",107000,Hybrid
+Toyota,Aqua S Grade,2012,"3,150,000.00",120000,Petrol
+Toyota,Aqua S Grade,2013,"3,550,000.00",130000,Petrol
+Toyota,Aqua S Grade,2012,"3,575,000.00",144500,Hybrid
+Toyota,Aqua X Urban,2015,"6,500,000.00",9000,Hybrid
+Toyota,Aqua X Urban,2015,"5,390,000.00",29000,Hybrid
+Toyota,Aqua X Urban,2016,"6,500,000.00",29000,Hybrid
+Toyota,Aqua X Urban,2015,"5,200,000.00",30000,Hybrid
+Toyota,Aqua X Urban,2015,"4,550,000.00",35000,Petrol
+Toyota,Aqua X Urban,2015,"4,925,000.00",40400,Hybrid
+Toyota,Aqua X Urban,2015,"4,550,000.00",52600,Petrol
+Toyota,Aqua X Urban,2015,"4,600,000.00",58000,Hybrid
+Toyota,Aqua X Urban,2015,"4,650,000.00",58000,Hybrid
+Toyota,Aqua X Urban,2015,"3,650,000.00",60000,Hybrid
+Toyota,Aqua X Urban,2015,"4,875,000.00",60000,Hybrid
+Toyota,Aqua X Urban,2015,"3,900,000.00",71300,Hybrid
+Toyota,Aqua X Urban,2015,"4,675,000.00",75876,Petrol
+Toyota,Aqua X Urban,2015,"4,575,000.00",80000,Hybrid
+Toyota,Aqua X Urban,2015,"4,620,000.00",80000,Hybrid
+Toyota,Aqua X Urban,2015,"4,400,000.00",85000,Hybrid
+Toyota,Aqua X Urban,2015,"4,675,000.00",87000,Hybrid
+Toyota,Aqua X Urban,2015,"4,650,000.00",89000,Hybrid
+Toyota,Aqua X Urban,2015,"4,690,000.00",93000,Petrol
+Toyota,Avanza,2012,"4,400,000.00",28000,Petrol
+Toyota,Avanza,2012,"4,200,000.00",48000,Petrol
+Toyota,Avanza,2014,"5,250,000.00",61000,Petrol
+Toyota,Avanza,2011,"3,200,000.00",61043,Petrol
+Toyota,Avanza,2011,"2,900,000.00",64000,Petrol
+Toyota,Avanza,2012,"4,025,000.00",71000,Petrol
+Toyota,Avanza,2011,"3,150,000.00",80000,Petrol
+Toyota,Avanza,2007,"3,325,000.00",88800,Petrol
+Toyota,Avanza,2012,"4,150,000.00",102000,Petrol
+Toyota,Avanza,2010,"3,175,000.00",103000,Petrol
+Toyota,Avanza,2010,"3,275,000.00",103000,Petrol
+Toyota,Avanza,2008,"2,985,000.00",108300,Petrol
+Toyota,Avanza,2011,"3,150,000.00",126000,Petrol
+Toyota,Avanza,2012,"4,090,000.00",145000,Petrol
+Toyota,Axio,2019,"8,350,000.00",1200,Hybrid
+Toyota,Axio,2018,"7,300,000.00",3751,Hybrid
+Toyota,Axio,2017,"6,785,000.00",9000,Hybrid
+Toyota,Axio,2015,"5,225,000.00",10100,Hybrid
+Toyota,Axio,2018,"6,850,000.00",11000,Petrol
+Toyota,Axio,2015,"5,475,000.00",13000,Hybrid
+Toyota,Axio,2017,"6,300,000.00",15000,Hybrid
+Toyota,Axio,2018,"6,400,000.00",15807,Hybrid
+Toyota,Axio,2017,"5,645,000.00",19300,Hybrid
+Toyota,Axio,2017,"5,675,000.00",19750,Petrol
+Toyota,Axio,2017,"5,690,000.00",23100,Hybrid
+Toyota,Axio,2016,"5,200,000.00",26000,Hybrid
+Toyota,Axio,2017,"7,000,000.00",27000,Hybrid
+Toyota,Axio,2016,"6,250,000.00",29000,Hybrid
+Toyota,Axio,2015,"5,500,000.00",30000,Hybrid
+Toyota,Axio,2016,"5,480,000.00",32000,Hybrid
+Toyota,Axio,2016,"5,475,000.00",35400,Hybrid
+Toyota,Axio,2016,"5,650,000.00",36000,Hybrid
+Toyota,Axio,2016,"5,750,000.00",36000,Petrol
+Toyota,Axio,2017,"5,875,000.00",36000,Hybrid
+Toyota,Axio,2018,"7,700,000.00",38000,Petrol
+Toyota,Axio,2015,"5,550,000.00",39000,Petrol
+Toyota,Axio,2014,"4,745,000.00",40000,Petrol
+Toyota,Axio,2016,"5,550,000.00",40000,Hybrid
+Toyota,Axio,2014,"4,390,000.00",41000,Hybrid
+Toyota,Axio,2015,"5,300,000.00",41000,Petrol
+Toyota,Axio,2016,"5,600,000.00",41000,Petrol
+Toyota,Axio,2016,"5,800,000.00",41000,Petrol
+Toyota,Axio,2015,"5,250,000.00",41500,Hybrid
+Toyota,Axio,2015,"6,250,000.00",44000,Hybrid
+Toyota,Axio,2016,"5,625,000.00",44256,Hybrid
+Toyota,Axio,2014,"4,750,000.00",45000,Hybrid
+Toyota,Axio,2017,"6,675,000.00",45000,Petrol
+Toyota,Axio,2016,"5,900,000.00",45560,Petrol
+Toyota,Axio,2016,"5,325,000.00",47000,Hybrid
+Toyota,Axio,2016,"5,825,000.00",48000,Hybrid
+Toyota,Axio,2016,"5,240,000.00",49000,Hybrid
+Toyota,Axio,2014,"4,500,000.00",49850,Hybrid
+Toyota,Axio,2015,"4,825,000.00",50000,Hybrid
+Toyota,Axio,2017,"5,800,000.00",50000,Hybrid
+Toyota,Axio,2015,"4,975,000.00",51000,Petrol
+Toyota,Axio,2015,"4,950,000.00",52000,Hybrid
+Toyota,Axio,2015,"5,525,000.00",52000,Hybrid
+Toyota,Axio,2011,"4,175,000.00",53000,Petrol
+Toyota,Axio,2016,"5,475,000.00",53000,Hybrid
+Toyota,Axio,2016,"5,550,000.00",53000,Hybrid
+Toyota,Axio,2015,"4,375,000.00",54000,Hybrid
+Toyota,Axio,2015,"4,700,000.00",54000,Petrol
+Toyota,Axio,2016,"5,850,000.00",54600,Hybrid
+Toyota,Axio,2018,"6,500,000.00",55000,Petrol
+Toyota,Axio,2013,"4,275,000.00",57000,Hybrid
+Toyota,Axio,2014,"4,950,000.00",57000,Hybrid
+Toyota,Axio,2015,"5,550,000.00",57000,Hybrid
+Toyota,Axio,2015,"5,650,000.00",57000,Hybrid
+Toyota,Axio,2014,"5,200,000.00",58046,Hybrid
+Toyota,Axio,2016,"5,525,000.00",59000,Hybrid
+Toyota,Axio,2015,"5,200,000.00",59200,Hybrid
+Toyota,Axio,2015,"4,990,000.00",60000,Petrol
+Toyota,Axio,2017,"5,675,000.00",60000,Hybrid
+Toyota,Axio,2015,"4,525,000.00",61000,Hybrid
+Toyota,Axio,2015,"5,050,000.00",61000,Hybrid
+Toyota,Axio,2016,"5,790,000.00",61000,Hybrid
+Toyota,Axio,2014,"4,600,000.00",62000,Hybrid
+Toyota,Axio,2013,"4,050,000.00",63000,Hybrid
+Toyota,Axio,2013,"4,400,000.00",63000,Hybrid
+Toyota,Axio,2014,"4,650,000.00",63100,Hybrid
+Toyota,Axio,2015,"5,300,000.00",64000,Hybrid
+Toyota,Axio,2013,"4,700,000.00",65000,Hybrid
+Toyota,Axio,2010,"4,850,000.00",65000,Petrol
+Toyota,Axio,2015,"5,300,000.00",65000,Hybrid
+Toyota,Axio,2015,"5,450,000.00",65000,Petrol
+Toyota,Axio,2015,"5,600,000.00",65000,Hybrid
+Toyota,Axio,2017,"5,825,000.00",65000,Petrol
+Toyota,Axio,2016,"6,250,000.00",65000,Hybrid
+Toyota,Axio,2015,"5,200,000.00",66000,Hybrid
+Toyota,Axio,2009,"4,075,000.00",67000,Petrol
+Toyota,Axio,2014,"4,450,000.00",67000,Hybrid
+Toyota,Axio,2016,"5,685,000.00",67000,Hybrid
+Toyota,Axio,2014,"4,350,000.00",68000,Hybrid
+Toyota,Axio,2014,"4,450,000.00",68000,Hybrid
+Toyota,Axio,2015,"5,350,000.00",68400,Hybrid
+Toyota,Axio,2014,"4,675,000.00",69000,Hybrid
+Toyota,Axio,2013,"4,490,000.00",70000,Hybrid
+Toyota,Axio,2015,"4,825,000.00",70000,Hybrid
+Toyota,Axio,2014,"4,850,000.00",71000,Hybrid
+Toyota,Axio,2013,"4,695,000.00",72000,Hybrid
+Toyota,Axio,2015,"5,550,000.00",73000,Hybrid
+Toyota,Axio,2016,"5,300,000.00",73200,Hybrid
+Toyota,Axio,2017,"6,950,000.00",73500,Hybrid
+Toyota,Axio,2013,"4,350,000.00",74000,Hybrid
+Toyota,Axio,2016,"5,825,000.00",74000,Petrol
+Toyota,Axio,2015,"4,900,000.00",75000,Petrol
+Toyota,Axio,2015,"5,325,000.00",75500,Hybrid
+Toyota,Axio,2014,"4,750,000.00",76000,Hybrid
+Toyota,Axio,2013,"4,350,000.00",76500,Hybrid
+Toyota,Axio,2015,"4,750,000.00",76500,Hybrid
+Toyota,Axio,2016,"5,750,000.00",76500,Hybrid
+Toyota,Axio,2015,"5,250,000.00",77350,Hybrid
+Toyota,Axio,2010,"4,175,000.00",77553,Petrol
+Toyota,Axio,2015,"4,850,000.00",78000,Hybrid
+Toyota,Axio,2015,"5,000,000.00",78000,Hybrid
+Toyota,Axio,2015,"5,090,000.00",78000,Petrol
+Toyota,Axio,2016,"5,175,000.00",78000,Hybrid
+Toyota,Axio,2011,"4,350,000.00",79000,Petrol
+Toyota,Axio,2015,"4,950,000.00",79000,Hybrid
+Toyota,Axio,2014,"4,450,000.00",80000,Hybrid
+Toyota,Axio,2013,"4,500,000.00",80000,Hybrid
+Toyota,Axio,2014,"4,700,000.00",80000,Hybrid
+Toyota,Axio,2014,"4,750,000.00",80000,Petrol
+Toyota,Axio,2015,"5,100,000.00",80000,Hybrid
+Toyota,Axio,2015,"5,375,000.00",80000,Hybrid
+Toyota,Axio,2015,"5,490,000.00",80500,Hybrid
+Toyota,Axio,2007,"3,925,000.00",81000,Petrol
+Toyota,Axio,2014,"4,750,000.00",81000,Hybrid
+Toyota,Axio,2015,"5,600,000.00",81000,Hybrid
+Toyota,Axio,2015,"5,390,000.00",82000,Hybrid
+Toyota,Axio,2013,"4,225,000.00",83000,Hybrid
+Toyota,Axio,2016,"4,975,000.00",84000,Hybrid
+Toyota,Axio,2015,"5,440,000.00",84000,Hybrid
+Toyota,Axio,2015,"5,475,000.00",84000,Hybrid
+Toyota,Axio,2016,"5,675,000.00",84000,Hybrid
+Toyota,Axio,2015,"4,950,000.00",85000,Hybrid
+Toyota,Axio,2015,"4,995,000.00",85000,Hybrid
+Toyota,Axio,2013,"4,100,000.00",86000,Hybrid
+Toyota,Axio,2014,"4,950,000.00",87000,Petrol
+Toyota,Axio,2015,"5,275,000.00",87000,Hybrid
+Toyota,Axio,2015,"5,400,000.00",87000,Hybrid
+Toyota,Axio,2015,"5,490,000.00",87000,Hybrid
+Toyota,Axio,2010,"4,090,000.00",88000,Petrol
+Toyota,Axio,2008,"4,090,000.00",88000,Petrol
+Toyota,Axio,2008,"4,190,000.00",88000,Diesel
+Toyota,Axio,2013,"4,500,000.00",88000,Hybrid
+Toyota,Axio,2015,"5,335,000.00",88200,Hybrid
+Toyota,Axio,2013,"5,000,000.00",88500,Petrol
+Toyota,Axio,2008,"4,000,000.00",89000,Petrol
+Toyota,Axio,2015,"5,125,000.00",89000,Petrol
+Toyota,Axio,2014,"4,525,000.00",90000,Hybrid
+Toyota,Axio,2014,"4,700,000.00",90000,Hybrid
+Toyota,Axio,2015,"5,750,000.00",90000,Petrol
+Toyota,Axio,2017,"5,825,000.00",90000,Hybrid
+Toyota,Axio,2015,"4,900,000.00",91000,Petrol
+Toyota,Axio,2008,"4,185,000.00",92000,Hybrid
+Toyota,Axio,2008,"4,190,000.00",92000,Petrol
+Toyota,Axio,2013,"4,535,000.00",92000,Hybrid
+Toyota,Axio,2015,"5,000,000.00",92000,Hybrid
+Toyota,Axio,2014,"4,475,000.00",92200,Hybrid
+Toyota,Axio,2014,"4,450,000.00",94000,Hybrid
+Toyota,Axio,2015,"5,050,000.00",96000,Hybrid
+Toyota,Axio,2016,"4,270,000.00",97000,Hybrid
+Toyota,Axio,2014,"4,475,000.00",97219,Petrol
+Toyota,Axio,2015,"5,200,000.00",98000,Petrol
+Toyota,Axio,2014,"4,400,000.00",99000,Hybrid
+Toyota,Axio,2015,"5,325,000.00",99000,Petrol
+Toyota,Axio,2007,"4,075,000.00",100000,Petrol
+Toyota,Axio,2013,"4,300,000.00",100000,Hybrid
+Toyota,Axio,2014,"4,500,000.00",100000,Hybrid
+Toyota,Axio,2014,"4,900,000.00",100000,Hybrid
+Toyota,Axio,2008,"3,700,000.00",100500,Petrol
+Toyota,Axio,2011,"4,690,000.00",103450,Petrol
+Toyota,Axio,2013,"4,125,000.00",105000,Hybrid
+Toyota,Axio,2013,"4,700,000.00",105305,Hybrid
+Toyota,Axio,2008,"4,075,000.00",106000,Petrol
+Toyota,Axio,2008,"4,150,000.00",106000,Petrol
+Toyota,Axio,2007,"3,800,000.00",107000,Petrol
+Toyota,Axio,2008,"4,190,000.00",107000,Petrol
+Toyota,Axio,2007,"4,150,000.00",108000,Petrol
+Toyota,Axio,2013,"4,150,000.00",108000,Petrol
+Toyota,Axio,2007,"4,250,000.00",109000,Petrol
+Toyota,Axio,2008,"3,850,000.00",111000,Petrol
+Toyota,Axio,2007,"3,975,000.00",116000,Petrol
+Toyota,Axio,2007,"4,075,000.00",116000,Petrol
+Toyota,Axio,2007,"4,025,000.00",118000,Petrol
+Toyota,Axio,2007,"3,725,000.00",120000,Petrol
+Toyota,Axio,2011,"4,150,000.00",120000,Petrol
+Toyota,Axio,2008,"3,925,000.00",120180,Petrol
+Toyota,Axio,2007,"4,350,000.00",123000,Petrol
+Toyota,Axio,2007,"4,080,000.00",127000,Petrol
+Toyota,Axio,2009,"4,175,000.00",128853,Petrol
+Toyota,Axio,2013,"4,200,000.00",130000,Petrol
+Toyota,Axio,2008,"4,300,000.00",130000,Petrol
+Toyota,Axio,2007,"4,300,000.00",130000,Petrol
+Toyota,Axio,2007,"4,175,000.00",133250,Petrol
+Toyota,Axio,2007,"3,975,000.00",134000,Petrol
+Toyota,Axio,2008,"4,195,000.00",134304,Petrol
+Toyota,Axio,2007,"3,550,000.00",135000,Petrol
+Toyota,Axio,2007,"3,950,000.00",135000,Petrol
+Toyota,Axio,2007,"4,375,000.00",136185,Petrol
+Toyota,Axio,2007,"4,225,000.00",140000,Petrol
+Toyota,Axio,2007,"3,975,000.00",147520,Petrol
+Toyota,Axio,2008,"3,500,000.00",148000,Petrol
+Toyota,Axio,2007,"3,950,000.00",149000,Petrol
+Toyota,Axio,2007,"4,000,000.00",149000,Petrol
+Toyota,Axio,2009,"4,150,000.00",152632,Petrol
+Toyota,Axio,2007,"4,350,000.00",157200,Petrol
+Toyota,Axio,2007,"3,990,000.00",159000,Petrol
+Toyota,Axio,2008,"4,190,000.00",160000,Petrol
+Toyota,Axio,2010,"3,950,000.00",165200,Petrol
+Toyota,Axio,2007,"4,150,000.00",166000,Petrol
+Toyota,Axio,2014,"3,875,000.00",178000,Petrol
+Toyota,Axio,2009,"4,190,000.00",235000,Petrol
+Toyota,Axio Fielder,2018,"7,000,000.00",26000,Hybrid
+Toyota,Axio Fielder,2015,"4,375,000.00",60568,Petrol
+Toyota,Axio Fielder,2015,"5,500,000.00",73000,Petrol
+Toyota,Axio Fielder,2015,"4,290,000.00",90255,Hybrid
+Toyota,Axio Fielder,2014,"5,250,000.00",108000,Hybrid
+Toyota,Axio Fielder,2007,"2,975,000.00",118000,Petrol
+Toyota,Axio Fielder,2008,"3,575,000.00",135000,Petrol
+Toyota,Axio Fielder,2014,"4,450,000.00",145000,Hybrid
+Toyota,Axio G Grade,2018,"7,375,000.00",17000,Hybrid
+Toyota,Axio G Grade,2018,"6,800,000.00",25000,Petrol
+Toyota,Axio G Grade,2016,"5,800,000.00",31000,Hybrid
+Toyota,Axio G Grade,2014,"4,500,000.00",35000,Hybrid
+Toyota,Axio G Grade,2016,"6,200,000.00",39000,Hybrid
+Toyota,Axio G Grade,2014,"4,420,000.00",41000,Hybrid
+Toyota,Axio G Grade,2016,"5,500,000.00",41000,Petrol
+Toyota,Axio G Grade,2017,"6,190,000.00",44000,Hybrid
+Toyota,Axio G Grade,2016,"5,850,000.00",52000,Hybrid
+Toyota,Axio G Grade,2016,"6,075,000.00",52000,Hybrid
+Toyota,Axio G Grade,2015,"5,475,000.00",53000,Petrol
+Toyota,Axio G Grade,2015,"5,500,000.00",55000,Hybrid
+Toyota,Axio G Grade,2015,"5,575,000.00",55000,Petrol
+Toyota,Axio G Grade,2016,"5,850,000.00",61000,Hybrid
+Toyota,Axio G Grade,2015,"5,590,000.00",68000,Hybrid
+Toyota,Axio G Grade,2016,"5,725,000.00",68500,Hybrid
+Toyota,Axio G Grade,2014,"4,880,000.00",69000,Hybrid
+Toyota,Axio G Grade,2015,"5,500,000.00",70000,Hybrid
+Toyota,Axio G Grade,2014,"4,695,000.00",71700,Petrol
+Toyota,Axio G Grade,2014,"4,600,000.00",72000,Hybrid
+Toyota,Axio G Grade,2015,"5,275,000.00",72000,Hybrid
+Toyota,Axio G Grade,2015,"5,450,000.00",72115,Hybrid
+Toyota,Axio G Grade,2015,"5,300,000.00",73000,Hybrid
+Toyota,Axio G Grade,2015,"5,390,000.00",76400,Hybrid
+Toyota,Axio G Grade,2015,"5,350,000.00",77000,Hybrid
+Toyota,Axio G Grade,2014,"4,500,000.00",79589,Petrol
+Toyota,Axio G Grade,2015,"5,590,000.00",80000,Petrol
+Toyota,Axio G Grade,2016,"5,700,000.00",80000,Hybrid
+Toyota,Axio G Grade,2015,"5,200,000.00",81000,Hybrid
+Toyota,Axio G Grade,2014,"4,300,000.00",81500,Hybrid
+Toyota,Axio G Grade,2015,"5,475,000.00",85000,Hybrid
+Toyota,Axio G Grade,2015,"5,500,000.00",85258,Petrol
+Toyota,Axio G Grade,2013,"4,000,000.00",86000,Hybrid
+Toyota,Axio G Grade,2013,"4,625,000.00",86000,Hybrid
+Toyota,Axio G Grade,2015,"5,600,000.00",87000,Petrol
+Toyota,Axio G Grade,2014,"4,825,000.00",91000,Hybrid
+Toyota,Axio G Grade,2011,"4,690,000.00",92000,Petrol
+Toyota,Axio G Grade,2014,"4,750,000.00",100000,Hybrid
+Toyota,Axio G Grade,2010,"3,950,000.00",108000,Petrol
+Toyota,Axio G Grade,2013,"4,550,000.00",110000,Hybrid
+Toyota,Axio G Grade,2007,"4,080,000.00",112000,Petrol
+Toyota,Axio G Grade,2011,"3,975,000.00",115000,Petrol
+Toyota,Axio G Grade,2007,"4,190,000.00",120000,Petrol
+Toyota,Axio G Grade,2016,"5,490,000.00",125000,Hybrid
+Toyota,Axio G Grade,2007,"4,250,000.00",130000,Petrol
+Toyota,Axio G Grade,2008,"4,260,000.00",142000,Petrol
+Toyota,Axio G Grade,2006,"3,765,000.00",144500,Petrol
+Toyota,Axio G Grade,2007,"3,800,000.00",146000,Petrol
+Toyota,Axio G Grade,2010,"4,050,000.00",148000,Petrol
+Toyota,Axio G Grade,2007,"3,975,000.00",158000,Petrol
+Toyota,Axio G Grade,2008,"4,200,000.00",170000,Petrol
+Toyota,Axio G Grade,2008,"4,390,000.00",194000,Petrol
+Toyota,Axio WXB,2018,"7,900,000.00",4500,Hybrid
+Toyota,Axio WXB,2019,"8,085,000.00",4500,Hybrid
+Toyota,Axio WXB,2018,"7,690,000.00",5850,Hybrid
+Toyota,Axio WXB,2017,"7,850,000.00",8000,Hybrid
+Toyota,Axio WXB,2018,"7,800,000.00",12500,Hybrid
+Toyota,Axio WXB,2018,"7,890,000.00",13000,Hybrid
+Toyota,Axio WXB,2018,"7,375,000.00",15500,Petrol
+Toyota,Axio WXB,2018,"7,790,000.00",16500,Petrol
+Toyota,Axio WXB,2017,"6,825,000.00",19000,Hybrid
+Toyota,Axio WXB,2018,"7,200,000.00",20100,Hybrid
+Toyota,Axio WXB,2012,"6,450,000.00",22000,Hybrid
+Toyota,Axio WXB,2017,"7,050,000.00",22000,Hybrid
+Toyota,Axio WXB,2017,"7,500,000.00",25000,Hybrid
+Toyota,Axio WXB,2019,"8,150,000.00",25000,Petrol
+Toyota,Axio WXB,2016,"6,450,000.00",25096,Hybrid
+Toyota,Axio WXB,2017,"7,550,000.00",26000,Petrol
+Toyota,Axio WXB,2017,"6,875,000.00",29000,Hybrid
+Toyota,Axio WXB,2016,"5,790,000.00",32000,Petrol
+Toyota,Axio WXB,2017,"7,000,000.00",35000,Hybrid
+Toyota,Axio WXB,2017,"6,850,000.00",36000,Hybrid
+Toyota,Axio WXB,2017,"6,875,000.00",36300,Hybrid
+Toyota,Axio WXB,2016,"6,500,000.00",36500,Hybrid
+Toyota,Axio WXB,2017,"6,850,000.00",37000,Petrol
+Toyota,Axio WXB,2017,"6,990,000.00",38000,Hybrid
+Toyota,Axio WXB,2017,"6,870,000.00",42000,Hybrid
+Toyota,Axio WXB,2017,"6,800,000.00",43000,Hybrid
+Toyota,Axio WXB,2016,"6,400,000.00",47569,Hybrid
+Toyota,Axio WXB,2017,"6,590,000.00",48100,Hybrid
+Toyota,Axio WXB,2017,"6,695,000.00",51000,Hybrid
+Toyota,Axio WXB,2017,"6,950,000.00",51789,Petrol
+Toyota,Axio WXB,2016,"6,500,000.00",52000,Hybrid
+Toyota,Axio WXB,2017,"6,750,000.00",62000,Hybrid
+Toyota,Axio WXB,2017,"6,550,000.00",64000,Hybrid
+Toyota,Axio WXB,2016,"6,300,000.00",65000,Hybrid
+Toyota,Axio WXB,2017,"6,925,000.00",70000,Hybrid
+Toyota,Axio WXB,2017,"6,800,000.00",76000,Hybrid
+Toyota,Axio WXB,2017,"6,950,000.00",78000,Hybrid
+Toyota,Axio WXB,2017,"6,600,000.00",89000,Hybrid
+Toyota,Axio WXB,2017,"6,800,000.00",103000,Hybrid
+Toyota,Axio X Grade,2016,"6,290,000.00",48000,Hybrid
+Toyota,Axio X Grade,2017,"5,725,000.00",51000,Hybrid
+Toyota,Axio X Grade,2016,"5,750,000.00",53000,Petrol
+Toyota,Axio X Grade,2015,"4,575,000.00",63000,Petrol
+Toyota,Axio X Grade,2017,"6,100,000.00",65000,Hybrid
+Toyota,Axio X Grade,2013,"4,450,000.00",66000,Hybrid
+Toyota,Axio X Grade,2011,"4,800,000.00",66000,Petrol
+Toyota,Axio X Grade,2014,"4,150,000.00",67000,Hybrid
+Toyota,Axio X Grade,2014,"3,850,000.00",68000,Hybrid
+Toyota,Axio X Grade,2014,"3,975,000.00",74000,Hybrid
+Toyota,Axio X Grade,2007,"4,225,000.00",74000,Petrol
+Toyota,Axio X Grade,2015,"4,425,000.00",77000,Hybrid
+Toyota,Axio X Grade,2007,"3,685,000.00",89000,Petrol
+Toyota,Axio X Grade,2007,"3,950,000.00",91000,Petrol
+Toyota,Axio X Grade,2016,"5,750,000.00",93000,Hybrid
+Toyota,Axio X Grade,2010,"4,350,000.00",110000,Petrol
+Toyota,Axio X Grade,2008,"4,050,000.00",120000,Petrol
+Toyota,Axio X Grade,2007,"3,625,000.00",121500,Petrol
+Toyota,Axio X Grade,2007,"4,150,000.00",122000,Petrol
+Toyota,Axio X Grade,2007,"4,150,000.00",124000,Petrol
+Toyota,Axio X Grade,2007,"3,995,000.00",128720,Petrol
+Toyota,Axio X Grade,2008,"4,275,000.00",130000,Petrol
+Toyota,Axio X Grade,2010,"4,375,000.00",133000,Petrol
+Toyota,Axio X Grade,2007,"4,000,000.00",137000,Petrol
+Toyota,Axio X Grade,2011,"4,250,000.00",140000,Petrol
+Toyota,Axio X Grade,2011,"4,390,000.00",141000,Petrol
+Toyota,Axio X Grade,2007,"4,125,000.00",159000,Petrol
+Toyota,Axio X Grade,2010,"4,475,000.00",167000,Petrol
+Toyota,Axio X Grade,2008,"3,575,000.00",170000,Petrol
+Toyota,Belta,2012,"3,350,000.00",63002,Petrol
+Toyota,Belta,2009,"3,575,000.00",74000,Petrol
+Toyota,Belta,2008,"3,450,000.00",80000,Petrol
+Toyota,Belta,2007,"3,550,000.00",80000,Petrol
+Toyota,Belta,2007,"3,445,000.00",89000,Petrol
+Toyota,Belta,2008,"3,650,000.00",89000,Petrol
+Toyota,Belta,2008,"2,825,000.00",89912,Petrol
+Toyota,Belta,2009,"3,650,000.00",91000,Petrol
+Toyota,Belta,2010,"3,570,000.00",92000,Petrol
+Toyota,Belta,2010,"3,090,000.00",93100,Petrol
+Toyota,Belta,2008,"3,675,000.00",95000,Petrol
+Toyota,Belta,2007,"3,285,000.00",96000,Petrol
+Toyota,Belta,2008,"3,400,000.00",105000,Petrol
+Toyota,Belta,2007,"3,595,000.00",108000,Petrol
+Toyota,Belta,2007,"3,375,000.00",114000,Petrol
+Toyota,Belta,2007,"3,495,000.00",115000,Petrol
+Toyota,Belta,2007,"3,725,000.00",115000,Petrol
+Toyota,Belta,2010,"3,975,000.00",115000,Petrol
+Toyota,Belta,2007,"3,375,000.00",116000,Petrol
+Toyota,Belta,2008,"3,650,000.00",116000,Petrol
+Toyota,Belta,2008,"3,290,000.00",121000,Petrol
+Toyota,Belta,2008,"3,125,000.00",122000,Petrol
+Toyota,Belta,2007,"3,640,000.00",123000,Petrol
+Toyota,Belta,2008,"3,850,000.00",127000,Petrol
+Toyota,Belta,2007,"3,750,000.00",132000,Petrol
+Toyota,Belta,2007,"2,850,000.00",140000,Petrol
+Toyota,Belta,2009,"3,490,000.00",140000,Petrol
+Toyota,Belta,2007,"3,495,000.00",147000,Petrol
+Toyota,Belta,2007,"3,350,000.00",150000,Petrol
+Toyota,Belta,2007,"3,375,000.00",150000,Petrol
+Toyota,Belta,2008,"3,800,000.00",150000,Petrol
+Toyota,Belta,2007,"3,300,000.00",175000,Petrol
+Toyota,Belta,2010,"3,300,000.00",190000,Petrol
+Toyota,Carina,2001,"3,100,000.00",117000,Petrol
+Toyota,Carina,2000,"2,450,000.00",120000,Petrol
+Toyota,Carina,2000,"2,475,000.00",125000,Petrol
+Toyota,Carina,2000,"2,300,000.00",135230,Petrol
+Toyota,Carina,2001,"2,150,000.00",137000,Petrol
+Toyota,Carina,2004,"2,490,000.00",140000,Diesel
+Toyota,Carina,2000,"2,175,000.00",147000,Petrol
+Toyota,Carina,2000,"1,950,000.00",150000,Petrol
+Toyota,Carina,2000,"2,100,000.00",150000,Petrol
+Toyota,Carina,2000,"2,625,000.00",162000,Petrol
+Toyota,Carina,2000,"2,890,000.00",180000,Petrol
+Toyota,Carina,2000,"2,275,000.00",180356,Petrol
+Toyota,Carina,2001,"2,375,000.00",200000,Petrol
+Toyota,Carina,2000,"2,470,000.00",201000,Petrol
+Toyota,Carina,2002,"2,700,000.00",213000,Petrol
+Toyota,Carina,2001,"1,900,000.00",225000,Petrol
+Toyota,Carina,2000,"2,875,000.00",285000,Diesel
+Toyota,Carina,2001,"2,600,000.00",340000,Petrol
+Toyota,Corolla 110,2003,"2,235,000.00",87500,Petrol
+Toyota,Corolla 110,2000,"2,225,000.00",130000,Petrol
+Toyota,Corolla 110,2000,"2,175,000.00",135000,Petrol
+Toyota,Corolla 110,2000,"2,390,000.00",152000,Petrol
+Toyota,Corolla 110,2000,"2,260,000.00",154000,Petrol
+Toyota,Corolla 110,2001,"2,150,000.00",159500,Petrol
+Toyota,Corolla 110,2004,"2,490,000.00",195000,Petrol
+Toyota,Corolla 110,2000,"2,280,000.00",200000,Petrol
+Toyota,Corolla 110,2000,"2,210,000.00",275000,Diesel
+Toyota,Corolla 110,2000,"2,350,000.00",315000,Diesel
+Toyota,Corolla 110,2000,"1,650,000.00",335000,Diesel
+Toyota,Corolla 121,2004,"2,800,000.00",88000,Petrol
+Toyota,Corolla 121,2005,"3,175,000.00",99600,Petrol
+Toyota,Corolla 121,2002,"2,750,000.00",100000,Petrol
+Toyota,Corolla 121,2006,"3,950,000.00",100000,Petrol
+Toyota,Corolla 121,2002,"3,225,000.00",105240,Diesel
+Toyota,Corolla 121,2003,"2,690,000.00",107000,Petrol
+Toyota,Corolla 121,2003,"3,085,000.00",110000,Petrol
+Toyota,Corolla 121,2002,"3,500,000.00",111000,Petrol
+Toyota,Corolla 121,2003,"3,200,000.00",114000,Petrol
+Toyota,Corolla 121,2002,"3,200,000.00",114000,Petrol
+Toyota,Corolla 121,2003,"3,400,000.00",116000,Petrol
+Toyota,Corolla 121,2003,"3,300,000.00",117000,Petrol
+Toyota,Corolla 121,2004,"3,450,000.00",117000,Petrol
+Toyota,Corolla 121,2002,"3,275,000.00",118000,Petrol
+Toyota,Corolla 121,2000,"3,050,000.00",119000,Petrol
+Toyota,Corolla 121,2001,"3,185,000.00",120000,Petrol
+Toyota,Corolla 121,2003,"3,250,000.00",120000,Petrol
+Toyota,Corolla 121,2004,"3,300,000.00",120000,Petrol
+Toyota,Corolla 121,2004,"3,350,000.00",121000,Petrol
+Toyota,Corolla 121,2006,"3,575,000.00",126000,Petrol
+Toyota,Corolla 121,2004,"3,350,000.00",132000,Petrol
+Toyota,Corolla 121,2004,"3,050,000.00",134000,Petrol
+Toyota,Corolla 121,2007,"3,500,000.00",135000,Petrol
+Toyota,Corolla 121,2007,"3,550,000.00",135000,Petrol
+Toyota,Corolla 121,2006,"3,650,000.00",135620,Petrol
+Toyota,Corolla 121,2001,"3,025,000.00",138000,Petrol
+Toyota,Corolla 121,2001,"2,675,000.00",139800,Petrol
+Toyota,Corolla 121,2000,"3,100,000.00",140000,Petrol
+Toyota,Corolla 121,2002,"3,190,000.00",140000,Diesel
+Toyota,Corolla 121,2003,"3,325,000.00",140000,Petrol
+Toyota,Corolla 121,2005,"3,600,000.00",140000,Petrol
+Toyota,Corolla 121,2004,"3,625,000.00",140439,Petrol
+Toyota,Corolla 121,2006,"3,550,000.00",143000,Petrol
+Toyota,Corolla 121,2003,"3,585,000.00",143000,Petrol
+Toyota,Corolla 121,2000,"2,975,000.00",144000,Petrol
+Toyota,Corolla 121,2001,"3,375,000.00",145000,Petrol
+Toyota,Corolla 121,2002,"3,450,000.00",145000,Petrol
+Toyota,Corolla 121,2001,"3,250,000.00",146000,Petrol
+Toyota,Corolla 121,2002,"3,150,000.00",148000,Petrol
+Toyota,Corolla 121,2002,"3,295,000.00",148000,Petrol
+Toyota,Corolla 121,2003,"3,100,000.00",150000,Petrol
+Toyota,Corolla 121,2003,"3,200,000.00",150000,Petrol
+Toyota,Corolla 121,2004,"3,475,000.00",150000,Petrol
+Toyota,Corolla 121,2000,"3,250,000.00",151678,Petrol
+Toyota,Corolla 121,2003,"3,500,000.00",152000,Petrol
+Toyota,Corolla 121,2006,"3,250,000.00",152132,Petrol
+Toyota,Corolla 121,2002,"2,585,000.00",154000,Petrol
+Toyota,Corolla 121,2003,"3,150,000.00",154380,Petrol
+Toyota,Corolla 121,2000,"2,875,000.00",155000,Petrol
+Toyota,Corolla 121,2003,"3,450,000.00",155000,Petrol
+Toyota,Corolla 121,2004,"3,390,000.00",156000,Petrol
+Toyota,Corolla 121,2005,"3,450,000.00",157250,Petrol
+Toyota,Corolla 121,2003,"3,400,000.00",158000,Petrol
+Toyota,Corolla 121,2004,"3,350,000.00",159000,Petrol
+Toyota,Corolla 121,2004,"3,550,000.00",159831,Petrol
+Toyota,Corolla 121,2001,"2,900,000.00",160000,Petrol
+Toyota,Corolla 121,2002,"3,185,000.00",160000,Petrol
+Toyota,Corolla 121,2005,"3,300,000.00",160000,Petrol
+Toyota,Corolla 121,2005,"3,350,000.00",160000,Petrol
+Toyota,Corolla 121,2004,"3,450,000.00",160000,Petrol
+Toyota,Corolla 121,2001,"2,950,000.00",160500,Petrol
+Toyota,Corolla 121,2006,"3,575,000.00",160572,Diesel
+Toyota,Corolla 121,2001,"2,975,000.00",162000,Petrol
+Toyota,Corolla 121,2003,"3,175,000.00",162800,Petrol
+Toyota,Corolla 121,2002,"3,150,000.00",164000,Petrol
+Toyota,Corolla 121,2003,"3,350,000.00",165000,Petrol
+Toyota,Corolla 121,2006,"3,550,000.00",165000,Petrol
+Toyota,Corolla 121,2003,"3,350,000.00",167000,Petrol
+Toyota,Corolla 121,2001,"2,900,000.00",168000,Petrol
+Toyota,Corolla 121,2004,"2,900,000.00",169000,Petrol
+Toyota,Corolla 121,2001,"3,375,000.00",169000,Petrol
+Toyota,Corolla 121,2002,"2,890,000.00",170000,Petrol
+Toyota,Corolla 121,2002,"2,900,000.00",170000,Petrol
+Toyota,Corolla 121,2002,"3,325,000.00",170000,Petrol
+Toyota,Corolla 121,2002,"3,425,000.00",170000,Petrol
+Toyota,Corolla 121,2004,"3,375,000.00",175000,Petrol
+Toyota,Corolla 121,2005,"3,470,000.00",175000,Petrol
+Toyota,Corolla 121,2001,"3,050,000.00",175050,Petrol
+Toyota,Corolla 121,2001,"2,950,000.00",177000,Petrol
+Toyota,Corolla 121,2003,"2,875,000.00",179000,Petrol
+Toyota,Corolla 121,2000,"2,950,000.00",179000,Petrol
+Toyota,Corolla 121,2004,"2,975,000.00",179000,Petrol
+Toyota,Corolla 121,2001,"3,350,000.00",179850,Diesel
+Toyota,Corolla 121,2000,"2,880,000.00",180000,Petrol
+Toyota,Corolla 121,2004,"2,950,000.00",180000,Petrol
+Toyota,Corolla 121,2001,"3,100,000.00",180000,Petrol
+Toyota,Corolla 121,2002,"3,150,000.00",180000,Petrol
+Toyota,Corolla 121,2005,"3,450,000.00",180000,Petrol
+Toyota,Corolla 121,2006,"3,550,000.00",180000,Petrol
+Toyota,Corolla 121,2003,"3,190,000.00",181000,Petrol
+Toyota,Corolla 121,2003,"3,000,000.00",181500,Petrol
+Toyota,Corolla 121,2000,"3,375,000.00",182000,Petrol
+Toyota,Corolla 121,2001,"2,800,000.00",184000,Petrol
+Toyota,Corolla 121,2000,"3,050,000.00",186000,Petrol
+Toyota,Corolla 121,2004,"3,100,000.00",186000,Petrol
+Toyota,Corolla 121,2001,"3,050,000.00",187000,Diesel
+Toyota,Corolla 121,2002,"3,390,000.00",189325,Petrol
+Toyota,Corolla 121,2000,"2,550,000.00",190000,Petrol
+Toyota,Corolla 121,2003,"2,975,000.00",190000,Petrol
+Toyota,Corolla 121,2001,"3,050,000.00",190000,Petrol
+Toyota,Corolla 121,2004,"2,675,000.00",190813,Petrol
+Toyota,Corolla 121,2002,"3,150,000.00",192000,Diesel
+Toyota,Corolla 121,2002,"3,425,000.00",196850,Petrol
+Toyota,Corolla 121,2002,"2,865,000.00",199000,Petrol
+Toyota,Corolla 121,2003,"2,540,000.00",200000,Petrol
+Toyota,Corolla 121,2001,"2,650,000.00",200000,Petrol
+Toyota,Corolla 121,2000,"3,000,000.00",200000,Petrol
+Toyota,Corolla 121,2002,"3,100,000.00",200000,Petrol
+Toyota,Corolla 121,2007,"3,450,000.00",200000,Petrol
+Toyota,Corolla 121,2003,"3,500,000.00",200000,Petrol
+Toyota,Corolla 121,2001,"3,250,000.00",200500,Petrol
+Toyota,Corolla 121,2002,"2,675,000.00",200750,Petrol
+Toyota,Corolla 121,2003,"2,990,000.00",200750,Petrol
+Toyota,Corolla 121,2001,"3,285,000.00",201000,Petrol
+Toyota,Corolla 121,2002,"3,300,000.00",206000,Petrol
+Toyota,Corolla 121,2005,"3,850,000.00",210000,Petrol
+Toyota,Corolla 121,2002,"2,925,000.00",213000,Petrol
+Toyota,Corolla 121,2005,"3,125,000.00",214149,Petrol
+Toyota,Corolla 121,2003,"3,450,000.00",217000,Petrol
+Toyota,Corolla 121,2006,"3,225,000.00",220000,Petrol
+Toyota,Corolla 121,2001,"2,750,000.00",230000,Petrol
+Toyota,Corolla 121,2003,"3,350,000.00",230000,Petrol
+Toyota,Corolla 121,2006,"2,975,000.00",250000,Petrol
+Toyota,Corolla 121,2006,"3,075,000.00",250000,Petrol
+Toyota,Corolla 121,2006,"3,250,000.00",270000,Petrol
+Toyota,Corolla 121,2001,"3,350,000.00",287559,Diesel
+Toyota,Corolla 121,2002,"3,300,000.00",300000,Diesel
+Toyota,Corolla 121,2004,"3,150,000.00",327000,Petrol
+Toyota,Corolla 121,2000,"3,150,000.00",386400,Petrol
+Toyota,Corolla 141,2013,"5,000,000.00",32000,Petrol
+Toyota,Corolla 141,2008,"4,350,000.00",56000,Diesel
+Toyota,Corolla 141,2008,"4,100,000.00",57000,Petrol
+Toyota,Corolla 141,2008,"3,100,000.00",75000,Petrol
+Toyota,Corolla 141,2008,"3,550,000.00",76000,Petrol
+Toyota,Corolla 141,2012,"4,400,000.00",77250,Petrol
+Toyota,Corolla 141,2008,"3,800,000.00",83000,Petrol
+Toyota,Corolla 141,2011,"3,900,000.00",87000,Petrol
+Toyota,Corolla 141,2008,"3,550,000.00",90000,Petrol
+Toyota,Corolla 141,2008,"3,675,000.00",93000,Petrol
+Toyota,Corolla 141,2007,"3,750,000.00",96500,Petrol
+Toyota,Corolla 141,2008,"3,225,000.00",101000,Petrol
+Toyota,Corolla 141,2008,"3,750,000.00",101000,Petrol
+Toyota,Corolla 141,2008,"3,675,000.00",103000,Petrol
+Toyota,Corolla 141,2008,"3,850,000.00",104538,Petrol
+Toyota,Corolla 141,2008,"3,650,000.00",105000,Petrol
+Toyota,Corolla 141,2008,"3,750,000.00",105000,Petrol
+Toyota,Corolla 141,2008,"3,735,000.00",106094,Petrol
+Toyota,Corolla 141,2008,"3,700,000.00",108000,Petrol
+Toyota,Corolla 141,2008,"3,690,000.00",109000,Petrol
+Toyota,Corolla 141,2008,"3,700,000.00",110000,Petrol
+Toyota,Corolla 141,2007,"3,350,000.00",114340,Petrol
+Toyota,Corolla 141,2008,"3,850,000.00",117000,Petrol
+Toyota,Corolla 141,2007,"3,798,000.00",117500,Petrol
+Toyota,Corolla 141,2008,"3,600,000.00",120000,Petrol
+Toyota,Corolla 141,2007,"3,475,000.00",123000,Petrol
+Toyota,Corolla 141,2008,"3,250,000.00",130000,Petrol
+Toyota,Corolla 141,2008,"3,650,000.00",130500,Petrol
+Toyota,Corolla 141,2008,"3,150,000.00",132000,Petrol
+Toyota,Corolla 141,2008,"3,475,000.00",134000,Petrol
+Toyota,Corolla 141,2007,"3,900,000.00",135000,Diesel
+Toyota,Corolla 141,2008,"3,190,000.00",136000,Petrol
+Toyota,Corolla 141,2008,"3,560,000.00",140000,Petrol
+Toyota,Corolla 141,2008,"3,675,000.00",144500,Petrol
+Toyota,Corolla 141,2008,"3,175,000.00",145000,Petrol
+Toyota,Corolla 141,2007,"3,380,000.00",145000,Petrol
+Toyota,Corolla 141,2011,"4,375,000.00",149000,Diesel
+Toyota,Corolla 141,2008,"3,625,000.00",160000,Petrol
+Toyota,Corolla 141,2008,"3,625,000.00",161100,Petrol
+Toyota,Corolla 141,2008,"3,350,000.00",163000,Petrol
+Toyota,Corolla 141,2007,"3,700,000.00",165000,Petrol
+Toyota,Corolla 141,2008,"3,300,000.00",190000,Petrol
+Toyota,Corolla 141,2008,"3,890,000.00",193000,Petrol
+Toyota,Corolla 141,2008,"3,690,000.00",237200,Petrol
+Toyota,Corona Premio,2000,"2,675,000.00",260000,Petrol
+Toyota,Corona Premio,2000,"2,800,000.00",260000,Petrol
+Toyota,IST,2003,"2,925,000.00",48000,Petrol
+Toyota,IST,2007,"3,790,000.00",76500,Petrol
+Toyota,IST,2008,"3,500,000.00",77000,Petrol
+Toyota,IST,2008,"3,975,000.00",80000,Petrol
+Toyota,IST,2003,"2,965,000.00",92000,Petrol
+Toyota,IST,2007,"3,825,000.00",101000,Petrol
+Toyota,IST,2007,"3,875,000.00",105000,Petrol
+Toyota,IST,2007,"3,850,000.00",113500,Petrol
+Toyota,IST,2002,"2,450,000.00",120000,Petrol
+Toyota,IST,2008,"3,850,000.00",120000,Petrol
+Toyota,IST,2007,"3,950,000.00",126000,Petrol
+Toyota,IST,2009,"4,050,000.00",127000,Petrol
+Toyota,IST,2007,"3,875,000.00",130000,Petrol
+Toyota,IST,2004,"2,975,000.00",135000,Petrol
+Toyota,IST,2007,"3,475,000.00",135000,Petrol
+Toyota,IST,2005,"3,050,000.00",140000,Petrol
+Toyota,IST,2005,"3,075,000.00",145000,Petrol
+Toyota,IST,2003,"2,875,000.00",149000,Petrol
+Toyota,IST,2003,"2,400,000.00",160000,Petrol
+Toyota,IST,2004,"2,925,000.00",160000,Petrol
+Toyota,IST,2007,"3,750,000.00",160000,Petrol
+Toyota,IST,2004,"3,225,000.00",163000,Petrol
+Toyota,IST,2008,"3,850,000.00",170000,Petrol
+Toyota,IST,2003,"2,725,000.00",215000,Petrol
+Toyota,IST,2003,"2,650,000.00",300000,Petrol
+Toyota,Passo,2019,"3,850,000.00",14000,Petrol
+Toyota,Passo,2017,"4,750,000.00",21000,Petrol
+Toyota,Passo,2005,"2,550,000.00",24000,Petrol
+Toyota,Passo,2017,"4,600,000.00",34000,Petrol
+Toyota,Passo,2017,"3,475,000.00",35000,Petrol
+Toyota,Passo,2016,"4,160,000.00",40000,Petrol
+Toyota,Passo,2015,"3,980,000.00",50000,Petrol
+Toyota,Passo,2012,"3,125,000.00",50228,Petrol
+Toyota,Passo,2011,"2,985,000.00",54008,Petrol
+Toyota,Passo,2008,"2,375,000.00",56000,Petrol
+Toyota,Passo,2010,"2,900,000.00",59000,Petrol
+Toyota,Passo,2005,"2,500,000.00",62130,Petrol
+Toyota,Passo,2007,"2,675,000.00",70000,Petrol
+Toyota,Passo,2004,"2,575,000.00",74000,Petrol
+Toyota,Passo,2007,"2,670,000.00",76470,Petrol
+Toyota,Passo,2009,"2,875,000.00",80400,Petrol
+Toyota,Passo,2010,"3,250,000.00",82000,Petrol
+Toyota,Passo,2004,"2,450,000.00",86250,Petrol
+Toyota,Passo,2012,"2,930,000.00",89400,Petrol
+Toyota,Passo,2008,"2,175,000.00",93000,Petrol
+Toyota,Passo,2004,"2,550,000.00",95000,Petrol
+Toyota,Passo,2010,"2,860,000.00",95000,Petrol
+Toyota,Passo,2007,"2,490,000.00",98000,Petrol
+Toyota,Passo,2008,"2,725,000.00",98000,Petrol
+Toyota,Passo,2010,"3,275,000.00",101150,Petrol
+Toyota,Passo,2008,"2,800,000.00",103000,Petrol
+Toyota,Passo,2009,"2,795,000.00",104000,Petrol
+Toyota,Passo,2004,"2,295,000.00",105000,Petrol
+Toyota,Passo,2005,"2,600,000.00",105000,Petrol
+Toyota,Passo,2006,"2,680,000.00",105000,Petrol
+Toyota,Passo,2007,"2,650,000.00",106000,Petrol
+Toyota,Passo,2004,"2,015,000.00",110000,Petrol
+Toyota,Passo,2009,"2,890,000.00",110000,Petrol
+Toyota,Passo,2009,"2,840,000.00",112000,Petrol
+Toyota,Passo,2007,"2,100,000.00",112200,Petrol
+Toyota,Passo,2004,"2,350,000.00",115000,Petrol
+Toyota,Passo,2007,"2,775,000.00",115000,Petrol
+Toyota,Passo,2007,"2,790,000.00",115000,Petrol
+Toyota,Passo,2008,"2,350,000.00",117260,Petrol
+Toyota,Passo,2007,"2,650,000.00",117500,Petrol
+Toyota,Passo,2004,"2,060,000.00",120000,Petrol
+Toyota,Passo,2004,"2,050,000.00",124000,Petrol
+Toyota,Passo,2004,"2,475,000.00",124000,Petrol
+Toyota,Passo,2004,"2,300,000.00",130000,Petrol
+Toyota,Passo,2010,"2,450,000.00",134000,Petrol
+Toyota,Passo,2007,"2,450,000.00",135000,Petrol
+Toyota,Passo,2008,"2,350,000.00",139000,Petrol
+Toyota,Passo,2007,"2,700,000.00",140000,Petrol
+Toyota,Passo,2006,"2,675,000.00",142000,Petrol
+Toyota,Passo,2005,"2,525,000.00",194000,Petrol
+Toyota,Pixis,2018,"3,800,000.00",18000,Petrol
+Toyota,Pixis,2018,"3,850,000.00",18000,Petrol
+Toyota,Pixis,2017,"3,000,000.00",22000,Petrol
+Toyota,Pixis,2017,"3,250,000.00",26000,Petrol
+Toyota,Pixis,2017,"3,350,000.00",30000,Petrol
+Toyota,Pixis,2016,"3,450,000.00",38000,Petrol
+Toyota,Pixis,2016,"3,275,000.00",47000,Petrol
+Toyota,Platz,2001,"1,790,000.00",130000,Petrol
+Toyota,Platz,2001,"1,675,000.00",140000,Petrol
+Toyota,Platz,2002,"1,950,000.00",192000,Petrol
+Toyota,Platz,2000,"1,595,000.00",245000,Petrol
+Toyota,Platz,2000,"1,725,000.00",250000,Petrol
+Toyota,Platz,2000,"1,715,000.00",260000,Petrol
+Toyota,Platz,2000,"1,825,000.00",270000,Petrol
+Toyota,Premio,2019,"11,500,000.00",610,Petrol
+Toyota,Premio,2019,"11,275,000.00",1900,Petrol
+Toyota,Premio,2019,"12,090,000.00",2200,Petrol
+Toyota,Premio,2019,"11,550,000.00",2400,Petrol
+Toyota,Premio,2020,"12,500,000.00",3000,Petrol
+Toyota,Premio,2019,"11,000,000.00",4846,Petrol
+Toyota,Premio,2017,"9,750,000.00",5000,Petrol
+Toyota,Premio,2018,"8,750,000.00",6000,Petrol
+Toyota,Premio,2019,"12,050,000.00",6950,Petrol
+Toyota,Premio,2018,"10,700,000.00",7800,Petrol
+Toyota,Premio,2018,"10,600,000.00",7903,Petrol
+Toyota,Premio,2019,"11,300,000.00",8500,Petrol
+Toyota,Premio,2018,"8,835,000.00",9000,Petrol
+Toyota,Premio,2019,"11,500,000.00",9000,Petrol
+Toyota,Premio,2019,"11,100,000.00",11000,Petrol
+Toyota,Premio,2019,"11,000,000.00",12000,Petrol
+Toyota,Premio,2018,"10,590,000.00",12500,Petrol
+Toyota,Premio,2017,"9,500,000.00",13000,Petrol
+Toyota,Premio,2019,"10,400,000.00",14000,Petrol
+Toyota,Premio,2019,"11,300,000.00",15000,Petrol
+Toyota,Premio,2019,"9,450,000.00",16000,Petrol
+Toyota,Premio,2017,"9,475,000.00",18000,Petrol
+Toyota,Premio,2019,"9,500,000.00",18000,Petrol
+Toyota,Premio,2019,"11,800,000.00",20000,Petrol
+Toyota,Premio,2019,"8,800,000.00",21500,Petrol
+Toyota,Premio,2018,"10,300,000.00",23000,Petrol
+Toyota,Premio,2019,"10,925,000.00",23500,Petrol
+Toyota,Premio,2017,"7,550,000.00",24000,Petrol
+Toyota,Premio,2017,"10,500,000.00",24000,Petrol
+Toyota,Premio,2018,"10,300,000.00",24300,Petrol
+Toyota,Premio,2012,"3,050,000.00",25000,Petrol
+Toyota,Premio,2017,"9,650,000.00",25000,Petrol
+Toyota,Premio,2017,"7,350,000.00",26500,Petrol
+Toyota,Premio,2017,"9,250,000.00",26800,Petrol
+Toyota,Premio,2018,"7,990,000.00",27000,Petrol
+Toyota,Premio,2017,"9,650,000.00",27000,Petrol
+Toyota,Premio,2018,"9,750,000.00",27000,Petrol
+Toyota,Premio,2018,"12,600,000.00",27000,Petrol
+Toyota,Premio,2016,"9,000,000.00",29000,Petrol
+Toyota,Premio,2018,"8,575,000.00",30000,Petrol
+Toyota,Premio,2018,"10,550,000.00",33000,Petrol
+Toyota,Premio,2017,"9,190,000.00",34000,Petrol
+Toyota,Premio,2017,"9,390,000.00",34000,Petrol
+Toyota,Premio,2017,"9,500,000.00",34000,Petrol
+Toyota,Premio,2018,"11,000,000.00",34000,Petrol
+Toyota,Premio,2018,"10,225,000.00",34500,Petrol
+Toyota,Premio,2018,"10,350,000.00",34700,Petrol
+Toyota,Premio,2016,"8,750,000.00",34900,Petrol
+Toyota,Premio,2017,"8,350,000.00",35000,Petrol
+Toyota,Premio,2018,"10,500,000.00",35000,Petrol
+Toyota,Premio,2016,"9,100,000.00",36000,Petrol
+Toyota,Premio,2012,"6,500,000.00",37303,Petrol
+Toyota,Premio,2016,"9,050,000.00",38000,Petrol
+Toyota,Premio,2017,"9,425,000.00",38000,Petrol
+Toyota,Premio,2018,"9,850,000.00",39000,Petrol
+Toyota,Premio,2018,"10,000,000.00",39500,Petrol
+Toyota,Premio,2014,"7,675,000.00",41000,Petrol
+Toyota,Premio,2016,"8,150,000.00",41800,Petrol
+Toyota,Premio,2017,"7,250,000.00",43000,Petrol
+Toyota,Premio,2017,"9,475,000.00",43000,Petrol
+Toyota,Premio,2018,"9,850,000.00",44000,Petrol
+Toyota,Premio,2017,"8,090,000.00",46957,Petrol
+Toyota,Premio,2018,"10,750,000.00",47600,Petrol
+Toyota,Premio,2015,"8,175,000.00",49000,Petrol
+Toyota,Premio,2017,"8,995,000.00",49000,Petrol
+Toyota,Premio,2013,"6,650,000.00",50000,Petrol
+Toyota,Premio,2016,"8,450,000.00",50000,Petrol
+Toyota,Premio,2017,"8,995,000.00",50000,Petrol
+Toyota,Premio,2017,"9,750,000.00",50000,Petrol
+Toyota,Premio,2013,"6,890,000.00",52000,Petrol
+Toyota,Premio,2017,"9,550,000.00",52000,Petrol
+Toyota,Premio,2017,"9,650,000.00",52000,Petrol
+Toyota,Premio,2017,"9,200,000.00",53000,Petrol
+Toyota,Premio,2007,"4,500,000.00",53700,Petrol
+Toyota,Premio,2017,"9,650,000.00",55000,Petrol
+Toyota,Premio,2016,"8,800,000.00",56000,Petrol
+Toyota,Premio,2018,"10,500,000.00",56000,Petrol
+Toyota,Premio,2016,"8,790,000.00",57000,Petrol
+Toyota,Premio,2017,"8,790,000.00",57000,Petrol
+Toyota,Premio,2015,"8,100,000.00",59900,Petrol
+Toyota,Premio,2016,"8,200,000.00",60000,Petrol
+Toyota,Premio,2013,"6,990,000.00",60500,Petrol
+Toyota,Premio,2014,"7,500,000.00",61000,Petrol
+Toyota,Premio,2014,"7,175,000.00",62000,Petrol
+Toyota,Premio,2014,"7,400,000.00",62000,Petrol
+Toyota,Premio,2013,"6,890,000.00",62235,Petrol
+Toyota,Premio,2014,"7,450,000.00",63000,Petrol
+Toyota,Premio,2016,"8,225,000.00",63000,Petrol
+Toyota,Premio,2016,"8,800,000.00",63000,Petrol
+Toyota,Premio,2014,"7,250,000.00",64400,Petrol
+Toyota,Premio,2016,"8,750,000.00",65000,Petrol
+Toyota,Premio,2013,"6,525,000.00",66000,Petrol
+Toyota,Premio,2013,"6,850,000.00",66000,Petrol
+Toyota,Premio,2015,"7,700,000.00",66000,Petrol
+Toyota,Premio,2015,"7,775,000.00",66400,Petrol
+Toyota,Premio,2010,"5,945,000.00",66500,Petrol
+Toyota,Premio,2013,"6,835,000.00",66500,Petrol
+Toyota,Premio,2015,"6,500,000.00",67000,Petrol
+Toyota,Premio,2015,"8,100,000.00",67000,Petrol
+Toyota,Premio,2015,"7,975,000.00",68000,Petrol
+Toyota,Premio,2015,"6,500,000.00",70000,Petrol
+Toyota,Premio,2016,"8,600,000.00",72000,Petrol
+Toyota,Premio,2013,"5,800,000.00",72500,Petrol
+Toyota,Premio,2014,"7,790,000.00",73000,Petrol
+Toyota,Premio,2010,"5,875,000.00",74000,Petrol
+Toyota,Premio,2013,"6,090,000.00",75000,Petrol
+Toyota,Premio,2011,"5,975,000.00",76500,Petrol
+Toyota,Premio,2013,"6,825,000.00",79000,Petrol
+Toyota,Premio,2011,"5,965,000.00",80000,Petrol
+Toyota,Premio,2013,"7,275,000.00",80000,Petrol
+Toyota,Premio,2017,"9,500,000.00",80000,Petrol
+Toyota,Premio,2013,"5,800,000.00",82000,Petrol
+Toyota,Premio,2013,"6,875,000.00",82000,Petrol
+Toyota,Premio,2013,"7,050,000.00",82000,Petrol
+Toyota,Premio,2015,"7,850,000.00",82000,Petrol
+Toyota,Premio,2014,"6,550,000.00",83000,Petrol
+Toyota,Premio,2013,"6,475,000.00",84000,Petrol
+Toyota,Premio,2013,"6,595,000.00",84000,Petrol
+Toyota,Premio,2007,"6,800,000.00",84900,Petrol
+Toyota,Premio,2013,"6,135,000.00",85000,Petrol
+Toyota,Premio,2013,"6,550,000.00",85000,Petrol
+Toyota,Premio,2011,"5,990,000.00",86000,Petrol
+Toyota,Premio,2013,"6,350,000.00",88000,Petrol
+Toyota,Premio,2014,"6,225,000.00",89900,Petrol
+Toyota,Premio,2011,"5,590,000.00",93000,Petrol
+Toyota,Premio,2013,"6,200,000.00",93000,Petrol
+Toyota,Premio,2010,"5,785,000.00",95000,Petrol
+Toyota,Premio,2011,"5,950,000.00",96000,Petrol
+Toyota,Premio,2013,"7,425,000.00",96000,Petrol
+Toyota,Premio,2013,"7,290,000.00",96530,Petrol
+Toyota,Premio,2009,"5,450,000.00",98000,Petrol
+Toyota,Premio,2014,"7,075,000.00",98000,Petrol
+Toyota,Premio,2013,"7,150,000.00",100000,Petrol
+Toyota,Premio,2003,"2,900,000.00",102000,Petrol
+Toyota,Premio,2013,"6,700,000.00",104000,Petrol
+Toyota,Premio,2008,"4,650,000.00",105670,Petrol
+Toyota,Premio,2013,"6,900,000.00",106000,Petrol
+Toyota,Premio,2007,"5,250,000.00",106403,Petrol
+Toyota,Premio,2013,"6,625,000.00",108500,Petrol
+Toyota,Premio,2010,"5,895,000.00",110008,Petrol
+Toyota,Premio,2007,"5,525,000.00",110206,Petrol
+Toyota,Premio,2012,"6,350,000.00",111000,Petrol
+Toyota,Premio,2010,"5,890,000.00",113000,Petrol
+Toyota,Premio,2010,"5,690,000.00",115000,Petrol
+Toyota,Premio,2007,"5,200,000.00",116000,Petrol
+Toyota,Premio,2010,"5,400,000.00",116000,Petrol
+Toyota,Premio,2010,"5,560,000.00",116200,Petrol
+Toyota,Premio,2009,"5,200,000.00",117000,Petrol
+Toyota,Premio,2007,"5,250,000.00",117000,Petrol
+Toyota,Premio,2007,"5,500,000.00",118000,Petrol
+Toyota,Premio,2007,"5,650,000.00",118000,Petrol
+Toyota,Premio,2002,"3,500,000.00",120000,Petrol
+Toyota,Premio,2011,"5,875,000.00",120000,Petrol
+Toyota,Premio,2000,"1,275,000.00",123123,Diesel
+Toyota,Premio,2008,"5,150,000.00",127865,Petrol
+Toyota,Premio,2007,"5,380,000.00",130000,Petrol
+Toyota,Premio,2007,"5,375,000.00",134500,Petrol
+Toyota,Premio,2004,"3,450,000.00",136500,Petrol
+Toyota,Premio,2008,"4,375,000.00",145000,Petrol
+Toyota,Premio,2012,"6,375,000.00",145000,Petrol
+Toyota,Premio,2000,"2,550,000.00",150000,Diesel
+Toyota,Premio,2008,"5,490,000.00",150000,Petrol
+Toyota,Premio,2010,"5,750,000.00",150000,Petrol
+Toyota,Premio,2007,"4,575,000.00",152000,Petrol
+Toyota,Premio,2011,"6,150,000.00",154000,Petrol
+Toyota,Premio,2007,"5,200,000.00",159000,Petrol
+Toyota,Premio,2002,"1,925,000.00",160000,Petrol
+Toyota,Premio,2007,"5,175,000.00",160000,Petrol
+Toyota,Premio,2002,"3,450,000.00",165000,Petrol
+Toyota,Premio,2007,"5,150,000.00",165000,Petrol
+Toyota,Premio,2011,"5,675,000.00",167000,Petrol
+Toyota,Premio,2007,"4,850,000.00",172000,Petrol
+Toyota,Premio,2007,"4,950,000.00",172000,Petrol
+Toyota,Premio,2004,"3,700,000.00",179000,Petrol
+Toyota,Premio,2006,"4,290,000.00",205000,Petrol
+Toyota,Premio 240,2007,"4,625,000.00",88900,Petrol
+Toyota,Premio 240,2001,"3,475,000.00",135000,Petrol
+Toyota,Premio 240,2003,"3,550,000.00",142000,Petrol
+Toyota,Premio 240,2003,"3,625,000.00",144000,Petrol
+Toyota,Premio 240,2005,"3,500,000.00",145000,Petrol
+Toyota,Premio 240,2004,"3,550,000.00",166000,Petrol
+Toyota,Premio 240,2005,"3,625,000.00",170000,Petrol
+Toyota,Premio 240,2002,"3,475,000.00",198000,Petrol
+Toyota,Premio 240,2003,"3,550,000.00",210600,Petrol
+Toyota,Premio 260,2018,"11,500,000.00",11400,Petrol
+Toyota,Premio 260,2018,"8,850,000.00",13000,Petrol
+Toyota,Premio 260,2015,"7,250,000.00",65000,Petrol
+Toyota,Premio 260,2012,"6,350,000.00",73000,Petrol
+Toyota,Premio 260,2013,"7,200,000.00",80000,Petrol
+Toyota,Premio 260,2013,"7,080,000.00",89400,Petrol
+Toyota,Premio 260,2009,"5,500,000.00",96000,Petrol
+Toyota,Premio 260,2007,"5,475,000.00",112000,Petrol
+Toyota,Premio G Superior,2019,"11,800,000.00",500,Petrol
+Toyota,Premio G Superior,2019,"12,150,000.00",2000,Petrol
+Toyota,Premio G Superior,2020,"11,950,000.00",2300,Petrol
+Toyota,Premio G Superior,2019,"11,650,000.00",3100,Petrol
+Toyota,Premio G Superior,2018,"10,850,000.00",3450,Petrol
+Toyota,Premio G Superior,2018,"10,600,000.00",5000,Petrol
+Toyota,Premio G Superior,2019,"12,500,000.00",6500,Petrol
+Toyota,Premio G Superior,2018,"10,800,000.00",7500,Petrol
+Toyota,Premio G Superior,2017,"9,100,000.00",8200,Petrol
+Toyota,Premio G Superior,2018,"10,500,000.00",9000,Petrol
+Toyota,Premio G Superior,2019,"11,150,000.00",10000,Petrol
+Toyota,Premio G Superior,2018,"10,500,000.00",10200,Petrol
+Toyota,Premio G Superior,2018,"10,390,000.00",10500,Petrol
+Toyota,Premio G Superior,2018,"11,100,000.00",10500,Petrol
+Toyota,Premio G Superior,2018,"10,650,000.00",11800,Petrol
+Toyota,Premio G Superior,2019,"11,150,000.00",12000,Petrol
+Toyota,Premio G Superior,2019,"10,750,000.00",12900,Petrol
+Toyota,Premio G Superior,2018,"10,700,000.00",13000,Petrol
+Toyota,Premio G Superior,2018,"10,300,000.00",14000,Petrol
+Toyota,Premio G Superior,2018,"10,550,000.00",14500,Petrol
+Toyota,Premio G Superior,2018,"10,700,000.00",17000,Petrol
+Toyota,Premio G Superior,2019,"10,850,000.00",17000,Petrol
+Toyota,Premio G Superior,2018,"9,775,000.00",17200,Petrol
+Toyota,Premio G Superior,2018,"10,000,000.00",20000,Petrol
+Toyota,Premio G Superior,2019,"10,850,000.00",21000,Petrol
+Toyota,Premio G Superior,2016,"8,990,000.00",25000,Petrol
+Toyota,Premio G Superior,2017,"10,500,000.00",26000,Petrol
+Toyota,Premio G Superior,2017,"9,800,000.00",30000,Petrol
+Toyota,Premio G Superior,2015,"7,975,000.00",34000,Petrol
+Toyota,Premio G Superior,2017,"9,025,000.00",38000,Petrol
+Toyota,Premio G Superior,2017,"9,475,000.00",38000,Petrol
+Toyota,Premio G Superior,2017,"7,450,000.00",41000,Petrol
+Toyota,Premio G Superior,2015,"7,800,000.00",42000,Petrol
+Toyota,Premio G Superior,2015,"8,350,000.00",42000,Petrol
+Toyota,Premio G Superior,2018,"10,150,000.00",42000,Petrol
+Toyota,Premio G Superior,2016,"6,750,000.00",42700,Petrol
+Toyota,Premio G Superior,2017,"9,500,000.00",45000,Petrol
+Toyota,Premio G Superior,2016,"7,150,000.00",46000,Petrol
+Toyota,Premio G Superior,2018,"9,675,000.00",46000,Petrol
+Toyota,Premio G Superior,2016,"8,190,000.00",48000,Petrol
+Toyota,Premio G Superior,2017,"9,390,000.00",49000,Petrol
+Toyota,Premio G Superior,2014,"8,100,000.00",53000,Petrol
+Toyota,Premio G Superior,2017,"9,375,000.00",53000,Petrol
+Toyota,Premio G Superior,2017,"9,750,000.00",55000,Petrol
+Toyota,Premio G Superior,2016,"8,350,000.00",56000,Petrol
+Toyota,Premio G Superior,2013,"6,650,000.00",60000,Petrol
+Toyota,Premio G Superior,2015,"7,975,000.00",60000,Petrol
+Toyota,Premio G Superior,2014,"7,490,000.00",62000,Petrol
+Toyota,Premio G Superior,2018,"10,025,000.00",62000,Petrol
+Toyota,Premio G Superior,2015,"7,925,000.00",62400,Petrol
+Toyota,Premio G Superior,2015,"7,975,000.00",66000,Petrol
+Toyota,Premio G Superior,2017,"8,690,000.00",66000,Petrol
+Toyota,Premio G Superior,2017,"9,775,000.00",66000,Petrol
+Toyota,Premio G Superior,2014,"6,790,000.00",67000,Petrol
+Toyota,Premio G Superior,2015,"8,075,000.00",68000,Petrol
+Toyota,Premio G Superior,2014,"7,450,000.00",68500,Petrol
+Toyota,Premio G Superior,2013,"5,900,000.00",69000,Petrol
+Toyota,Premio G Superior,2013,"6,850,000.00",70000,Petrol
+Toyota,Premio G Superior,2011,"6,000,000.00",71000,Petrol
+Toyota,Premio G Superior,2007,"5,400,000.00",73000,Petrol
+Toyota,Premio G Superior,2013,"6,175,000.00",75000,Petrol
+Toyota,Premio G Superior,2013,"7,000,000.00",75000,Petrol
+Toyota,Premio G Superior,2015,"7,850,000.00",75000,Petrol
+Toyota,Premio G Superior,2015,"7,960,000.00",75000,Petrol
+Toyota,Premio G Superior,2011,"5,250,000.00",77000,Petrol
+Toyota,Premio G Superior,2016,"8,550,000.00",80000,Petrol
+Toyota,Premio G Superior,2016,"7,650,000.00",81000,Petrol
+Toyota,Premio G Superior,2013,"6,980,000.00",83000,Petrol
+Toyota,Premio G Superior,2008,"5,575,000.00",88000,Petrol
+Toyota,Premio G Superior,2014,"7,400,000.00",89000,Petrol
+Toyota,Premio G Superior,2010,"5,890,000.00",90000,Petrol
+Toyota,Premio G Superior,2010,"5,950,000.00",90000,Petrol
+Toyota,Premio G Superior,2013,"7,225,000.00",90000,Petrol
+Toyota,Premio G Superior,2013,"7,190,000.00",91000,Petrol
+Toyota,Premio G Superior,2013,"7,350,000.00",93000,Petrol
+Toyota,Premio G Superior,2012,"6,150,000.00",98000,Petrol
+Toyota,Premio G Superior,2013,"5,700,000.00",100000,Petrol
+Toyota,Premio G Superior,2011,"5,860,000.00",104005,Petrol
+Toyota,Premio G Superior,2011,"5,995,000.00",105000,Petrol
+Toyota,Premio G Superior,2013,"7,275,000.00",107000,Petrol
+Toyota,Premio G Superior,2012,"6,375,000.00",111000,Petrol
+Toyota,Premio G Superior,2007,"5,390,000.00",112000,Petrol
+Toyota,Premio G Superior,2011,"5,990,000.00",118000,Petrol
+Toyota,Premio G Superior,2011,"6,080,000.00",120000,Petrol
+Toyota,Premio G Superior,2011,"5,975,000.00",127000,Petrol
+Toyota,Premio G Superior,2007,"5,375,000.00",140000,Petrol
+Toyota,Premio G Superior,2011,"5,725,000.00",173564,Petrol
+Toyota,Premio G Superior,2013,"6,650,000.00",174000,Petrol
+Toyota,Prius,2015,"6,100,000.00",6000,Hybrid
+Toyota,Prius,2007,"2,790,000.00",11800,Petrol
+Toyota,Prius,2012,"4,400,000.00",24191,Hybrid
+Toyota,Prius,2013,"4,250,000.00",25000,Petrol
+Toyota,Prius,2016,"8,200,000.00",26000,Hybrid
+Toyota,Prius,2015,"4,990,000.00",27000,Hybrid
+Toyota,Prius,2013,"4,700,000.00",35000,Hybrid
+Toyota,Prius,2016,"6,750,000.00",39000,Hybrid
+Toyota,Prius,2014,"5,300,000.00",40500,Hybrid
+Toyota,Prius,2016,"7,600,000.00",41000,Hybrid
+Toyota,Prius,2016,"5,490,000.00",45000,Petrol
+Toyota,Prius,2016,"8,800,000.00",46000,Hybrid
+Toyota,Prius,2013,"4,400,000.00",48000,Petrol
+Toyota,Prius,2011,"3,850,000.00",54475,Petrol
+Toyota,Prius,2014,"4,700,000.00",56000,Hybrid
+Toyota,Prius,2013,"5,150,000.00",56000,Hybrid
+Toyota,Prius,2017,"5,700,000.00",56000,Hybrid
+Toyota,Prius,2015,"6,000,000.00",56000,Hybrid
+Toyota,Prius,2013,"4,450,000.00",57000,Hybrid
+Toyota,Prius,2013,"4,500,000.00",58000,Hybrid
+Toyota,Prius,2012,"4,490,000.00",58200,Hybrid
+Toyota,Prius,2016,"7,500,000.00",59000,Hybrid
+Toyota,Prius,2016,"6,500,000.00",59966,Petrol
+Toyota,Prius,2014,"4,225,000.00",60000,Petrol
+Toyota,Prius,2016,"5,500,000.00",60000,Hybrid
+Toyota,Prius,2013,"4,600,000.00",60679,Hybrid
+Toyota,Prius,2012,"4,000,000.00",61500,Hybrid
+Toyota,Prius,2012,"4,250,000.00",63000,Hybrid
+Toyota,Prius,2012,"3,790,000.00",66800,Hybrid
+Toyota,Prius,2013,"3,825,000.00",67000,Petrol
+Toyota,Prius,2013,"4,000,000.00",67000,Hybrid
+Toyota,Prius,2010,"3,975,000.00",67324,Petrol
+Toyota,Prius,2011,"3,800,000.00",68000,Petrol
+Toyota,Prius,2010,"3,950,000.00",70000,Petrol
+Toyota,Prius,2013,"5,000,000.00",70000,Hybrid
+Toyota,Prius,2013,"5,100,000.00",70000,Hybrid
+Toyota,Prius,2014,"5,200,000.00",70000,Hybrid
+Toyota,Prius,2013,"4,600,000.00",71000,Hybrid
+Toyota,Prius,2013,"3,990,000.00",72000,Hybrid
+Toyota,Prius,2012,"4,100,000.00",72000,Hybrid
+Toyota,Prius,2013,"4,650,000.00",72300,Hybrid
+Toyota,Prius,2014,"4,750,000.00",73843,Hybrid
+Toyota,Prius,2012,"4,700,000.00",74000,Petrol
+Toyota,Prius,2012,"3,475,000.00",74800,Hybrid
+Toyota,Prius,2013,"4,930,000.00",74800,Petrol
+Toyota,Prius,2015,"5,050,000.00",75000,Hybrid
+Toyota,Prius,2010,"3,850,000.00",76000,Petrol
+Toyota,Prius,2013,"4,825,000.00",76000,Petrol
+Toyota,Prius,2008,"3,150,000.00",76800,Petrol
+Toyota,Prius,2013,"4,490,000.00",77000,Hybrid
+Toyota,Prius,2015,"4,690,000.00",78650,Hybrid
+Toyota,Prius,2012,"4,175,000.00",79000,Petrol
+Toyota,Prius,2013,"4,790,000.00",79002,Hybrid
+Toyota,Prius,2011,"3,750,000.00",80000,Hybrid
+Toyota,Prius,2012,"4,400,000.00",80000,Hybrid
+Toyota,Prius,2013,"4,500,000.00",80000,Hybrid
+Toyota,Prius,2014,"5,025,000.00",80000,Petrol
+Toyota,Prius,2012,"4,675,000.00",83000,Hybrid
+Toyota,Prius,2015,"4,690,000.00",84000,Hybrid
+Toyota,Prius,2008,"3,250,000.00",85000,Petrol
+Toyota,Prius,2008,"3,300,000.00",85000,Hybrid
+Toyota,Prius,2009,"3,825,000.00",85000,Hybrid
+Toyota,Prius,2012,"4,225,000.00",85000,Hybrid
+Toyota,Prius,2013,"4,500,000.00",85000,Hybrid
+Toyota,Prius,2014,"4,900,000.00",85000,Petrol
+Toyota,Prius,2012,"4,200,000.00",86000,Petrol
+Toyota,Prius,2012,"4,580,000.00",86200,Hybrid
+Toyota,Prius,2015,"5,300,000.00",86500,Petrol
+Toyota,Prius,2010,"3,860,000.00",86789,Hybrid
+Toyota,Prius,2008,"3,275,000.00",87500,Petrol
+Toyota,Prius,2010,"3,700,000.00",88000,Hybrid
+Toyota,Prius,2012,"4,000,000.00",88500,Hybrid
+Toyota,Prius,2008,"2,975,000.00",88794,Hybrid
+Toyota,Prius,2014,"4,825,000.00",89000,Hybrid
+Toyota,Prius,2014,"4,975,000.00",89000,Hybrid
+Toyota,Prius,2008,"3,010,000.00",90000,Hybrid
+Toyota,Prius,2009,"3,050,000.00",90000,Hybrid
+Toyota,Prius,2010,"3,200,000.00",90000,Hybrid
+Toyota,Prius,2011,"3,825,000.00",90000,Hybrid
+Toyota,Prius,2007,"2,900,000.00",91000,Hybrid
+Toyota,Prius,2009,"3,250,000.00",91000,Petrol
+Toyota,Prius,2012,"3,975,000.00",91000,Petrol
+Toyota,Prius,2011,"4,150,000.00",91000,Hybrid
+Toyota,Prius,2013,"4,475,000.00",91000,Petrol
+Toyota,Prius,2011,"3,750,000.00",92000,Hybrid
+Toyota,Prius,2010,"3,750,000.00",92000,Hybrid
+Toyota,Prius,2009,"3,975,000.00",92000,Hybrid
+Toyota,Prius,2012,"4,450,000.00",93000,Petrol
+Toyota,Prius,2013,"4,850,000.00",93000,Hybrid
+Toyota,Prius,2011,"3,650,000.00",94008,Hybrid
+Toyota,Prius,2009,"3,200,000.00",95000,Hybrid
+Toyota,Prius,2012,"3,700,000.00",95000,Petrol
+Toyota,Prius,2010,"3,775,000.00",95000,Hybrid
+Toyota,Prius,2011,"3,650,000.00",96000,Hybrid
+Toyota,Prius,2014,"5,350,000.00",96526,Petrol
+Toyota,Prius,2012,"4,575,000.00",97000,Petrol
+Toyota,Prius,2013,"4,650,000.00",97000,Hybrid
+Toyota,Prius,2011,"2,850,000.00",98000,Hybrid
+Toyota,Prius,2012,"4,375,000.00",100000,Hybrid
+Toyota,Prius,2014,"4,400,000.00",100000,Petrol
+Toyota,Prius,2014,"5,000,000.00",100000,Hybrid
+Toyota,Prius,2011,"3,275,000.00",101000,Hybrid
+Toyota,Prius,2012,"4,275,000.00",101684,Hybrid
+Toyota,Prius,2011,"3,475,000.00",101956,Hybrid
+Toyota,Prius,2013,"4,025,000.00",102000,Hybrid
+Toyota,Prius,2013,"4,700,000.00",102000,Hybrid
+Toyota,Prius,2008,"3,100,000.00",103000,Hybrid
+Toyota,Prius,2008,"3,100,000.00",104174,Hybrid
+Toyota,Prius,2012,"4,475,000.00",105000,Petrol
+Toyota,Prius,2012,"4,000,000.00",106000,Hybrid
+Toyota,Prius,2012,"4,425,000.00",107000,Hybrid
+Toyota,Prius,2011,"3,975,000.00",108000,Hybrid
+Toyota,Prius,2012,"4,485,000.00",108000,Hybrid
+Toyota,Prius,2013,"4,275,000.00",109000,Hybrid
+Toyota,Prius,2012,"4,850,000.00",109000,Hybrid
+Toyota,Prius,2013,"4,685,000.00",109500,Petrol
+Toyota,Prius,2011,"3,750,000.00",109566,Hybrid
+Toyota,Prius,2008,"2,950,000.00",110000,Hybrid
+Toyota,Prius,2012,"3,150,000.00",110000,Petrol
+Toyota,Prius,2010,"3,275,000.00",110000,Hybrid
+Toyota,Prius,2012,"4,350,000.00",110000,Hybrid
+Toyota,Prius,2013,"4,745,000.00",110000,Hybrid
+Toyota,Prius,2013,"4,250,000.00",111000,Hybrid
+Toyota,Prius,2010,"3,175,000.00",112900,Hybrid
+Toyota,Prius,2008,"2,900,000.00",113000,Hybrid
+Toyota,Prius,2009,"3,500,000.00",113000,Hybrid
+Toyota,Prius,2009,"4,075,000.00",113000,Petrol
+Toyota,Prius,2013,"3,540,000.00",113631,Hybrid
+Toyota,Prius,2009,"3,400,000.00",114000,Petrol
+Toyota,Prius,2009,"1,790,000.00",114900,Petrol
+Toyota,Prius,2013,"4,375,000.00",115000,Petrol
+Toyota,Prius,2013,"4,650,000.00",115000,Hybrid
+Toyota,Prius,2012,"4,650,000.00",116000,Hybrid
+Toyota,Prius,2008,"2,550,000.00",116736,Hybrid
+Toyota,Prius,2007,"3,350,000.00",118000,Petrol
+Toyota,Prius,2012,"4,200,000.00",118000,Petrol
+Toyota,Prius,2012,"4,350,000.00",118400,Hybrid
+Toyota,Prius,2010,"4,100,000.00",120000,Hybrid
+Toyota,Prius,2012,"4,375,000.00",120000,Hybrid
+Toyota,Prius,2009,"3,700,000.00",122586,Petrol
+Toyota,Prius,2010,"3,300,000.00",124000,Petrol
+Toyota,Prius,2008,"3,490,000.00",124000,Hybrid
+Toyota,Prius,2011,"4,100,000.00",124000,Petrol
+Toyota,Prius,2011,"4,150,000.00",126000,Hybrid
+Toyota,Prius,2011,"4,425,000.00",127000,Hybrid
+Toyota,Prius,2012,"3,875,000.00",128578,Hybrid
+Toyota,Prius,2008,"3,200,000.00",129000,Hybrid
+Toyota,Prius,2010,"3,640,000.00",129000,Hybrid
+Toyota,Prius,2012,"4,150,000.00",129000,Petrol
+Toyota,Prius,2008,"2,850,000.00",130000,Hybrid
+Toyota,Prius,2012,"4,000,000.00",130000,Petrol
+Toyota,Prius,2012,"4,625,000.00",130000,Hybrid
+Toyota,Prius,2008,"3,125,000.00",131000,Hybrid
+Toyota,Prius,2011,"4,150,000.00",131000,Hybrid
+Toyota,Prius,2008,"2,825,000.00",132000,Hybrid
+Toyota,Prius,2009,"3,800,000.00",132000,Hybrid
+Toyota,Prius,2008,"3,300,000.00",133000,Hybrid
+Toyota,Prius,2008,"2,825,000.00",134000,Hybrid
+Toyota,Prius,2012,"4,395,000.00",137871,Petrol
+Toyota,Prius,2008,"2,850,000.00",138000,Hybrid
+Toyota,Prius,2011,"4,200,000.00",138000,Petrol
+Toyota,Prius,2013,"4,350,000.00",139000,Hybrid
+Toyota,Prius,2011,"4,100,000.00",140000,Hybrid
+Toyota,Prius,2011,"4,175,000.00",142000,Hybrid
+Toyota,Prius,2008,"3,275,000.00",142500,Hybrid
+Toyota,Prius,2008,"2,925,000.00",144000,Hybrid
+Toyota,Prius,2008,"3,275,000.00",144000,Hybrid
+Toyota,Prius,2009,"3,775,000.00",144000,Petrol
+Toyota,Prius,2009,"3,150,000.00",145000,Hybrid
+Toyota,Prius,2013,"5,100,000.00",146000,Petrol
+Toyota,Prius,2007,"2,675,000.00",147000,Hybrid
+Toyota,Prius,2008,"2,975,000.00",147000,Hybrid
+Toyota,Prius,2008,"2,790,000.00",148000,Petrol
+Toyota,Prius,2010,"2,900,000.00",148000,Hybrid
+Toyota,Prius,2008,"2,925,000.00",149800,Petrol
+Toyota,Prius,2010,"2,900,000.00",150000,Hybrid
+Toyota,Prius,2008,"3,300,000.00",150000,Hybrid
+Toyota,Prius,2011,"4,250,000.00",150000,Petrol
+Toyota,Prius,2013,"4,250,000.00",150000,Petrol
+Toyota,Prius,2012,"5,500,000.00",150000,Hybrid
+Toyota,Prius,2011,"4,250,000.00",156000,Hybrid
+Toyota,Prius,2011,"3,525,000.00",157000,Hybrid
+Toyota,Prius,2009,"3,700,000.00",158000,Petrol
+Toyota,Prius,2011,"3,300,000.00",160000,Petrol
+Toyota,Prius,2011,"3,650,000.00",160000,Petrol
+Toyota,Prius,2012,"4,100,000.00",160000,Petrol
+Toyota,Prius,2013,"4,700,000.00",160000,Hybrid
+Toyota,Prius,2010,"3,150,000.00",161500,Hybrid
+Toyota,Prius,2009,"3,660,000.00",162000,Petrol
+Toyota,Prius,2009,"3,750,000.00",162000,Hybrid
+Toyota,Prius,2008,"2,890,000.00",168900,Hybrid
+Toyota,Prius,2010,"3,050,000.00",169000,Petrol
+Toyota,Prius,2007,"3,150,000.00",170000,Hybrid
+Toyota,Prius,2011,"3,550,000.00",170000,Petrol
+Toyota,Prius,2009,"3,780,000.00",170000,Petrol
+Toyota,Prius,2008,"2,600,000.00",175000,Hybrid
+Toyota,Prius,2008,"2,500,000.00",180000,Hybrid
+Toyota,Prius,2011,"3,100,000.00",180000,Petrol
+Toyota,Prius,2008,"2,900,000.00",190000,Hybrid
+Toyota,Prius,2011,"3,675,000.00",195000,Hybrid
+Toyota,Prius,2010,"3,125,000.00",200000,Hybrid
+Toyota,Prius,2008,"3,250,000.00",223500,Hybrid
+Toyota,Prius,2008,"2,550,000.00",240000,Hybrid
+Toyota,Prius 3rd Genaration,2015,"4,890,000.00",69000,Hybrid
+Toyota,Prius 3rd Genaration,2015,"5,345,000.00",76400,Hybrid
+Toyota,Prius 3rd Genaration,2013,"4,650,000.00",80000,Hybrid
+Toyota,Prius 3rd Genaration,2012,"4,300,000.00",86000,Hybrid
+Toyota,Prius 3rd Genaration,2011,"4,250,000.00",87000,Hybrid
+Toyota,Prius 3rd Genaration,2010,"3,975,000.00",109000,Hybrid
+Toyota,Prius 3rd Genaration,2013,"4,295,000.00",109000,Hybrid
+Toyota,Prius 3rd Genaration,2011,"3,890,000.00",112500,Hybrid
+Toyota,Prius 3rd Genaration,2009,"3,250,000.00",125000,Hybrid
+Toyota,Prius 3rd Genaration,2012,"4,380,000.00",130000,Hybrid
+Toyota,Prius 3rd Genaration,2010,"3,390,000.00",147000,Petrol
+Toyota,Prius 3rd Generation,2011,"3,675,000.00",103000,Petrol
+Toyota,Prius 3rd Generation,2009,"3,625,000.00",114000,Petrol
+Toyota,Prius 3rd Generation,2012,"3,700,000.00",114000,Hybrid
+Toyota,Prius 3rd Generation,2013,"3,750,000.00",120000,Petrol
+Toyota,Prius 3rd Generation,2011,"4,000,000.00",120000,Petrol
+Toyota,Prius 3rd Generation,2013,"3,350,000.00",130000,Petrol
+Toyota,Prius 3rd Generation,2011,"3,825,000.00",130000,Hybrid
+Toyota,Prius 3rd Generation,2009,"3,600,000.00",138000,Hybrid
+Toyota,Prius 3rd Generation,2010,"3,450,000.00",150000,Hybrid
+Toyota,Prius 3rd Generation,2012,"4,200,000.00",155000,Hybrid
+Toyota,Prius 3rd Generation,2012,"4,200,000.00",194000,Hybrid
+Toyota,Prius S Grade,2013,"4,535,000.00",65786,Hybrid
+Toyota,Prius S Grade,2012,"4,250,000.00",74000,Hybrid
+Toyota,Prius S Grade,2014,"4,535,000.00",75000,Hybrid
+Toyota,Prius S Grade,2013,"4,200,000.00",83000,Petrol
+Toyota,Prius S Grade,2012,"4,175,000.00",85000,Hybrid
+Toyota,Prius S Grade,2015,"4,550,000.00",89000,Hybrid
+Toyota,Prius S Grade,2011,"3,575,000.00",93000,Hybrid
+Toyota,Prius S Grade,2011,"3,475,000.00",98000,Hybrid
+Toyota,Prius S Grade,2013,"4,390,000.00",104000,Hybrid
+Toyota,Prius S Grade,2013,"3,890,000.00",105000,Hybrid
+Toyota,Prius S Grade,2012,"3,575,000.00",105600,Hybrid
+Toyota,Prius S Grade,2012,"4,390,000.00",112000,Petrol
+Toyota,Prius S Grade,2012,"4,375,000.00",113000,Hybrid
+Toyota,Prius S Grade,2011,"3,400,000.00",164000,Petrol
+Toyota,Prius S Touring,2014,"5,700,000.00",30000,Petrol
+Toyota,Prius S Touring,2012,"5,175,000.00",38500,Hybrid
+Toyota,Prius S Touring,2011,"4,250,000.00",40000,Hybrid
+Toyota,Prius S Touring,2014,"4,350,000.00",52000,Petrol
+Toyota,Prius S Touring,2014,"4,875,000.00",53000,Hybrid
+Toyota,Prius S Touring,2014,"4,590,000.00",65000,Hybrid
+Toyota,Prius S Touring,2013,"4,990,000.00",68000,Hybrid
+Toyota,Prius S Touring,2012,"4,100,000.00",71000,Hybrid
+Toyota,Prius S Touring,2014,"4,625,000.00",79350,Petrol
+Toyota,Prius S Touring,2013,"4,750,000.00",80000,Hybrid
+Toyota,Prius S Touring,2014,"4,950,000.00",81000,Hybrid
+Toyota,Prius S Touring,2011,"3,900,000.00",84500,Hybrid
+Toyota,Prius S Touring,2014,"4,350,000.00",87000,Hybrid
+Toyota,Prius S Touring,2014,"4,650,000.00",88000,Petrol
+Toyota,Prius S Touring,2013,"4,825,000.00",88000,Hybrid
+Toyota,Prius S Touring,2014,"4,500,000.00",92000,Hybrid
+Toyota,Prius S Touring,2010,"3,650,000.00",95000,Hybrid
+Toyota,Prius S Touring,2013,"4,350,000.00",95000,Petrol
+Toyota,Prius S Touring,2010,"3,385,000.00",97000,Petrol
+Toyota,Prius S Touring,2012,"4,150,000.00",97000,Hybrid
+Toyota,Prius S Touring,2011,"4,125,000.00",101500,Hybrid
+Toyota,Prius S Touring,2011,"4,150,000.00",102356,Petrol
+Toyota,Prius S Touring,2010,"3,425,000.00",106000,Hybrid
+Toyota,Prius S Touring,2013,"4,775,000.00",110000,Hybrid
+Toyota,Prius S Touring,2011,"3,950,000.00",121000,Hybrid
+Toyota,Prius S Touring,2011,"4,250,000.00",122000,Hybrid
+Toyota,Prius S Touring,2012,"4,950,000.00",124500,Petrol
+Toyota,Prius S Touring,2011,"4,150,000.00",125000,Petrol
+Toyota,Prius S Touring,2011,"3,800,000.00",126306,Hybrid
+Toyota,Prius S Touring,2011,"3,695,000.00",130000,Hybrid
+Toyota,Roomy,2019,"5,750,000.00",3000,Petrol
+Toyota,Roomy,2017,"5,225,000.00",6940,Petrol
+Toyota,Roomy,2018,"5,300,000.00",7200,Petrol
+Toyota,Roomy,2017,"5,050,000.00",10000,Petrol
+Toyota,Roomy,2018,"5,300,000.00",15000,Petrol
+Toyota,Roomy,2017,"5,225,000.00",19650,Petrol
+Toyota,Roomy,2017,"5,000,000.00",25000,Petrol
+Toyota,Roomy,2016,"5,000,000.00",28000,Petrol
+Toyota,Roomy,2017,"4,965,000.00",28500,Petrol
+Toyota,Roomy,2017,"4,790,000.00",29854,Petrol
+Toyota,Roomy,2017,"4,800,000.00",35000,Petrol
+Toyota,Roomy,2017,"4,700,000.00",53000,Petrol
+Toyota,Roomy,2017,"4,650,000.00",60000,Petrol
+Toyota,Soluna,2000,"1,650,000.00",92813,Petrol
+Toyota,Soluna,2000,"1,650,000.00",120000,Petrol
+Toyota,Soluna,2001,"1,425,000.00",125000,Petrol
+Toyota,Soluna,2000,"1,650,000.00",125000,Petrol
+Toyota,Soluna,2001,"1,720,000.00",126700,Petrol
+Toyota,Soluna,2001,"1,775,000.00",127000,Petrol
+Toyota,Soluna,2000,"1,650,000.00",148000,Petrol
+Toyota,Soluna,2002,"1,550,000.00",149600,Petrol
+Toyota,Soluna,2000,"1,700,000.00",152000,Petrol
+Toyota,Soluna,2003,"1,590,000.00",160000,Petrol
+Toyota,Soluna,2005,"1,750,000.00",160000,Petrol
+Toyota,Soluna,2000,"1,850,000.00",160856,Petrol
+Toyota,Soluna,2001,"1,610,000.00",170000,Petrol
+Toyota,Soluna,2003,"1,900,000.00",170000,Petrol
+Toyota,Soluna,2002,"1,650,000.00",180000,Petrol
+Toyota,Soluna,2005,"1,750,000.00",188542,Petrol
+Toyota,soluna,2001,"1,725,000.00",190000,Petrol
+Toyota,Soluna,2005,"1,875,000.00",197000,Petrol
+Toyota,Soluna,2001,"1,700,000.00",218000,Petrol
+Toyota,Soluna,2000,"1,600,000.00",220000,Petrol
+Toyota,Soluna,2000,"1,750,000.00",252000,Petrol
+Toyota,Soluna,2000,"1,590,000.00",318000,Petrol
+Toyota,Tank,2018,"5,225,000.00",5300,Petrol
+Toyota,Tank,2018,"5,350,000.00",14654,Petrol
+Toyota,Tank,2018,"5,650,000.00",15000,Petrol
+Toyota,Tank,2017,"5,695,000.00",18990,Petrol
+Toyota,Tank,2016,"5,100,000.00",19000,Petrol
+Toyota,Tank,2017,"5,175,000.00",19850,Petrol
+Toyota,Tank,2018,"5,100,000.00",20000,Petrol
+Toyota,Tank,2017,"5,500,000.00",21500,Petrol
+Toyota,Tank,2017,"5,175,000.00",21786,Petrol
+Toyota,Tank,2017,"4,975,000.00",27000,Petrol
+Toyota,Tank,2017,"5,125,000.00",36000,Petrol
+Toyota,Tank,2018,"5,500,000.00",36500,Petrol
+Toyota,Tank,2017,"3,990,000.00",50000,Petrol
+Toyota,Vios,2004,"2,600,000.00",80000,Petrol
+Toyota,Vios,2005,"2,800,000.00",85000,Petrol
+Toyota,Vios,2006,"3,100,000.00",86000,Petrol
+Toyota,Vios,2004,"2,850,000.00",93500,Petrol
+Toyota,Vios,2003,"2,625,000.00",98000,Petrol
+Toyota,Vios,2003,"2,500,000.00",99000,Petrol
+Toyota,Vios,2010,"2,810,000.00",99230,Petrol
+Toyota,Vios,2003,"2,980,000.00",100512,Petrol
+Toyota,Vios,2005,"2,750,000.00",102000,Petrol
+Toyota,Vios,2004,"2,725,000.00",106000,Petrol
+Toyota,Vios,2006,"2,850,000.00",106000,Petrol
+Toyota,Vios,2004,"2,490,000.00",110000,Petrol
+Toyota,Vios,2003,"2,490,000.00",110000,Petrol
+Toyota,Vios,2003,"2,525,000.00",112000,Petrol
+Toyota,Vios,2005,"3,000,000.00",115000,Petrol
+Toyota,Vios,2004,"2,850,000.00",118000,Petrol
+Toyota,Vios,2003,"2,340,000.00",120000,Petrol
+Toyota,Vios,2004,"2,690,000.00",120000,Petrol
+Toyota,Vios,2004,"2,800,000.00",120000,Petrol
+Toyota,Vios,2005,"2,925,000.00",120000,Petrol
+Toyota,Vios,2005,"2,625,000.00",125000,Petrol
+Toyota,Vios,2006,"2,650,000.00",125000,Petrol
+Toyota,Vios,2003,"2,850,000.00",125000,Petrol
+Toyota,Vios,2004,"2,525,000.00",130000,Petrol
+Toyota,Vios,2003,"2,600,000.00",131000,Petrol
+Toyota,Vios,2007,"3,225,000.00",131000,Petrol
+Toyota,Vios,2003,"2,775,000.00",133000,Petrol
+Toyota,Vios,2003,"2,600,000.00",135000,Petrol
+Toyota,Vios,2005,"2,975,000.00",135000,Petrol
+Toyota,Vios,2007,"2,475,000.00",140000,Petrol
+Toyota,Vios,2007,"3,490,000.00",142000,Petrol
+Toyota,Vios,2007,"2,565,000.00",143000,Petrol
+Toyota,Vios,2007,"3,450,000.00",145700,Petrol
+Toyota,Vios,2004,"2,850,000.00",149000,Petrol
+Toyota,Vios,2006,"2,950,000.00",149000,Petrol
+Toyota,Vios,2006,"2,550,000.00",152000,Petrol
+Toyota,Vios,2004,"2,875,000.00",152000,Petrol
+Toyota,Vios,2004,"2,475,000.00",153500,Petrol
+Toyota,Vios,2003,"2,550,000.00",155000,Petrol
+Toyota,Vios,2003,"2,650,000.00",158000,Petrol
+Toyota,Vios,2005,"2,730,000.00",160000,Petrol
+Toyota,Vios,2004,"2,750,000.00",160000,Petrol
+Toyota,Vios,2004,"3,000,000.00",160000,Petrol
+Toyota,Vios,2003,"2,490,000.00",162000,Petrol
+Toyota,Vios,2004,"2,390,000.00",165000,Petrol
+Toyota,Vios,2004,"2,850,000.00",165000,Petrol
+Toyota,Vios,2003,"2,675,000.00",167000,Petrol
+Toyota,Vios,2004,"2,850,000.00",171000,Petrol
+Toyota,Vios,2004,"2,550,000.00",173000,Petrol
+Toyota,Vios,2003,"2,590,000.00",173000,Petrol
+Toyota,Vios,2006,"2,850,000.00",175500,Petrol
+Toyota,Vios,2008,"2,615,000.00",177000,Petrol
+Toyota,Vios,2004,"2,800,000.00",180000,Petrol
+Toyota,Vios,2003,"2,800,000.00",180000,Petrol
+Toyota,Vios,2003,"2,850,000.00",180000,Petrol
+Toyota,Vios,2003,"2,750,000.00",191000,Petrol
+Toyota,Vios,2004,"2,850,000.00",195000,Petrol
+Toyota,Vios,2003,"2,500,000.00",209263,Petrol
+Toyota,Vios,2004,"2,350,000.00",210000,Petrol
+Toyota,Vios,2004,"2,725,000.00",228000,Petrol
+Toyota,Vios,2007,"2,690,000.00",240000,Petrol
+Toyota,Vitz,2019,"5,790,000.00",1000,Petrol
+Toyota,Vitz,2020,"6,000,000.00",1300,Petrol
+Toyota,Vitz,2018,"5,260,000.00",2300,Petrol
+Toyota,Vitz,2019,"5,950,000.00",2700,Petrol
+Toyota,Vitz,2018,"5,875,000.00",3000,Petrol
+Toyota,Vitz,2018,"5,750,000.00",3165,Petrol
+Toyota,Vitz,2018,"5,450,000.00",3200,Petrol
+Toyota,Vitz,2019,"5,975,000.00",3220,Petrol
+Toyota,Vitz,2019,"5,900,000.00",3500,Petrol
+Toyota,Vitz,2019,"5,800,000.00",4000,Petrol
+Toyota,Vitz,2019,"5,925,000.00",4000,Petrol
+Toyota,Vitz,2019,"5,975,000.00",4000,Petrol
+Toyota,Vitz,2018,"5,175,000.00",4780,Petrol
+Toyota,Vitz,2018,"5,300,000.00",4800,Petrol
+Toyota,Vitz,2018,"5,375,000.00",4900,Petrol
+Toyota,Vitz,2018,"5,890,000.00",5000,Petrol
+Toyota,Vitz,2019,"5,925,000.00",5000,Petrol
+Toyota,Vitz,2019,"6,050,000.00",5000,Petrol
+Toyota,Vitz,2018,"5,550,000.00",5100,Petrol
+Toyota,Vitz,2018,"5,350,000.00",5200,Petrol
+Toyota,Vitz,2018,"5,390,000.00",6300,Petrol
+Toyota,Vitz,2017,"4,750,000.00",8000,Petrol
+Toyota,Vitz,2019,"5,890,000.00",8200,Petrol
+Toyota,Vitz,2018,"5,875,000.00",9000,Petrol
+Toyota,Vitz,2019,"5,890,000.00",9000,Petrol
+Toyota,Vitz,2018,"5,375,000.00",9300,Petrol
+Toyota,Vitz,2018,"5,200,000.00",10020,Diesel
+Toyota,Vitz,2019,"5,375,000.00",10500,Petrol
+Toyota,Vitz,2018,"5,385,000.00",11000,Petrol
+Toyota,Vitz,2018,"5,495,000.00",11750,Petrol
+Toyota,Vitz,2018,"5,175,000.00",12600,Petrol
+Toyota,Vitz,2017,"4,675,000.00",13000,Petrol
+Toyota,Vitz,2018,"5,400,000.00",13000,Petrol
+Toyota,Vitz,2017,"4,825,000.00",13060,Petrol
+Toyota,Vitz,2018,"5,400,000.00",14000,Petrol
+Toyota,Vitz,2017,"5,175,000.00",15000,Petrol
+Toyota,Vitz,2018,"5,190,000.00",15000,Petrol
+Toyota,Vitz,2018,"5,675,000.00",15000,Petrol
+Toyota,Vitz,2014,"4,590,000.00",15800,Petrol
+Toyota,Vitz,2018,"5,500,000.00",15865,Petrol
+Toyota,Vitz,2017,"5,400,000.00",15870,Petrol
+Toyota,Vitz,2007,"3,080,000.00",16000,Petrol
+Toyota,Vitz,2018,"5,225,000.00",16000,Petrol
+Toyota,Vitz,2018,"5,350,000.00",16000,Petrol
+Toyota,Vitz,2018,"5,425,000.00",16500,Petrol
+Toyota,Vitz,2019,"5,780,000.00",16500,Petrol
+Toyota,Vitz,2018,"5,225,000.00",16900,Petrol
+Toyota,Vitz,2017,"5,050,000.00",17000,Petrol
+Toyota,Vitz,2017,"5,125,000.00",17000,Petrol
+Toyota,Vitz,2019,"5,850,000.00",17000,Petrol
+Toyota,Vitz,2017,"4,690,000.00",17500,Petrol
+Toyota,Vitz,2018,"5,550,000.00",17500,Petrol
+Toyota,Vitz,2019,"5,750,000.00",17800,Petrol
+Toyota,Vitz,2016,"4,600,000.00",18000,Petrol
+Toyota,Vitz,2017,"4,725,000.00",18000,Petrol
+Toyota,Vitz,2018,"5,050,000.00",18000,Petrol
+Toyota,Vitz,2019,"5,850,000.00",18000,Petrol
+Toyota,Vitz,2016,"5,130,000.00",18600,Petrol
+Toyota,Vitz,2018,"5,550,000.00",19000,Petrol
+Toyota,Vitz,2018,"5,650,000.00",19000,Petrol
+Toyota,Vitz,2020,"6,275,000.00",19800,Petrol
+Toyota,Vitz,2015,"4,300,000.00",20000,Petrol
+Toyota,Vitz,2016,"4,775,000.00",20000,Petrol
+Toyota,Vitz,2018,"5,200,000.00",20000,Petrol
+Toyota,Vitz,2017,"4,825,000.00",21000,Petrol
+Toyota,Vitz,2017,"4,875,000.00",21000,Petrol
+Toyota,Vitz,2017,"4,900,000.00",21000,Petrol
+Toyota,Vitz,2017,"5,050,000.00",21000,Petrol
+Toyota,Vitz,2017,"5,090,000.00",22000,Petrol
+Toyota,Vitz,2018,"5,100,000.00",22000,Petrol
+Toyota,Vitz,2018,"5,350,000.00",22000,Petrol
+Toyota,Vitz,2018,"5,400,000.00",22000,Petrol
+Toyota,Vitz,2017,"4,875,000.00",22500,Petrol
+Toyota,Vitz,2017,"4,800,000.00",23000,Petrol
+Toyota,Vitz,2017,"5,150,000.00",23000,Petrol
+Toyota,Vitz,2018,"5,200,000.00",23500,Petrol
+Toyota,Vitz,2018,"5,590,000.00",23500,Petrol
+Toyota,Vitz,2018,"5,275,000.00",23600,Petrol
+Toyota,Vitz,2015,"4,050,000.00",24000,Petrol
+Toyota,Vitz,2016,"4,390,000.00",24000,Petrol
+Toyota,Vitz,2016,"4,675,000.00",24100,Petrol
+Toyota,Vitz,2016,"4,385,000.00",24500,Petrol
+Toyota,Vitz,2015,"4,250,000.00",25000,Petrol
+Toyota,Vitz,2018,"5,150,000.00",25000,Petrol
+Toyota,Vitz,2017,"5,175,000.00",25000,Petrol
+Toyota,Vitz,2018,"5,590,000.00",25000,Petrol
+Toyota,Vitz,2015,"4,200,000.00",25580,Petrol
+Toyota,Vitz,2017,"5,150,000.00",25580,Petrol
+Toyota,Vitz,2016,"4,650,000.00",26000,Petrol
+Toyota,Vitz,2016,"4,655,000.00",26000,Petrol
+Toyota,Vitz,2017,"4,900,000.00",26100,Petrol
+Toyota,Vitz,2015,"4,450,000.00",26300,Petrol
+Toyota,Vitz,2015,"4,450,000.00",27000,Petrol
+Toyota,Vitz,2018,"5,900,000.00",27000,Petrol
+Toyota,Vitz,2015,"4,575,000.00",27350,Petrol
+Toyota,Vitz,2014,"4,295,000.00",27584,Petrol
+Toyota,Vitz,2016,"4,375,000.00",27860,Petrol
+Toyota,Vitz,2016,"4,525,000.00",28000,Petrol
+Toyota,Vitz,2016,"4,575,000.00",28000,Petrol
+Toyota,Vitz,2018,"5,225,000.00",28500,Petrol
+Toyota,Vitz,2014,"4,260,000.00",28900,Petrol
+Toyota,Vitz,2015,"4,675,000.00",29000,Petrol
+Toyota,Vitz,2018,"5,290,000.00",29000,Petrol
+Toyota,Vitz,2018,"5,500,000.00",29000,Petrol
+Toyota,Vitz,2017,"4,850,000.00",29500,Petrol
+Toyota,Vitz,2017,"4,990,000.00",29838,Petrol
+Toyota,Vitz,2017,"4,850,000.00",29900,Petrol
+Toyota,Vitz,2016,"4,350,000.00",30700,Petrol
+Toyota,Vitz,2015,"4,385,000.00",31000,Petrol
+Toyota,Vitz,2016,"4,650,000.00",31000,Petrol
+Toyota,Vitz,2017,"4,775,000.00",31000,Petrol
+Toyota,Vitz,2017,"4,825,000.00",31000,Petrol
+Toyota,Vitz,2016,"4,950,000.00",31000,Petrol
+Toyota,Vitz,2018,"5,265,000.00",31300,Petrol
+Toyota,Vitz,2019,"5,950,000.00",31900,Petrol
+Toyota,Vitz,2015,"4,050,000.00",32000,Petrol
+Toyota,Vitz,2016,"4,550,000.00",32000,Petrol
+Toyota,Vitz,2016,"4,590,000.00",32000,Petrol
+Toyota,Vitz,2018,"5,200,000.00",32000,Petrol
+Toyota,Vitz,2018,"5,390,000.00",32000,Petrol
+Toyota,Vitz,2016,"4,550,000.00",32500,Petrol
+Toyota,Vitz,2015,"4,575,000.00",32500,Petrol
+Toyota,Vitz,2016,"4,600,000.00",33000,Petrol
+Toyota,Vitz,2017,"4,875,000.00",33400,Petrol
+Toyota,Vitz,2016,"4,625,000.00",33500,Petrol
+Toyota,Vitz,2016,"4,775,000.00",34000,Petrol
+Toyota,Vitz,2017,"4,775,000.00",34000,Petrol
+Toyota,Vitz,2018,"5,250,000.00",34028,Petrol
+Toyota,Vitz,2015,"4,375,000.00",35000,Petrol
+Toyota,Vitz,2017,"4,850,000.00",35000,Petrol
+Toyota,Vitz,2018,"5,100,000.00",35000,Petrol
+Toyota,Vitz,2018,"5,275,000.00",35000,Petrol
+Toyota,Vitz,2018,"5,375,000.00",35000,Petrol
+Toyota,Vitz,2017,"4,475,000.00",36000,Petrol
+Toyota,Vitz,2018,"5,275,000.00",36000,Petrol
+Toyota,Vitz,2018,"5,375,000.00",36000,Petrol
+Toyota,Vitz,2015,"4,395,000.00",36900,Petrol
+Toyota,Vitz,2015,"4,300,000.00",38000,Petrol
+Toyota,Vitz,2016,"4,375,000.00",38000,Petrol
+Toyota,Vitz,2015,"4,450,000.00",38000,Petrol
+Toyota,Vitz,2016,"4,590,000.00",38000,Petrol
+Toyota,Vitz,2017,"5,000,000.00",38000,Petrol
+Toyota,Vitz,2018,"5,325,000.00",38000,Petrol
+Toyota,Vitz,2018,"5,275,000.00",38800,Petrol
+Toyota,Vitz,2017,"5,125,000.00",39000,Petrol
+Toyota,Vitz,2017,"4,900,000.00",39900,Petrol
+Toyota,Vitz,2014,"4,125,000.00",40000,Petrol
+Toyota,Vitz,2015,"4,250,000.00",40000,Petrol
+Toyota,Vitz,2015,"4,315,000.00",40000,Petrol
+Toyota,Vitz,2015,"4,425,000.00",40000,Petrol
+Toyota,Vitz,2015,"4,450,000.00",40000,Petrol
+Toyota,Vitz,2016,"4,590,000.00",40000,Petrol
+Toyota,Vitz,2016,"4,650,000.00",40000,Petrol
+Toyota,Vitz,2017,"4,800,000.00",40000,Petrol
+Toyota,Vitz,2017,"4,990,000.00",40000,Petrol
+Toyota,Vitz,2016,"4,475,000.00",40950,Petrol
+Toyota,Vitz,2015,"4,350,000.00",41000,Petrol
+Toyota,Vitz,2015,"4,360,000.00",41000,Petrol
+Toyota,Vitz,2016,"4,530,000.00",42000,Petrol
+Toyota,Vitz,2015,"4,340,000.00",43000,Petrol
+Toyota,Vitz,2015,"4,385,000.00",43000,Petrol
+Toyota,Vitz,2016,"4,550,000.00",43000,Petrol
+Toyota,Vitz,2018,"5,200,000.00",43000,Petrol
+Toyota,Vitz,2018,"5,390,000.00",43200,Petrol
+Toyota,Vitz,2016,"4,450,000.00",43325,Petrol
+Toyota,Vitz,2015,"4,400,000.00",44000,Petrol
+Toyota,Vitz,2016,"4,475,000.00",44000,Petrol
+Toyota,Vitz,2016,"4,525,000.00",44000,Petrol
+Toyota,Vitz,2016,"4,650,000.00",44000,Petrol
+Toyota,Vitz,2017,"4,790,000.00",44000,Petrol
+Toyota,Vitz,2017,"5,175,000.00",44000,Petrol
+Toyota,Vitz,2018,"5,290,000.00",44000,Petrol
+Toyota,Vitz,2016,"4,675,000.00",44500,Petrol
+Toyota,Vitz,2014,"4,375,000.00",44700,Petrol
+Toyota,Vitz,2016,"4,550,000.00",44800,Petrol
+Toyota,Vitz,2016,"4,390,000.00",45000,Petrol
+Toyota,Vitz,2016,"4,420,000.00",45000,Petrol
+Toyota,Vitz,2017,"4,630,000.00",45000,Petrol
+Toyota,Vitz,2018,"5,190,000.00",45000,Petrol
+Toyota,Vitz,2018,"5,275,000.00",45000,Petrol
+Toyota,Vitz,2016,"4,550,000.00",46000,Petrol
+Toyota,Vitz,2016,"4,375,000.00",47000,Petrol
+Toyota,Vitz,2018,"5,250,000.00",47000,Petrol
+Toyota,Vitz,2016,"4,495,000.00",47132,Petrol
+Toyota,Vitz,2015,"4,360,000.00",48000,Petrol
+Toyota,Vitz,2016,"4,475,000.00",48000,Petrol
+Toyota,Vitz,2016,"4,565,000.00",48000,Petrol
+Toyota,Vitz,2015,"4,575,000.00",48000,Petrol
+Toyota,Vitz,2017,"4,375,000.00",48840,Petrol
+Toyota,Vitz,2017,"4,600,000.00",49470,Petrol
+Toyota,Vitz,2015,"4,275,000.00",51000,Petrol
+Toyota,Vitz,2015,"4,425,000.00",51000,Petrol
+Toyota,Vitz,2016,"4,500,000.00",51000,Petrol
+Toyota,Vitz,2015,"4,200,000.00",51900,Petrol
+Toyota,Vitz,2015,"4,385,000.00",52000,Petrol
+Toyota,Vitz,2018,"5,250,000.00",52496,Petrol
+Toyota,Vitz,2016,"4,400,000.00",53000,Petrol
+Toyota,Vitz,2015,"4,250,000.00",54000,Petrol
+Toyota,Vitz,2017,"4,885,000.00",54000,Petrol
+Toyota,Vitz,2017,"4,850,000.00",55000,Petrol
+Toyota,Vitz,2007,"3,075,000.00",56000,Petrol
+Toyota,Vitz,2008,"3,600,000.00",56000,Petrol
+Toyota,Vitz,2016,"4,390,000.00",56000,Petrol
+Toyota,Vitz,2016,"4,535,000.00",56000,Petrol
+Toyota,Vitz,2016,"4,650,000.00",56000,Petrol
+Toyota,Vitz,2008,"3,375,000.00",57500,Petrol
+Toyota,Vitz,2015,"3,999,999.00",58000,Petrol
+Toyota,Vitz,2016,"4,400,000.00",58000,Petrol
+Toyota,Vitz,2015,"4,500,000.00",58907,Petrol
+Toyota,Vitz,2016,"4,425,000.00",59000,Petrol
+Toyota,Vitz,2016,"4,475,000.00",59000,Petrol
+Toyota,Vitz,2015,"4,325,000.00",60000,Petrol
+Toyota,Vitz,2016,"4,350,000.00",60000,Petrol
+Toyota,Vitz,2015,"4,425,000.00",60000,Petrol
+Toyota,Vitz,2017,"4,875,000.00",60000,Petrol
+Toyota,Vitz,2010,"3,425,000.00",61000,Petrol
+Toyota,Vitz,2017,"4,850,000.00",61000,Petrol
+Toyota,Vitz,2016,"4,590,000.00",61200,Petrol
+Toyota,Vitz,2016,"4,550,000.00",63000,Petrol
+Toyota,Vitz,2015,"4,700,000.00",64000,Petrol
+Toyota,Vitz,2016,"4,350,000.00",64500,Petrol
+Toyota,Vitz,2008,"2,900,000.00",64564,Petrol
+Toyota,Vitz,2009,"3,550,000.00",65000,Petrol
+Toyota,Vitz,2015,"4,250,000.00",65000,Petrol
+Toyota,Vitz,2015,"4,275,000.00",65000,Petrol
+Toyota,Vitz,2016,"4,425,000.00",65000,Petrol
+Toyota,Vitz,2011,"3,275,000.00",67000,Petrol
+Toyota,Vitz,2009,"3,450,000.00",67000,Petrol
+Toyota,Vitz,2008,"3,325,000.00",68000,Petrol
+Toyota,Vitz,2015,"4,250,000.00",68000,Petrol
+Toyota,Vitz,2018,"5,390,000.00",68249,Petrol
+Toyota,Vitz,2015,"4,250,000.00",69000,Petrol
+Toyota,Vitz,2005,"3,150,000.00",70000,Petrol
+Toyota,Vitz,2015,"4,385,000.00",70000,Petrol
+Toyota,Vitz,2012,"3,400,000.00",71000,Petrol
+Toyota,Vitz,2013,"3,850,000.00",71500,Petrol
+Toyota,Vitz,2008,"3,450,000.00",71612,Petrol
+Toyota,Vitz,2008,"3,350,000.00",72000,Petrol
+Toyota,Vitz,2007,"3,080,000.00",72300,Petrol
+Toyota,Vitz,2015,"4,550,000.00",72626,Petrol
+Toyota,Vitz,2008,"3,325,000.00",73432,Petrol
+Toyota,Vitz,2008,"3,475,000.00",73500,Petrol
+Toyota,Vitz,2008,"3,425,000.00",75000,Petrol
+Toyota,Vitz,2007,"3,550,000.00",75000,Petrol
+Toyota,Vitz,2008,"2,775,000.00",76000,Petrol
+Toyota,Vitz,2007,"3,275,000.00",77500,Petrol
+Toyota,Vitz,2008,"3,450,000.00",78000,Petrol
+Toyota,Vitz,2007,"3,500,000.00",78000,Petrol
+Toyota,Vitz,2010,"3,690,000.00",78000,Petrol
+Toyota,Vitz,2008,"3,495,000.00",78367,Petrol
+Toyota,Vitz,2000,"2,200,000.00",80000,Petrol
+Toyota,Vitz,2009,"2,800,000.00",80000,Petrol
+Toyota,Vitz,2010,"3,450,000.00",80000,Petrol
+Toyota,Vitz,2007,"3,195,000.00",80500,Petrol
+Toyota,Vitz,2015,"4,375,000.00",81000,Petrol
+Toyota,Vitz,2008,"2,865,000.00",82000,Petrol
+Toyota,Vitz,2008,"3,100,000.00",82000,Petrol
+Toyota,Vitz,2008,"3,200,000.00",82000,Petrol
+Toyota,Vitz,2009,"3,450,000.00",82300,Petrol
+Toyota,Vitz,2011,"3,785,000.00",83000,Petrol
+Toyota,Vitz,2007,"3,385,000.00",84000,Petrol
+Toyota,Vitz,2008,"2,750,000.00",85000,Petrol
+Toyota,Vitz,2008,"2,835,000.00",85000,Petrol
+Toyota,Vitz,2011,"3,120,000.00",85000,Petrol
+Toyota,Vitz,2007,"3,175,000.00",85000,Petrol
+Toyota,Vitz,2008,"3,200,000.00",85000,Petrol
+Toyota,Vitz,2008,"3,450,000.00",85000,Petrol
+Toyota,Vitz,2013,"4,095,000.00",85000,Petrol
+Toyota,Vitz,2008,"3,450,000.00",85500,Petrol
+Toyota,Vitz,2009,"2,990,000.00",86000,Petrol
+Toyota,Vitz,2007,"3,125,000.00",86000,Petrol
+Toyota,Vitz,2010,"3,475,000.00",86000,Petrol
+Toyota,Vitz,2015,"4,675,000.00",86000,Petrol
+Toyota,Vitz,2007,"3,300,000.00",86212,Petrol
+Toyota,Vitz,2007,"2,940,000.00",87000,Petrol
+Toyota,Vitz,2007,"3,100,000.00",87000,Petrol
+Toyota,Vitz,2007,"3,150,000.00",87000,Petrol
+Toyota,Vitz,2007,"3,190,000.00",87900,Petrol
+Toyota,Vitz,2005,"2,525,000.00",88000,Petrol
+Toyota,Vitz,2007,"3,260,000.00",88000,Petrol
+Toyota,Vitz,2009,"3,050,000.00",88500,Petrol
+Toyota,Vitz,2009,"3,360,000.00",88700,Petrol
+Toyota,Vitz,2008,"3,285,000.00",89000,Petrol
+Toyota,Vitz,2008,"3,290,000.00",89000,Petrol
+Toyota,Vitz,2007,"3,350,000.00",89000,Petrol
+Toyota,Vitz,2008,"3,450,000.00",89000,Petrol
+Toyota,Vitz,2007,"2,600,000.00",90000,Petrol
+Toyota,Vitz,2008,"2,850,000.00",90000,Petrol
+Toyota,Vitz,2007,"3,290,000.00",90000,Petrol
+Toyota,Vitz,2015,"4,490,000.00",90000,Petrol
+Toyota,Vitz,2009,"3,475,000.00",91000,Petrol
+Toyota,Vitz,2007,"3,200,000.00",91500,Petrol
+Toyota,Vitz,2008,"2,715,000.00",92000,Petrol
+Toyota,Vitz,2007,"2,950,000.00",92000,Petrol
+Toyota,Vitz,2008,"3,395,000.00",92158,Petrol
+Toyota,Vitz,2007,"2,800,000.00",92500,Petrol
+Toyota,Vitz,2007,"2,750,000.00",93000,Petrol
+Toyota,Vitz,2008,"3,000,000.00",94000,Petrol
+Toyota,Vitz,2008,"3,380,000.00",94000,Petrol
+Toyota,Vitz,2010,"3,425,000.00",94025,Petrol
+Toyota,Vitz,2009,"2,850,000.00",96000,Petrol
+Toyota,Vitz,2008,"3,375,000.00",96000,Petrol
+Toyota,Vitz,2009,"2,850,000.00",97000,Petrol
+Toyota,Vitz,2008,"3,050,000.00",97000,Petrol
+Toyota,Vitz,2007,"3,275,000.00",97750,Petrol
+Toyota,Vitz,2007,"2,650,000.00",98000,Petrol
+Toyota,Vitz,2005,"3,140,000.00",98000,Petrol
+Toyota,Vitz,2007,"3,250,000.00",98000,Petrol
+Toyota,Vitz,2009,"2,890,000.00",99000,Petrol
+Toyota,Vitz,2008,"3,320,000.00",99000,Petrol
+Toyota,Vitz,2007,"3,460,000.00",99000,Petrol
+Toyota,Vitz,2007,"3,525,000.00",99000,Petrol
+Toyota,Vitz,2007,"2,750,000.00",99421,Petrol
+Toyota,Vitz,2007,"2,775,000.00",100000,Petrol
+Toyota,Vitz,2007,"3,375,000.00",100000,Petrol
+Toyota,Vitz,2007,"3,450,000.00",100000,Petrol
+Toyota,Vitz,2010,"3,550,000.00",100000,Petrol
+Toyota,Vitz,2009,"3,575,000.00",100000,Petrol
+Toyota,Vitz,2010,"3,675,000.00",100000,Petrol
+Toyota,Vitz,2007,"2,980,000.00",101000,Petrol
+Toyota,Vitz,2007,"3,300,000.00",101000,Petrol
+Toyota,Vitz,2008,"3,325,000.00",102000,Petrol
+Toyota,Vitz,2008,"3,380,000.00",102000,Petrol
+Toyota,Vitz,2009,"3,450,000.00",102200,Petrol
+Toyota,Vitz,2008,"3,410,000.00",103000,Petrol
+Toyota,Vitz,2007,"3,250,000.00",104000,Petrol
+Toyota,Vitz,2007,"2,520,000.00",105000,Petrol
+Toyota,Vitz,2007,"2,680,000.00",105000,Petrol
+Toyota,Vitz,2009,"2,800,000.00",105000,Petrol
+Toyota,Vitz,2010,"2,950,000.00",105000,Petrol
+Toyota,Vitz,2008,"3,350,000.00",106000,Petrol
+Toyota,Vitz,2007,"2,700,000.00",108000,Petrol
+Toyota,Vitz,2007,"2,650,000.00",110000,Petrol
+Toyota,Vitz,2000,"2,250,000.00",110500,Petrol
+Toyota,Vitz,2007,"3,225,000.00",112000,Petrol
+Toyota,Vitz,2008,"3,300,000.00",112000,Petrol
+Toyota,Vitz,2007,"3,375,000.00",112000,Petrol
+Toyota,Vitz,2007,"3,400,000.00",113000,Petrol
+Toyota,Vitz,2008,"3,300,000.00",114000,Petrol
+Toyota,Vitz,2000,"2,300,000.00",115000,Petrol
+Toyota,Vitz,2007,"3,125,000.00",115000,Petrol
+Toyota,Vitz,2009,"3,675,000.00",115000,Petrol
+Toyota,Vitz,2001,"2,150,000.00",116000,Petrol
+Toyota,Vitz,2008,"3,250,000.00",116000,Petrol
+Toyota,Vitz,2007,"3,100,000.00",116670,Petrol
+Toyota,Vitz,2007,"3,350,000.00",117000,Petrol
+Toyota,Vitz,2007,"3,175,000.00",119000,Petrol
+Toyota,Vitz,2007,"2,925,000.00",120000,Petrol
+Toyota,Vitz,2007,"3,250,000.00",120000,Petrol
+Toyota,Vitz,2007,"3,290,000.00",120000,Petrol
+Toyota,Vitz,2008,"3,290,000.00",120000,Petrol
+Toyota,Vitz,2007,"3,290,000.00",121000,Petrol
+Toyota,Vitz,2010,"3,425,000.00",121000,Petrol
+Toyota,Vitz,2015,"4,175,000.00",121650,Petrol
+Toyota,Vitz,2005,"3,075,000.00",122000,Petrol
+Toyota,Vitz,2010,"3,525,000.00",123000,Petrol
+Toyota,Vitz,2001,"2,450,000.00",124000,Petrol
+Toyota,Vitz,2007,"2,670,000.00",124000,Petrol
+Toyota,Vitz,2007,"3,150,000.00",124000,Petrol
+Toyota,Vitz,2008,"3,150,000.00",124000,Petrol
+Toyota,Vitz,2008,"3,200,000.00",124000,Petrol
+Toyota,Vitz,2005,"3,000,000.00",125000,Petrol
+Toyota,Vitz,2006,"2,775,000.00",128000,Petrol
+Toyota,Vitz,2007,"2,850,000.00",129000,Petrol
+Toyota,Vitz,2008,"3,265,000.00",129000,Petrol
+Toyota,Vitz,2001,"2,100,000.00",130000,Petrol
+Toyota,Vitz,2008,"3,350,000.00",130000,Petrol
+Toyota,Vitz,2011,"3,500,000.00",130000,Petrol
+Toyota,Vitz,2012,"3,560,000.00",134000,Petrol
+Toyota,Vitz,2008,"3,290,000.00",135000,Petrol
+Toyota,Vitz,2007,"3,225,000.00",136000,Petrol
+Toyota,Vitz,2009,"3,290,000.00",136000,Petrol
+Toyota,Vitz,2001,"2,250,000.00",138000,Petrol
+Toyota,Vitz,2000,"2,100,000.00",140000,Petrol
+Toyota,Vitz,2000,"2,175,000.00",140000,Petrol
+Toyota,Vitz,2007,"2,700,000.00",140000,Petrol
+Toyota,Vitz,2012,"3,750,000.00",140000,Petrol
+Toyota,Vitz,2007,"3,150,000.00",141000,Petrol
+Toyota,Vitz,2007,"3,360,000.00",145000,Petrol
+Toyota,Vitz,2002,"2,200,000.00",146000,Petrol
+Toyota,Vitz,2000,"2,250,000.00",147000,Petrol
+Toyota,Vitz,2007,"3,145,000.00",147400,Petrol
+Toyota,Vitz,2007,"3,125,000.00",148000,Petrol
+Toyota,Vitz,2001,"2,320,000.00",150000,Petrol
+Toyota,Vitz,2008,"3,275,000.00",158300,Petrol
+Toyota,Vitz,2000,"1,950,000.00",160000,Petrol
+Toyota,Vitz,2007,"3,075,000.00",160000,Petrol
+Toyota,Vitz,2000,"2,250,000.00",164000,Petrol
+Toyota,Vitz,2000,"2,025,000.00",170000,Petrol
+Toyota,Vitz,2007,"3,070,000.00",172000,Petrol
+Toyota,Vitz,2007,"2,650,000.00",175000,Petrol
+Toyota,Vitz,2000,"2,250,000.00",200000,Petrol
+Toyota,Vitz Edition 2,2018,"5,700,000.00",4000,Petrol
+Toyota,Vitz Edition 2,2018,"5,375,000.00",7000,Petrol
+Toyota,Vitz Edition 2,2018,"5,550,000.00",11700,Petrol
+Toyota,Vitz Edition 2,2018,"5,285,000.00",22000,Petrol
+Toyota,Vitz Edition 2,2019,"5,995,000.00",22100,Petrol
+Toyota,Vitz Edition 2,2018,"5,350,000.00",23200,Petrol
+Toyota,Vitz Edition 2,2017,"4,625,000.00",29000,Petrol
+Toyota,Vitz Edition 2,2018,"5,575,000.00",29000,Petrol
+Toyota,Vitz Edition 2,2018,"4,355,000.00",37000,Petrol
+Toyota,Vitz Edition 2,2017,"4,825,000.00",43000,Petrol
+Toyota,Vitz Edition 3,2019,"5,675,000.00",1611,Petrol
+Toyota,Vitz Edition 3,2019,"4,825,000.00",2000,Petrol
+Toyota,Vitz Edition 3,2019,"5,750,000.00",3000,Petrol
+Toyota,Vitz Edition 3,2020,"6,290,000.00",3700,Petrol
+Toyota,Vitz Edition 3,2019,"4,625,000.00",8000,Petrol
+Toyota,Vitz Edition 3,2019,"5,590,000.00",9800,Petrol
+Toyota,Vitz Edition 3,2019,"5,675,000.00",11000,Petrol
+Toyota,Vitz Edition 3,2019,"5,675,000.00",13000,Petrol
+Toyota,Vitz Edition 3,2019,"5,650,000.00",14000,Petrol
+Toyota,Vitz Edition 3,2019,"5,575,000.00",15000,Petrol
+Toyota,Vitz Edition 3,2018,"5,490,000.00",19500,Petrol
+Toyota,Vitz Edition 3,2018,"5,345,000.00",31000,Petrol
+Toyota,Vitz Edition 3,2018,"5,350,000.00",34000,Petrol
+Toyota,Vitz F,2018,"4,995,000.00",7000,Petrol
+Toyota,Vitz F,2018,"5,350,000.00",11500,Petrol
+Toyota,Vitz F,2018,"5,495,000.00",11500,Petrol
+Toyota,Vitz F,2018,"5,750,000.00",15000,Petrol
+Toyota,Vitz F,2017,"4,975,000.00",15300,Petrol
+Toyota,Vitz F,2015,"4,290,000.00",36000,Petrol
+Toyota,Vitz F,2017,"4,895,000.00",38425,Petrol
+Toyota,Vitz F,2017,"4,495,000.00",39000,Petrol
+Toyota,Vitz F,2017,"4,475,000.00",45000,Petrol
+Toyota,Vitz F,2016,"4,300,000.00",46000,Petrol
+Toyota,Vitz F,2015,"4,525,000.00",50600,Petrol
+Toyota,Vitz KSP90,2008,"3,300,000.00",40000,Petrol
+Toyota,Vitz KSP90,2008,"2,780,000.00",65000,Petrol
+Toyota,Vitz KSP90,2008,"3,425,000.00",75000,Petrol
+Toyota,Vitz KSP90,2009,"3,325,000.00",80000,Petrol
+Toyota,Vitz KSP90,2008,"3,450,000.00",85000,Petrol
+Toyota,Vitz KSP90,2007,"3,245,000.00",98700,Petrol
+Toyota,Vitz KSP90,2007,"3,300,000.00",99200,Petrol
+Toyota,Vitz KSP90,2008,"2,735,000.00",100560,Petrol
+Toyota,Vitz KSP90,2008,"3,290,000.00",115000,Petrol
+Toyota,Vitz KSP90,2007,"3,225,000.00",116000,Petrol
+Toyota,Vitz KSP90,2007,"3,235,000.00",126000,Petrol
+Toyota,Vitz KSP90,2008,"3,390,000.00",135000,Petrol
+Toyota,Vitz KSP90,2007,"2,600,000.00",185424,Petrol
+Toyota,Yaris,2020,"7,200,000.00",500,Petrol
+Toyota,Yaris,2020,"6,850,000.00",2200,Petrol
+Toyota,Yaris,2007,"3,785,000.00",71500,Petrol
+Toyota,Yaris,2014,"4,950,000.00",73500,Petrol
+Toyota,Yaris,2007,"2,850,000.00",75000,Petrol
+Toyota,Yaris,2007,"2,850,000.00",90000,Petrol
+Toyota,Yaris,2007,"3,400,000.00",98000,Petrol
+Toyota,Yaris,2008,"3,550,000.00",120600,Petrol
+Toyota,Yaris,2006,"3,660,000.00",122000,Petrol
+Toyota,Yaris,2008,"3,575,000.00",127000,Petrol
+Toyota,Yaris,2007,"3,525,000.00",131000,Petrol
+Toyota,Yaris,2007,"3,600,000.00",135000,Petrol
+Toyota,Yaris,2008,"3,590,000.00",141000,Petrol
+Toyota,Yaris,2007,"3,650,000.00",155000,Petrol
+Toyota,Yaris,2008,"3,565,000.00",160000,Petrol
+Toyota,Yaris,2008,"3,650,000.00",160000,Petrol
+Toyota,Yaris,2008,"3,575,000.00",165200,Petrol
+Toyota,Yaris,2006,"3,550,000.00",185000,Petrol
+Toyota Innova 2.5 E 8 STR,Toyota,2014,"3,800,810.00",145600,Petrol
+Maruti Suzuki Alto 800 Vxi,Maruti,2018,Ask For Price,"22,000 kms",Petrol
+Hyundai Accent 2001 Car,Hyundai,2001,"1,875,000",75000,Petrol
+Maruti Suzuki Omni,Maruti,2011,"1,350,000",135582,Petrol
+Mahindra KUV100,Mahindra,2000,"5,075,000",31000,
+,,,,,
+Datsun Go Plus,Datsun,2017,"2,750,000",90000,Petrol
+Ford Endeavor 4x4 Thunder Plus,Ford,2016,,,
+Tata Indica V2,Tata,2019,,,
+,,,,,
+Maruti Suzuki Wagon R ,Maruti,2014,"4,425,000",67000,Petrol
+Maruti Suzuki Swift Select Variant,Maruti,2016,"5,425,000",58000,Petrol

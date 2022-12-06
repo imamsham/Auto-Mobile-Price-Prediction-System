@@ -1,0 +1,1499 @@
+name,company,year,Price,kms_driven,fuel_type
+Allion,Toyota,2018,9300000,8000,Petrol
+Allion,Toyota,2018,9890000,9875,Petrol
+Allion,Toyota,2018,9850000,10907,Petrol
+Allion,Toyota,2008,4885000,13000,Petrol
+Allion,Toyota,2017,8000000,22300,Petrol
+Allion,Toyota,2016,7675000,26000,Petrol
+Allion,Toyota,2016,7900000,27000,Petrol
+Allion,Toyota,2016,7000000,31000,Petrol
+Allion,Toyota,2017,13000000,41000,Petrol
+Allion,Toyota,2018,14500000,47000,Petrol
+Allion,Toyota,2016,11500000,47000,Petrol
+Allion,Toyota,2016,11500000,49000,Petrol
+Allion,Toyota,2014,9700000,54000,Petrol
+Allion,Toyota,2016,11500000,56000,Petrol
+Allion,Toyota,2013,11250000,60000,Petrol
+Allion,Toyota,2013,11250000,71000,Petrol
+Allion,Toyota,2013,11250000,71500,Petrol
+Allion,Toyota,2013,11250000,75000,Petrol
+Allion,Toyota,2011,8250000,76501,Petrol
+Allion,Toyota,2010,8100000,85000,Petrol
+Allion,Toyota,2013,8800000,85000,Petrol
+Allion,Toyota,2010,8100000,86000,Petrol
+Allion,Toyota,2010,8100000,86000,Petrol
+Allion,Toyota,2013,8800000,87000,Petrol
+Allion,Toyota,2010,8250000,89000,Petrol
+Allion,Toyota,2008,7950000,90000,Petrol
+Allion,Toyota,2010,8250000,90000,Petrol
+Allion,Toyota,2011,9500000,90080,Petrol
+Allion,Toyota,2010,7350000,92000,Petrol
+Allion,Toyota,2010,7350000,92700,Petrol
+Allion,Toyota,2009,7100000,93000,Petrol
+Allion,Toyota,2009,7100000,96000,Petrol
+Allion,Toyota,2007,7300000,97000,Petrol
+Allion,Toyota,2010,7290000,97000,Petrol
+Allion,Toyota,2008,7250000,97000,Petrol
+Allion,Toyota,2010,8400000,97000,Petrol
+Allion,Toyota,2007,7500000,100000,Petrol
+Allion,Toyota,2010,8400000,100000,Petrol
+Allion,Toyota,2013,9500000,102000,Petrol
+Allion,Toyota,2012,9100000,102000,Petrol
+Allion,Toyota,2010,7290000,104000,Petrol
+Allion,Toyota,2010,7290000,105000,Petrol
+Allion,Toyota,2012,8250000,106000,Petrol
+Allion,Toyota,2007,7300000,106000,Petrol
+Allion,Toyota,2006,6100000,107000,Petrol
+Allion,Toyota,2007,7500000,109000,Petrol
+Allion,Toyota,2008,8600000,110000,Petrol
+Allion,Toyota,2008,8600000,110000,Petrol
+Allion,Toyota,2007,7650000,112000,Petrol
+Allion,Toyota,2007,7650000,112000,Petrol
+Allion,Toyota,2007,7650000,112000,Petrol
+Allion,Toyota,2010,7750000,112000,Petrol
+Allion,Toyota,2010,7750000,112500,Petrol
+Allion,Toyota,2009,7500000,113000,Petrol
+Allion,Toyota,2008,6950000,115000,Petrol
+Allion,Toyota,2004,5575000,116000,Petrol
+Allion,Toyota,2003,5275000,117000,Petrol
+Allion,Toyota,2007,7225000,117000,Petrol
+Allion,Toyota,2007,7225000,117000,Petrol
+Allion,Toyota,2007,7225000,117000,Petrol
+Allion,Toyota,2002,5150000,118000,Petrol
+Allion,Toyota,2003,5275000,120000,Petrol
+Allion,Toyota,2004,5850000,120000,Petrol
+Allion,Toyota,2002,5150000,120000,Petrol
+Allion,Toyota,2003,5275000,120000,Petrol
+Allion,Toyota,2003,5275000,120000,Petrol
+Allion,Toyota,2007,7225000,120000,Petrol
+Allion,Toyota,2007,7225000,120000,Petrol
+Allion,Toyota,2007,7225000,120000,Petrol
+Allion,Toyota,2001,4900000,121000,Petrol
+Allion,Toyota,2001,4900000,121000,Petrol
+Allion,Toyota,2004,6100000,124000,Petrol
+Allion,Toyota,2005,5900000,124000,Petrol
+Allion,Toyota,2009,8225000,124000,Petrol
+Allion,Toyota,2004,6100000,125000,Petrol
+Allion,Toyota,2010,7950000,126000,Petrol
+Allion,Toyota,2004,6400000,128000,Petrol
+Allion,Toyota,2008,7800000,130000,Petrol
+Allion,Toyota,2008,7800000,130000,Petrol
+Allion,Toyota,2004,6200000,133000,Petrol
+Allion,Toyota,2003,6200000,135000,Petrol
+Allion,Toyota,2011,9000000,137000,Petrol
+Allion,Toyota,2002,4500000,138000,Petrol
+Allion,Toyota,2006,6100000,92000,Petrol
+Allion 240,Toyota,2004,5150000,92000,Petrol
+Allion 240,Toyota,2003,5150000,95000,Petrol
+Allion 240,Toyota,2006,6200000,96000,Petrol
+Allion 240,Toyota,2005,6500000,99000,Petrol
+Allion 240,Toyota,2006,6300000,102000,Petrol
+Allion 240,Toyota,2004,5800000,102500,Petrol
+Allion 240,Toyota,2002,5500000,107960,Petrol
+Allion 240,Toyota,2003,5500000,115000,Petrol
+Allion 240,Toyota,2003,5500000,115000,Petrol
+Allion 240,Toyota,2003,5500000,120000,Petrol
+Allion 240,Toyota,2003,5500000,120000,Petrol
+Allion 240,Toyota,2004,5850000,121000,Petrol
+Allion 240,Toyota,2003,5500000,122600,Petrol
+Allion 240,Toyota,2005,6000000,124000,Petrol
+Allion 240,Toyota,2005,6000000,124000,Petrol
+Allion 240,Toyota,2003,5200000,127000,Petrol
+Allion 240,Toyota,2003,5200000,127000,Petrol
+Allion 240,Toyota,2006,5500000,127000,Petrol
+Allion 240,Toyota,2005,5350000,128000,Petrol
+Allion 240,Toyota,2002,5100000,132000,Petrol
+Allion 240,Toyota,2003,5500000,135000,Petrol
+Allion 240,Toyota,2003,5500000,135000,Petrol
+Allion 240,Toyota,2007,8200000,135000,Petrol
+Allion 240,Toyota,2002,4900000,138000,Petrol
+Allion 240,Toyota,2007,6900000,143000,Petrol
+Allion 260,Toyota,2007,7100000,123000,Petrol
+Allion 260,Toyota,2009,7350000,124500,Petrol
+Allion 260,Toyota,2010,7390000,125000,Petrol
+Allion 260,Toyota,2010,7390000,125000,Petrol
+Allion 260,Toyota,2012,9200000,127000,Petrol
+Allion 260,Toyota,2007,6500000,130000,Petrol
+Allion 260,Toyota,2007,6500000,130000,Petrol
+Allion 260,Toyota,2009,7350000,130000,Petrol
+Allion 260,Toyota,2011,9500000,130000,Petrol
+Allion 260,Toyota,2007,6350000,140000,Petrol
+Allion 260,Toyota,2008,6500000,147000,Petrol
+Allion 260,Toyota,2007,6200000,148000,Petrol
+Allion 260,Toyota,2007,6200000,150000,Petrol
+Allion 260,Toyota,2007,7390000,157000,Petrol
+Allion 260,Toyota,2008,7600000,159000,Petrol
+Allion 260,Toyota,2007,6990000,160000,Petrol
+Allion 260,Toyota,2007,6990000,160000,Petrol
+Allion 260,Toyota,2007,6990000,160000,Petrol
+Allion 260,Toyota,2008,7650000,160000,Petrol
+Allion 260,Toyota,2007,6750000,174000,Petrol
+Allion 260,Toyota,2012,8575000,183000,Petrol
+Allion 260,Toyota,2008,6600000,190000,Petrol
+Allion 260,Toyota,2008,6600000,200000,Petrol
+Allion 260,Toyota,2011,8600000,230000,Petrol
+Aqua,Toyota,2015,6200000,5800,Hybrid
+Aqua,Toyota,2017,8500000,15000,Petrol
+Aqua,Toyota,2015,7500000,22000,Hybrid
+Aqua,Toyota,2013,5650000,28000,Hybrid
+Aqua,Toyota,2015,7500000,30000,Hybrid
+Aqua,Toyota,2018,8950000,30400,Hybrid
+Aqua,Toyota,2015,6200000,32000,Hybrid
+Aqua,Toyota,2015,6200000,32000,Hybrid
+Aqua,Toyota,2015,6200000,34000,Hybrid
+Aqua,Toyota,2014,5600000,34300,Hybrid
+Aqua,Toyota,2015,6200000,36000,Petrol
+Aqua,Toyota,2015,6200000,38000,Hybrid
+Aqua,Toyota,2014,5600000,38750,Petrol
+Aqua,Toyota,2014,5600000,39500,Hybrid
+Aqua,Toyota,2013,4975000,40000,Hybrid
+Aqua,Toyota,2014,5600000,40000,Hybrid
+Aqua,Toyota,2012,5200000,40500,Hybrid
+Aqua,Toyota,2014,5600000,41000,Hybrid
+Aqua,Toyota,2015,7475000,42035,Hybrid
+Aqua,Toyota,2016,7600000,43000,Hybrid
+Aqua,Toyota,2015,7475000,44000,Petrol
+Aqua,Toyota,2015,7475000,45000,Hybrid
+Aqua,Toyota,2015,7475000,45000,Petrol
+Aqua,Toyota,2017,8500000,45000,Hybrid
+Aqua,Toyota,2014,6195000,46000,Petrol
+Aqua,Toyota,2015,7475000,46000,Hybrid
+Aqua,Toyota,2012,5200000,47000,Petrol
+Aqua,Toyota,2013,4975000,47000,Hybrid
+Aqua,Toyota,2015,7475000,47100,Petrol
+Aqua,Toyota,2013,4975000,47500,Hybrid
+Aqua,Toyota,2013,4975000,48000,Hybrid
+Aqua,Toyota,2014,6195000,53000,Petrol
+Aqua,Toyota,2015,7475000,53300,Hybrid
+Aqua,Toyota,2015,7475000,54000,Petrol
+Aqua,Toyota,2014,6195000,55000,Petrol
+Aqua,Toyota,2014,5600000,55000,Hybrid
+Aqua,Toyota,2015,7475000,55000,Hybrid
+Aqua,Toyota,2014,6195000,55227,Hybrid
+Aqua,Toyota,2013,4975000,55400,Hybrid
+Aqua,Toyota,2012,5200000,56000,Hybrid
+Aqua,Toyota,2015,7475000,56000,Hybrid
+Aqua,Toyota,2012,5200000,57000,Petrol
+Aqua,Toyota,2013,5600000,57000,Hybrid
+Aqua,Toyota,2013,5600000,58000,Petrol
+Aqua,Toyota,2013,5600000,60000,Petrol
+Aqua,Toyota,2013,5600000,60000,Petrol
+Aqua,Toyota,2014,6195000,60000,Petrol
+Aqua,Toyota,2016,7600000,60000,Petrol
+Aqua,Toyota,2012,5200000,60100,Hybrid
+Aqua,Toyota,2013,5600000,62000,Hybrid
+Aqua,Toyota,2014,6195000,62000,Petrol
+Aqua,Toyota,2013,5600000,62000,Hybrid
+Aqua,Toyota,2012,5200000,62500,Petrol
+Aqua,Toyota,2013,5600000,63000,Petrol
+Aqua,Toyota,2015,7475000,63421,Hybrid
+Aqua,Toyota,2013,5600000,63600,Hybrid
+Aqua,Toyota,2014,6195000,64000,Hybrid
+Aqua,Toyota,2014,6195000,64000,Petrol
+Aqua,Toyota,2014,6195000,65000,Petrol
+Aqua,Toyota,2013,5600000,65000,Petrol
+Aqua,Toyota,2014,6195000,65000,Hybrid
+Aqua,Toyota,2015,7475000,65000,Hybrid
+Aqua,Toyota,2014,6195000,65800,Petrol
+Aqua,Toyota,2012,5200000,76000,Hybrid
+Aqua,Toyota,2012,5200000,76000,Petrol
+Aqua,Toyota,2012,5200000,76000,Hybrid
+Aqua,Toyota,2014,6195000,76000,Petrol
+Aqua,Toyota,2014,6195000,76000,Hybrid
+Aqua,Toyota,2013,5600000,77000,Hybrid
+Aqua,Toyota,2013,5600000,77000,Petrol
+Aqua,Toyota,2013,5600000,77000,Petrol
+Aqua,Toyota,2014,6195000,78000,Hybrid
+Aqua,Toyota,2012,5200000,78000,Petrol
+Aqua,Toyota,2014,6195000,78000,Electric
+Aqua,Toyota,2014,6195000,78000,Hybrid
+Aqua,Toyota,2013,5600000,78000,Hybrid
+Aqua,Toyota,2013,5600000,78000,Petrol
+Aqua,Toyota,2014,6195000,78200,Hybrid
+Aqua,Toyota,2013,5600000,79000,Petrol
+Aqua,Toyota,2012,5200000,79000,Hybrid
+Aqua,Toyota,2012,5200000,79000,Hybrid
+Aqua,Toyota,2014,6195000,79000,Hybrid
+Aqua,Toyota,2012,5200000,80000,Hybrid
+Aqua,Toyota,2013,5600000,80000,Petrol
+Aqua,Toyota,2012,5200000,80000,Hybrid
+Aqua,Toyota,2012,5200000,80000,Petrol
+Aqua,Toyota,2014,6195000,80000,Hybrid
+Aqua,Toyota,2015,7475000,80000,Hybrid
+Aqua,Toyota,2014,6195000,80000,Hybrid
+Aqua,Toyota,2015,7475000,80000,Petrol
+Aqua,Toyota,2014,6195000,80500,Hybrid
+Aqua,Toyota,2013,5600000,81000,Petrol
+Aqua,Toyota,2015,7475000,81000,Petrol
+Aqua,Toyota,2013,5600000,81000,Hybrid
+Aqua,Toyota,2012,5200000,81250,Hybrid
+Aqua,Toyota,2014,6195000,81550,Hybrid
+Aqua,Toyota,2013,5600000,82000,Petrol
+Aqua,Toyota,2013,5600000,82500,Hybrid
+Aqua,Toyota,2013,5600000,82600,Hybrid
+Aqua,Toyota,2012,5200000,82700,Petrol
+Aqua,Toyota,2012,5200000,82833,Hybrid
+Aqua,Toyota,2013,5600000,83000,Petrol
+Aqua,Toyota,2013,5600000,83000,Petrol
+Aqua,Toyota,2013,5600000,83000,Hybrid
+Aqua,Toyota,2012,5200000,83000,Petrol
+Aqua,Toyota,2013,5600000,83300,Hybrid
+Aqua,Toyota,2014,6195000,84000,Hybrid
+Aqua,Toyota,2014,6195000,84500,Hybrid
+Aqua,Toyota,2012,5200000,85000,Hybrid
+Aqua,Toyota,2014,6195000,85000,Hybrid
+Aqua,Toyota,2013,5600000,85000,Petrol
+Aqua,Toyota,2012,5200000,85000,Petrol
+Aqua,Toyota,2014,6195000,85440,Hybrid
+Aqua,Toyota,2013,5600000,86000,Hybrid
+Aqua,Toyota,2014,6195000,86000,Hybrid
+Aqua,Toyota,2013,5600000,86000,Hybrid
+Aqua,Toyota,2012,5200000,87000,Hybrid
+Aqua,Toyota,2013,5600000,87000,Petrol
+Aqua,Toyota,2013,5600000,87000,Petrol
+Aqua,Toyota,2015,7475000,87000,Hybrid
+Aqua,Toyota,2012,5200000,88000,Petrol
+Aqua,Toyota,2014,6195000,88000,Petrol
+Aqua,Toyota,2012,5200000,88000,Hybrid
+Aqua,Toyota,2014,6195000,88000,Hybrid
+Aqua,Toyota,2013,5600000,88000,Petrol
+Aqua,Toyota,2013,5600000,88000,Hybrid
+Aqua,Toyota,2014,6195000,88000,Petrol
+Aqua,Toyota,2015,7475000,88000,Hybrid
+Aqua,Toyota,2014,6195000,88350,Hybrid
+Aqua,Toyota,2012,5200000,88500,Hybrid
+Aqua,Toyota,2013,5600000,89000,Hybrid
+Aqua,Toyota,2013,5600000,89000,Hybrid
+Aqua,Toyota,2012,5200000,89600,Hybrid
+Aqua,Toyota,2012,5200000,90000,Petrol
+Aqua,Toyota,2012,5200000,90000,Hybrid
+Aqua,Toyota,2013,5600000,90000,Hybrid
+Aqua,Toyota,2013,5600000,90100,Petrol
+Aqua,Toyota,2012,5200000,91000,Hybrid
+Aqua,Toyota,2014,6195000,91000,Hybrid
+Aqua,Toyota,2012,5200000,92000,Petrol
+Aqua,Toyota,2013,5600000,92000,Hybrid
+Aqua,Toyota,2013,5600000,92000,Petrol
+Aqua,Toyota,2014,6195000,92000,Hybrid
+Aqua,Toyota,2013,5600000,94000,Hybrid
+Aqua,Toyota,2012,5200000,94200,Hybrid
+Aqua,Toyota,2012,5200000,94464,Hybrid
+Aqua,Toyota,2013,5600000,95000,Petrol
+Aqua,Toyota,2013,5600000,96000,Petrol
+Aqua,Toyota,2014,6195000,96000,Hybrid
+Aqua,Toyota,2014,6195000,96000,Hybrid
+Aqua,Toyota,2012,5200000,97000,Hybrid
+Aqua,Toyota,2013,5600000,98000,Petrol
+Aqua,Toyota,2013,5600000,98000,Hybrid
+Aqua,Toyota,2012,5200000,98000,Hybrid
+Aqua,Toyota,2012,5200000,98400,Petrol
+Aqua,Toyota,2013,5600000,99000,Hybrid
+Aqua,Toyota,2013,5600000,99324,Hybrid
+Aqua,Toyota,2012,5200000,100000,Hybrid
+Aqua,Toyota,2012,5200000,100000,Hybrid
+Aqua,Toyota,2013,5600000,100150,Petrol
+Aqua,Toyota,2012,5200000,100200,Hybrid
+Aqua,Toyota,2013,5600000,102000,Hybrid
+Aqua,Toyota,2012,5200000,105000,Hybrid
+Aqua,Toyota,2013,5600000,105000,Hybrid
+Aqua,Toyota,2013,5600000,107000,Hybrid
+Aqua,Toyota,2012,5200000,107000,Hybrid
+Aqua,Toyota,2012,5200000,107000,Hybrid
+Aqua,Toyota,2012,5200000,109000,Petrol
+Aqua,Toyota,2015,7475000,110000,Hybrid
+Aqua,Toyota,2012,5200000,111200,Petrol
+Aqua,Toyota,2013,5600000,112000,Hybrid
+Aqua,Toyota,2012,5200000,112000,Hybrid
+Aqua,Toyota,2012,5200000,115000,Hybrid
+Aqua,Toyota,2013,5600000,115308,Hybrid
+Aqua,Toyota,2012,5200000,116000,Hybrid
+Aqua,Toyota,2012,5200000,117000,Petrol
+Aqua,Toyota,2012,5200000,119000,Petrol
+Aqua,Toyota,2013,5600000,120000,Hybrid
+Aqua,Toyota,2012,5200000,120000,Petrol
+Aqua,Toyota,2012,5200000,120000,Hybrid
+Aqua,Toyota,2013,5600000,132000,Hybrid
+Aqua,Toyota,2013,5600000,135000,Hybrid
+Aqua,Toyota,2012,5200000,140000,Hybrid
+Aqua,Toyota,2012,5200000,144000,Hybrid
+Aqua,Toyota,2013,5600000,145000,Hybrid
+Aqua,Toyota,2012,5200000,145000,Petrol
+Aqua,Toyota,2012,5200000,153000,Hybrid
+Aqua,Toyota,2012,5200000,159000,Hybrid
+Aqua,Toyota,2012,5200000,166300,Petrol
+Aqua,Toyota,2013,5600000,182000,Hybrid
+Aqua,Toyota,2012,5200000,220000,Hybrid
+Aqua G Grade,Toyota,2015,7475000,7900,Hybrid
+Aqua G Grade,Toyota,2018,8950000,15870,Hybrid
+Aqua G Grade,Toyota,2012,4875000,40000,Petrol
+Aqua G Grade,Toyota,2012,4875000,45000,Petrol
+Aqua G Grade,Toyota,2013,5600000,46000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,50680,Hybrid
+Aqua G Grade,Toyota,2015,7475000,51500,Hybrid
+Aqua G grade,Toyota,2017,6250000,53100,Petrol
+Aqua G Grade,Toyota,2013,5600000,62000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,64500,Hybrid
+Aqua G Grade,Toyota,2012,4875000,64567,Petrol
+Aqua G Grade,Toyota,2014,6100000,65395,Hybrid
+Aqua G Grade,Toyota,2013,5600000,66000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,67000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,68000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,68000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,68000,Petrol
+Aqua G Grade,Toyota,2012,4875000,69500,Petrol
+Aqua G Grade,Toyota,2012,4875000,71000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,74600,Hybrid
+Aqua G Grade,Toyota,2012,4875000,75000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,76000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,78000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,80000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,80000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,80000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,82000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,83000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,83000,Petrol
+Aqua G Grade,Toyota,2014,6100000,86000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,88000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,90000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,90000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,92000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,92000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,92000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,92000,Hybrid
+Aqua G Grade,Toyota,2013,5600000,98500,Petrol
+Aqua G Grade,Toyota,2014,6100000,99000,Hybrid
+Aqua G Grade,Toyota,2014,6100000,99500,Hybrid
+Aqua G Grade,Toyota,2013,5600000,100000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,118000,Petrol
+Aqua G Grade,Toyota,2012,4875000,121000,Hybrid
+Aqua G Grade,Toyota,2012,4875000,127000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,50000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,53000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,53156,Petrol
+Aqua G Sport,Toyota,2015,7200000,58000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,58500,Petrol
+Aqua G Sport,Toyota,2014,5950000,61200,Hybrid
+Aqua G Sport,Toyota,2014,5950000,65000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,71000,Hybrid
+Aqua G Sport,Toyota,2015,7200000,73000,Petrol
+Aqua G Sport,Toyota,2014,5950000,75000,Hybrid
+Aqua G Sport,Toyota,2014,5950000,83000,Hybrid
+Aqua G Sport,Toyota,2013,5500000,92000,Hybrid
+Aqua S Grade,Toyota,2017,8200000,17000,Hybrid
+Aqua S Grade,Toyota,2015,7490000,52300,Hybrid
+Aqua S Grade,Toyota,2014,5900000,54000,Petrol
+Aqua S Grade,Toyota,2014,5900000,60000,Petrol
+Aqua S Grade,Toyota,2013,5500000,61632,Hybrid
+Aqua S Grade,Toyota,2012,5125000,66000,Petrol
+Aqua S Grade,Toyota,2012,5125000,67500,Hybrid
+Aqua S Grade,Toyota,2012,5125000,68000,Petrol
+Aqua S Grade,Toyota,2014,5900000,70000,Hybrid
+Aqua S Grade,Toyota,2014,5900000,75000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,76000,Petrol
+Aqua S Grade,Toyota,2016,7800000,77600,Hybrid
+Aqua S Grade,Toyota,2012,5125000,78000,Petrol
+Aqua S Grade,Toyota,2012,5125000,78000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,78000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,82000,Hybrid
+Aqua S Grade,Toyota,2014,5900000,83400,Petrol
+Aqua S Grade,Toyota,2012,5125000,87800,Hybrid
+Aqua S Grade,Toyota,2012,5125000,92000,Petrol
+Aqua S Grade,Toyota,2013,5500000,92000,Petrol
+Aqua S Grade,Toyota,2015,7490000,92000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,93000,Petrol
+Aqua S Grade,Toyota,2012,5125000,96000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,98000,Hybrid
+Aqua S Grade,Toyota,2014,5900000,98000,Hybrid
+Aqua S Grade,Toyota,2013,5500000,107000,Hybrid
+Aqua S Grade,Toyota,2012,5125000,120000,Petrol
+Aqua S Grade,Toyota,2013,5500000,130000,Petrol
+Aqua S Grade,Toyota,2012,5125000,144500,Hybrid
+Aqua X Urban,Toyota,2015,7500000,9000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,29000,Hybrid
+Aqua X Urban,Toyota,2016,8000000,29000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,30000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,35000,Petrol
+Aqua X Urban,Toyota,2015,7500000,40400,Hybrid
+Aqua X Urban,Toyota,2015,7500000,52600,Petrol
+Aqua X Urban,Toyota,2015,7500000,58000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,58000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,60000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,60000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,71300,Hybrid
+Aqua X Urban,Toyota,2015,7500000,75876,Petrol
+Aqua X Urban,Toyota,2015,7500000,80000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,80000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,85000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,87000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,89000,Hybrid
+Aqua X Urban,Toyota,2015,7500000,93000,Petrol
+Avanza,Toyota,2012,7250000,28000,Petrol
+Avanza,Toyota,2012,7250000,48000,Petrol
+Avanza,Toyota,2014,6500000,61000,Petrol
+Avanza,Toyota,2011,5700000,61043,Petrol
+Avanza,Toyota,2011,5700000,64000,Petrol
+Avanza,Toyota,2012,7250000,71000,Petrol
+Avanza,Toyota,2011,5700000,80000,Petrol
+Avanza,Toyota,2007,4700000,88800,Petrol
+Avanza,Toyota,2012,7250000,102000,Petrol
+Avanza,Toyota,2010,5500000,103000,Petrol
+Avanza,Toyota,2010,5500000,103000,Petrol
+Avanza,Toyota,2008,4950000,108300,Petrol
+Avanza,Toyota,2011,5700000,126000,Petrol
+Avanza,Toyota,2012,7250000,145000,Petrol
+Axio,Toyota,2019,11450000,1200,Hybrid
+Axio,Toyota,2018,9300000,3751,Hybrid
+Axio,Toyota,2017,8300000,9000,Hybrid
+Axio,Toyota,2015,7500000,10100,Hybrid
+Axio,Toyota,2018,9300000,11000,Petrol
+Axio,Toyota,2015,7500000,13000,Hybrid
+Axio,Toyota,2017,8300000,15000,Hybrid
+Axio,Toyota,2018,9300000,15807,Hybrid
+Axio,Toyota,2017,8300000,19300,Hybrid
+Axio,Toyota,2017,8300000,19750,Petrol
+Axio,Toyota,2017,8300000,23100,Hybrid
+Axio,Toyota,2016,8550000,26000,Hybrid
+Axio,Toyota,2017,8300000,27000,Hybrid
+Axio,Toyota,2016,8550000,29000,Hybrid
+Axio,Toyota,2015,7500000,30000,Hybrid
+Axio,Toyota,2016,8550000,32000,Hybrid
+Axio,Toyota,2016,8550000,35400,Hybrid
+Axio,Toyota,2016,8550000,36000,Hybrid
+Axio,Toyota,2016,8550000,36000,Petrol
+Axio,Toyota,2017,8300000,36000,Hybrid
+Axio,Toyota,2018,9300000,38000,Petrol
+Axio,Toyota,2015,7500000,39000,Petrol
+Axio,Toyota,2014,6250000,40000,Petrol
+Axio,Toyota,2016,8550000,40000,Hybrid
+Axio,Toyota,2014,6250000,41000,Hybrid
+Axio,Toyota,2015,7500000,41000,Petrol
+Axio,Toyota,2016,8550000,41000,Petrol
+Axio,Toyota,2016,8550000,41000,Petrol
+Axio,Toyota,2015,7500000,41500,Hybrid
+Axio,Toyota,2015,7500000,44000,Hybrid
+Axio,Toyota,2016,8550000,44256,Hybrid
+Axio,Toyota,2014,6250000,45000,Hybrid
+Axio,Toyota,2017,8300000,45000,Petrol
+Axio,Toyota,2016,8550000,45560,Petrol
+Axio,Toyota,2016,8550000,47000,Hybrid
+Axio,Toyota,2016,8550000,48000,Hybrid
+Axio,Toyota,2016,8550000,49000,Hybrid
+Axio,Toyota,2014,6250000,49850,Hybrid
+Axio,Toyota,2015,7500000,50000,Hybrid
+Axio,Toyota,2017,8300000,50000,Hybrid
+Axio,Toyota,2015,7500000,51000,Petrol
+Axio,Toyota,2015,7500000,52000,Hybrid
+Axio,Toyota,2015,7500000,52000,Hybrid
+Axio,Toyota,2011,5975000,53000,Petrol
+Axio,Toyota,2016,8550000,53000,Hybrid
+Axio,Toyota,2016,8550000,53000,Hybrid
+Axio,Toyota,2015,7500000,54000,Hybrid
+Axio,Toyota,2015,7500000,54000,Petrol
+Axio,Toyota,2016,8550000,54600,Hybrid
+Axio,Toyota,2018,9300000,55000,Petrol
+Axio,Toyota,2013,6775000,57000,Hybrid
+Axio,Toyota,2014,6250000,57000,Hybrid
+Axio,Toyota,2015,7500000,57000,Hybrid
+Axio,Toyota,2015,7500000,57000,Hybrid
+Axio,Toyota,2014,6250000,58046,Hybrid
+Axio,Toyota,2016,8550000,59000,Hybrid
+Axio,Toyota,2015,7500000,59200,Hybrid
+Axio,Toyota,2015,7500000,60000,Petrol
+Axio,Toyota,2017,8300000,60000,Hybrid
+Axio,Toyota,2015,7500000,61000,Hybrid
+Axio,Toyota,2015,7500000,61000,Hybrid
+Axio,Toyota,2016,8550000,61000,Hybrid
+Axio,Toyota,2014,6250000,62000,Hybrid
+Axio,Toyota,2013,6775000,63000,Hybrid
+Axio,Toyota,2013,6775000,63000,Hybrid
+Axio,Toyota,2014,6250000,63100,Hybrid
+Axio,Toyota,2015,7500000,64000,Hybrid
+Axio,Toyota,2013,6775000,65000,Hybrid
+Axio,Toyota,2010,5500000,65000,Petrol
+Axio,Toyota,2015,7500000,65000,Hybrid
+Axio,Toyota,2015,7500000,65000,Petrol
+Axio,Toyota,2015,7500000,65000,Hybrid
+Axio,Toyota,2017,8300000,65000,Petrol
+Axio,Toyota,2016,8550000,65000,Hybrid
+Axio,Toyota,2015,7500000,66000,Hybrid
+Axio,Toyota,2009,6250000,67000,Petrol
+Axio,Toyota,2014,6250000,67000,Hybrid
+Axio,Toyota,2016,8550000,67000,Hybrid
+Axio,Toyota,2014,6250000,68000,Hybrid
+Axio,Toyota,2014,6250000,68000,Hybrid
+Axio,Toyota,2015,7500000,68400,Hybrid
+Axio,Toyota,2014,6250000,69000,Hybrid
+Axio,Toyota,2013,6775000,70000,Hybrid
+Axio,Toyota,2015,7500000,70000,Hybrid
+Axio,Toyota,2014,6250000,71000,Hybrid
+Axio,Toyota,2013,6775000,72000,Hybrid
+Axio,Toyota,2015,7500000,73000,Hybrid
+Axio,Toyota,2016,8550000,73200,Hybrid
+Axio,Toyota,2017,8300000,73500,Hybrid
+Axio,Toyota,2013,6775000,74000,Hybrid
+Axio,Toyota,2016,8550000,74000,Petrol
+Axio,Toyota,2015,7500000,75000,Petrol
+Axio,Toyota,2015,7500000,75500,Hybrid
+Axio,Toyota,2014,6250000,76000,Hybrid
+Axio,Toyota,2013,6775000,76500,Hybrid
+Axio,Toyota,2015,7500000,76500,Hybrid
+Axio,Toyota,2016,8550000,76500,Hybrid
+Axio,Toyota,2015,7500000,77350,Hybrid
+Axio,Toyota,2010,5500000,77553,Petrol
+Axio,Toyota,2015,7500000,78000,Hybrid
+Axio,Toyota,2015,7500000,78000,Hybrid
+Axio,Toyota,2015,7500000,78000,Petrol
+Axio,Toyota,2016,8550000,78000,Hybrid
+Axio,Toyota,2011,5975000,79000,Petrol
+Axio,Toyota,2015,7500000,79000,Hybrid
+Axio,Toyota,2014,6250000,80000,Hybrid
+Axio,Toyota,2013,6775000,80000,Hybrid
+Axio,Toyota,2014,6250000,80000,Hybrid
+Axio,Toyota,2014,6250000,80000,Petrol
+Axio,Toyota,2015,7500000,80000,Hybrid
+Axio,Toyota,2015,7500000,80000,Hybrid
+Axio,Toyota,2015,7500000,80500,Hybrid
+Axio,Toyota,2007,4900000,81000,Petrol
+Axio,Toyota,2014,6250000,81000,Hybrid
+Axio,Toyota,2015,7500000,81000,Hybrid
+Axio,Toyota,2015,7500000,82000,Hybrid
+Axio,Toyota,2013,6775000,83000,Hybrid
+Axio,Toyota,2016,8550000,84000,Hybrid
+Axio,Toyota,2015,7500000,84000,Hybrid
+Axio,Toyota,2015,7500000,84000,Hybrid
+Axio,Toyota,2016,8550000,84000,Hybrid
+Axio,Toyota,2015,7500000,85000,Hybrid
+Axio,Toyota,2015,7500000,85000,Hybrid
+Axio,Toyota,2013,6775000,86000,Hybrid
+Axio,Toyota,2014,6250000,87000,Petrol
+Axio,Toyota,2015,7500000,87000,Hybrid
+Axio,Toyota,2015,7500000,87000,Hybrid
+Axio,Toyota,2015,7500000,87000,Hybrid
+Axio,Toyota,2010,5500000,88000,Petrol
+Axio,Toyota,2008,5750000,88000,Petrol
+Axio,Toyota,2008,5750000,88000,Diesel
+Axio,Toyota,2013,6775000,88000,Hybrid
+Axio,Toyota,2015,7500000,88200,Hybrid
+Axio,Toyota,2013,6775000,88500,Petrol
+Axio,Toyota,2008,5750000,89000,Petrol
+Axio,Toyota,2015,7500000,89000,Petrol
+Axio,Toyota,2014,6250000,90000,Hybrid
+Axio,Toyota,2014,6250000,90000,Hybrid
+Axio,Toyota,2015,7500000,90000,Petrol
+Axio,Toyota,2017,8300000,90000,Hybrid
+Axio,Toyota,2015,7500000,91000,Petrol
+Axio,Toyota,2008,5750000,92000,Hybrid
+Axio,Toyota,2008,5750000,92000,Petrol
+Axio,Toyota,2013,6775000,92000,Hybrid
+Axio,Toyota,2015,7500000,92000,Hybrid
+Axio,Toyota,2014,6250000,92200,Hybrid
+Axio,Toyota,2014,6250000,94000,Hybrid
+Axio,Toyota,2015,7500000,96000,Hybrid
+Axio,Toyota,2016,8550000,97000,Hybrid
+Axio,Toyota,2014,6250000,97219,Petrol
+Axio,Toyota,2015,7500000,98000,Petrol
+Axio,Toyota,2014,6250000,99000,Hybrid
+Axio,Toyota,2015,7500000,99000,Petrol
+Axio,Toyota,2007,5500000,100000,Petrol
+Axio,Toyota,2013,6775000,100000,Hybrid
+Axio,Toyota,2014,6250000,100000,Hybrid
+Axio,Toyota,2014,6250000,100000,Hybrid
+Axio,Toyota,2007,5500000,166000,Petrol
+Axio,Toyota,2014,6250000,178000,Petrol
+Axio,Toyota,2009,5650000,235000,Petrol
+Axio Fielder,Toyota,2018,8600000,26000,Hybrid
+Axio Fielder,Toyota,2015,8450000,60568,Petrol
+Axio Fielder,Toyota,2015,8450000,73000,Petrol
+Axio Fielder,Toyota,2015,8450000,90255,Hybrid
+Axio Fielder,Toyota,2014,6975000,108000,Hybrid
+Axio Fielder,Toyota,2007,5775000,118000,Petrol
+Axio Fielder,Toyota,2008,5900000,135000,Petrol
+Axio Fielder,Toyota,2014,6975000,145000,Hybrid
+Axio G Grade,Toyota,2018,1050000,17000,Hybrid
+Axio G Grade,Toyota,2018,1050000,25000,Petrol
+Axio G Grade,Toyota,2016,8900000,31000,Hybrid
+Axio G Grade,Toyota,2014,7090000,35000,Hybrid
+Axio G Grade,Toyota,2016,8900000,39000,Hybrid
+Axio G Grade,Toyota,2014,7090000,41000,Hybrid
+Axio G Grade,Toyota,2016,8900000,41000,Petrol
+Axio G Grade,Toyota,2017,7850000,44000,Hybrid
+Axio G Grade,Toyota,2016,8900000,52000,Hybrid
+Axio G Grade,Toyota,2016,8900000,52000,Hybrid
+Axio G Grade,Toyota,2015,7550000,53000,Petrol
+Axio G Grade,Toyota,2015,7550000,55000,Hybrid
+Axio G Grade,Toyota,2015,7550000,55000,Petrol
+Axio G Grade,Toyota,2016,8900000,61000,Hybrid
+Axio G Grade,Toyota,2015,7550000,68000,Hybrid
+Axio G Grade,Toyota,2016,8900000,68500,Hybrid
+Axio G Grade,Toyota,2014,7090000,69000,Hybrid
+Axio G Grade,Toyota,2015,7550000,70000,Hybrid
+Axio G Grade,Toyota,2014,7090000,71700,Petrol
+Axio G Grade,Toyota,2014,7090000,72000,Hybrid
+Axio G Grade,Toyota,2015,7550000,72000,Hybrid
+Axio G Grade,Toyota,2015,7550000,72115,Hybrid
+Axio G Grade,Toyota,2015,7550000,73000,Hybrid
+Axio G Grade,Toyota,2015,7550000,76400,Hybrid
+Axio G Grade,Toyota,2015,7550000,77000,Hybrid
+Axio G Grade,Toyota,2014,7090000,79589,Petrol
+Axio G Grade,Toyota,2015,7550000,80000,Petrol
+Axio G Grade,Toyota,2016,8900000,80000,Hybrid
+Axio G Grade,Toyota,2015,7550000,81000,Hybrid
+Axio G Grade,Toyota,2014,7090000,81500,Hybrid
+Axio G Grade,Toyota,2015,7550000,85000,Hybrid
+Axio G Grade,Toyota,2015,7550000,85258,Petrol
+Axio G Grade,Toyota,2013,6400000,86000,Hybrid
+Axio G Grade,Toyota,2013,6400000,86000,Hybrid
+Axio G Grade,Toyota,2015,7550000,87000,Petrol
+Axio G Grade,Toyota,2014,7090000,91000,Hybrid
+Axio G Grade,Toyota,2011,7500000,92000,Petrol
+Axio G Grade,Toyota,2014,7090000,100000,Hybrid
+Axio G Grade,Toyota,2010,7150000,108000,Petrol
+Axio G Grade,Toyota,2013,6400000,110000,Hybrid
+Axio G Grade,Toyota,2007,5950000,112000,Petrol
+Axio G Grade,Toyota,2011,7500000,115000,Petrol
+Axio G Grade,Toyota,2007,5950000,120000,Petrol
+Axio G Grade,Toyota,2016,8900000,125000,Hybrid
+Axio G Grade,Toyota,2007,5950000,130000,Petrol
+Axio G Grade,Toyota,2008,6450000,142000,Petrol
+Axio G Grade,Toyota,2006,5750000,144500,Petrol
+Axio G Grade,Toyota,2007,5950000,146000,Petrol
+Axio G Grade,Toyota,2010,7150000,148000,Petrol
+Axio G Grade,Toyota,2007,5950000,158000,Petrol
+Axio G Grade,Toyota,2008,6450000,170000,Petrol
+Axio G Grade,Toyota,2008,6450000,194000,Petrol
+Axio WXB,Toyota,2018,16500000,4500,Hybrid
+Axio WXB,Toyota,2019,15100000,4500,Hybrid
+Axio WXB,Toyota,2018,16500000,5850,Hybrid
+Axio WXB,Toyota,2017,10500000,8000,Hybrid
+Axio WXB,Toyota,2018,16500000,12500,Hybrid
+Axio WXB,Toyota,2018,16500000,13000,Hybrid
+Axio WXB,Toyota,2018,16500000,15500,Petrol
+Axio WXB,Toyota,2018,16500000,16500,Petrol
+Axio WXB,Toyota,2017,10500000,19000,Hybrid
+Axio WXB,Toyota,2018,16500000,20100,Hybrid
+Axio WXB,Toyota,2012,7390000,22000,Hybrid
+Axio WXB,Toyota,2017,10500000,22000,Hybrid
+Axio WXB,Toyota,2017,10500000,25000,Hybrid
+Axio WXB,Toyota,2019,15100000,25000,Petrol
+Axio WXB,Toyota,2016,9800000,25096,Hybrid
+Axio WXB,Toyota,2017,10500000,26000,Petrol
+Axio WXB,Toyota,2017,10500000,29000,Hybrid
+Axio WXB,Toyota,2016,9800000,32000,Petrol
+Axio WXB,Toyota,2017,10500000,35000,Hybrid
+Axio WXB,Toyota,2017,10500000,36000,Hybrid
+Axio WXB,Toyota,2017,10500000,36300,Hybrid
+Axio WXB,Toyota,2016,9800000,36500,Hybrid
+Axio WXB,Toyota,2017,10500000,37000,Petrol
+Axio WXB,Toyota,2017,10500000,38000,Hybrid
+Axio WXB,Toyota,2017,10500000,42000,Hybrid
+Axio WXB,Toyota,2017,10500000,43000,Hybrid
+Axio WXB,Toyota,2016,9800000,47569,Hybrid
+Axio WXB,Toyota,2017,10500000,48100,Hybrid
+Axio WXB,Toyota,2017,10500000,51000,Hybrid
+Axio WXB,Toyota,2017,10500000,51789,Petrol
+Axio WXB,Toyota,2016,9800000,52000,Hybrid
+Axio WXB,Toyota,2017,10500000,62000,Hybrid
+Axio WXB,Toyota,2017,10500000,64000,Hybrid
+Axio WXB,Toyota,2016,9800000,65000,Hybrid
+Axio WXB,Toyota,2017,10500000,70000,Hybrid
+Axio WXB,Toyota,2017,10500000,76000,Hybrid
+Axio WXB,Toyota,2017,10500000,78000,Hybrid
+Axio WXB,Toyota,2017,10500000,89000,Hybrid
+Axio WXB,Toyota,2017,10500000,103000,Hybrid
+Axio X Grade,Toyota,2016,7690000,48000,Hybrid
+Axio X Grade,Toyota,2017,12100000,51000,Hybrid
+Axio X Grade,Toyota,2016,7690000,53000,Petrol
+Axio X Grade,Toyota,2015,8975000,63000,Petrol
+Axio X Grade,Toyota,2017,12100000,65000,Hybrid
+Axio X Grade,Toyota,2011,5975000,66000,Petrol
+Axio X Grade,Toyota,2014,7525000,67000,Hybrid
+Axio X Grade,Toyota,2014,7525000,68000,Hybrid
+Axio X Grade,Toyota,2014,7525000,74000,Hybrid
+Axio X Grade,Toyota,2007,5500000,74000,Petrol
+Axio X Grade,Toyota,2015,8975000,77000,Hybrid
+Axio X Grade,Toyota,2007,5500000,89000,Petrol
+Axio X Grade,Toyota,2007,5500000,91000,Petrol
+Axio X Grade,Toyota,2016,7690000,93000,Hybrid
+Axio X Grade,Toyota,2010,7190000,110000,Petrol
+Axio X Grade,Toyota,2008,6175000,120000,Petrol
+Axio X Grade,Toyota,2007,5500000,121500,Petrol
+Axio X Grade,Toyota,2007,5500000,122000,Petrol
+Axio X Grade,Toyota,2007,5500000,124000,Petrol
+Axio X Grade,Toyota,2007,5500000,128720,Petrol
+Axio X Grade,Toyota,2008,6175000,130000,Petrol
+Axio X Grade,Toyota,2010,7190000,133000,Petrol
+Axio X Grade,Toyota,2007,5500000,137000,Petrol
+Axio X Grade,Toyota,2011,5975000,140000,Petrol
+Axio X Grade,Toyota,2011,5975000,141000,Petrol
+Axio X Grade,Toyota,2007,5500000,159000,Petrol
+Axio X Grade,Toyota,2010,7190000,167000,Petrol
+Axio X Grade,Toyota,2008,6175000,170000,Petrol
+Belta,Toyota,2012,4875000,63002,Petrol
+Belta,Toyota,2009,5950000,74000,Petrol
+Belta,Toyota,2008,4990000,80000,Petrol
+Belta,Toyota,2007,4550000,80000,Petrol
+Belta,Toyota,2007,4550000,89000,Petrol
+Belta,Toyota,2008,4990000,89000,Petrol
+Belta,Toyota,2008,4990000,89912,Petrol
+Belta,Toyota,2009,5950000,91000,Petrol
+Belta,Toyota,2010,5690000,92000,Petrol
+Belta,Toyota,2010,5690000,93100,Petrol
+Belta,Toyota,2008,4990000,95000,Petrol
+Belta,Toyota,2007,4550000,96000,Petrol
+Belta,Toyota,2008,4990000,105000,Petrol
+Belta,Toyota,2007,4550000,108000,Petrol
+Belta,Toyota,2007,4550000,114000,Petrol
+Belta,Toyota,2007,4550000,115000,Petrol
+Belta,Toyota,2007,4550000,115000,Petrol
+Belta,Toyota,2010,5690000,115000,Petrol
+Belta,Toyota,2007,4550000,116000,Petrol
+Belta,Toyota,2008,4990000,116000,Petrol
+Belta,Toyota,2008,4990000,121000,Petrol
+Belta,Toyota,2008,4990000,122000,Petrol
+Belta,Toyota,2007,4550000,123000,Petrol
+Belta,Toyota,2008,4990000,127000,Petrol
+Belta,Toyota,2007,4550000,132000,Petrol
+Belta,Toyota,2007,4550000,140000,Petrol
+Belta,Toyota,2009,5950000,140000,Petrol
+Belta,Toyota,2007,4550000,147000,Petrol
+Belta,Toyota,2007,4550000,150000,Petrol
+Belta,Toyota,2007,4550000,150000,Petrol
+Belta,Toyota,2008,4990000,150000,Petrol
+Belta,Toyota,2007,4550000,175000,Petrol
+Belta,Toyota,2010,5690000,190000,Petrol
+Carina,Toyota,2001,4300000,117000,Petrol
+Carina,Toyota,2000,4075000,120000,Petrol
+Carina,Toyota,2000,4075000,125000,Petrol
+Carina,Toyota,2000,4075000,135230,Petrol
+Carina,Toyota,2001,4300000,137000,Petrol
+Carina,Toyota,2004,3925000,140000,Diesel
+Carina,Toyota,2000,4075000,147000,Petrol
+Carina,Toyota,2000,4075000,150000,Petrol
+Carina,Toyota,2000,4075000,150000,Petrol
+Carina,Toyota,2000,4075000,162000,Petrol
+Carina,Toyota,2000,4075000,180000,Petrol
+Carina,Toyota,2000,4075000,180356,Petrol
+Carina,Toyota,2001,4300000,200000,Petrol
+Carina,Toyota,2000,4075000,201000,Petrol
+Carina,Toyota,2002,4500000,213000,Petrol
+Carina,Toyota,2001,4300000,225000,Petrol
+Carina,Toyota,2000,4075000,285000,Diesel
+Carina,Toyota,2001,4300000,340000,Petrol
+Corolla 110,Toyota,2003,4700000,87500,Petrol
+Corolla 110,Toyota,2000,3350000,130000,Petrol
+Corolla 110,Toyota,2000,3350000,135000,Petrol
+Corolla 110,Toyota,2000,3350000,152000,Petrol
+Corolla 110,Toyota,2000,3350000,154000,Petrol
+Corolla 110,Toyota,2001,4000000,159500,Petrol
+Corolla 110,Toyota,2004,4700000,195000,Petrol
+Corolla 110,Toyota,2000,3350000,200000,Petrol
+Corolla 110,Toyota,2000,3350000,275000,Diesel
+Corolla 110,Toyota,2000,3350000,315000,Diesel
+Corolla 110,Toyota,2000,3350000,335000,Diesel
+Corolla 121,Toyota,2004,4300000,88000,Petrol
+Corolla 121,Toyota,2005,4850000,99600,Petrol
+Corolla 121,Toyota,2002,4250000,100000,Petrol
+Corolla 121,Toyota,2006,5950000,100000,Petrol
+Corolla 121,Toyota,2002,4250000,105240,Diesel
+Corolla 121,Toyota,2003,3400000,107000,Petrol
+Corolla 121,Toyota,2003,3400000,110000,Petrol
+Corolla 121,Toyota,2002,4250000,111000,Petrol
+Corolla 121,Toyota,2003,3400000,114000,Petrol
+Corolla 121,Toyota,2002,4250000,114000,Petrol
+Corolla 121,Toyota,2003,3400000,116000,Petrol
+Corolla 121,Toyota,2003,3400000,117000,Petrol
+Corolla 121,Toyota,2004,4300000,117000,Petrol
+Corolla 121,Toyota,2002,4250000,118000,Petrol
+Corolla 121,Toyota,2000,3950000,119000,Petrol
+Corolla 121,Toyota,2001,4390000,120000,Petrol
+Corolla 121,Toyota,2003,3400000,120000,Petrol
+Corolla 121,Toyota,2004,4300000,120000,Petrol
+Corolla 121,Toyota,2004,4300000,121000,Petrol
+Corolla 121,Toyota,2006,5950000,126000,Petrol
+Corolla 121,Toyota,2004,4300000,132000,Petrol
+Corolla 121,Toyota,2004,4300000,134000,Petrol
+Corolla 121,Toyota,2007,4690000,135000,Petrol
+Corolla 121,Toyota,2007,4690000,135000,Petrol
+Corolla 121,Toyota,2006,4675000,135620,Petrol
+Corolla 121,Toyota,2001,4390000,138000,Petrol
+Corolla 121,Toyota,2001,4390000,139800,Petrol
+Corolla 121,Toyota,2000,3950000,140000,Petrol
+Corolla 121,Toyota,2002,4250000,140000,Diesel
+Corolla 121,Toyota,2003,3400000,140000,Petrol
+Corolla 121,Toyota,2005,4975000,140000,Petrol
+Corolla 121,Toyota,2004,4300000,140439,Petrol
+Corolla 121,Toyota,2006,4675000,143000,Petrol
+Corolla 121,Toyota,2003,3400000,143000,Petrol
+Corolla 121,Toyota,2000,3950000,144000,Petrol
+Corolla 121,Toyota,2001,4390000,145000,Petrol
+Corolla 121,Toyota,2002,4250000,145000,Petrol
+Corolla 121,Toyota,2001,4390000,146000,Petrol
+Corolla 121,Toyota,2002,4250000,148000,Petrol
+Corolla 121,Toyota,2002,4250000,148000,Petrol
+Corolla 121,Toyota,2003,3400000,150000,Petrol
+Corolla 121,Toyota,2003,3400000,150000,Petrol
+Corolla 121,Toyota,2004,4300000,150000,Petrol
+Corolla 121,Toyota,2000,3950000,151678,Petrol
+Corolla 121,Toyota,2003,3400000,152000,Petrol
+Corolla 121,Toyota,2006,4675000,152132,Petrol
+Corolla 121,Toyota,2002,4250000,154000,Petrol
+Corolla 121,Toyota,2003,3400000,154380,Petrol
+Corolla 121,Toyota,2000,3950000,155000,Petrol
+Corolla 121,Toyota,2003,3400000,155000,Petrol
+Corolla 121,Toyota,2004,4300000,156000,Petrol
+Corolla 121,Toyota,2005,4975000,157250,Petrol
+Corolla 121,Toyota,2003,3400000,158000,Petrol
+Corolla 121,Toyota,2004,4300000,159000,Petrol
+Corolla 121,Toyota,2004,4300000,159831,Petrol
+Corolla 121,Toyota,2001,4390000,160000,Petrol
+Corolla 121,Toyota,2002,4250000,160000,Petrol
+Corolla 121,Toyota,2005,4975000,160000,Petrol
+Corolla 121,Toyota,2005,4975000,160000,Petrol
+Corolla 121,Toyota,2004,4300000,160000,Petrol
+Corolla 121,Toyota,2001,4390000,160500,Petrol
+Corolla 121,Toyota,2006,4675000,160572,Diesel
+Corolla 121,Toyota,2001,4390000,162000,Petrol
+Corolla 121,Toyota,2003,3400000,162800,Petrol
+Corolla 121,Toyota,2002,4250000,164000,Petrol
+Corolla 121,Toyota,2003,3400000,165000,Petrol
+Corolla 121,Toyota,2006,4675000,165000,Petrol
+Corolla 121,Toyota,2003,3400000,167000,Petrol
+Corolla 121,Toyota,2001,4390000,168000,Petrol
+Corolla 121,Toyota,2004,4300000,169000,Petrol
+Corolla 121,Toyota,2001,4390000,169000,Petrol
+Corolla 121,Toyota,2002,4250000,170000,Petrol
+Corolla 121,Toyota,2002,4250000,170000,Petrol
+Corolla 121,Toyota,2002,4250000,170000,Petrol
+Corolla 121,Toyota,2002,4250000,170000,Petrol
+Corolla 121,Toyota,2004,4300000,175000,Petrol
+Corolla 121,Toyota,2005,4975000,175000,Petrol
+Corolla 121,Toyota,2001,4390000,175050,Petrol
+Corolla 121,Toyota,2001,4390000,177000,Petrol
+Corolla 121,Toyota,2003,3400000,179000,Petrol
+Corolla 121,Toyota,2000,3950000,179000,Petrol
+Corolla 121,Toyota,2004,4300000,179000,Petrol
+Corolla 121,Toyota,2001,4390000,287559,Diesel
+Corolla 121,Toyota,2002,4250000,300000,Diesel
+Corolla 121,Toyota,2004,4300000,327000,Petrol
+Corolla 121,Toyota,2000,3950000,386400,Petrol
+Corolla 141,Toyota,2013,7900000,32000,Petrol
+Corolla 141,Toyota,2008,5500000,56000,Diesel
+Corolla 141,Toyota,2008,5500000,57000,Petrol
+Corolla 141,Toyota,2008,5500000,75000,Petrol
+Corolla 141,Toyota,2008,5500000,76000,Petrol
+Corolla 141,Toyota,2012,7900000,77250,Petrol
+Corolla 141,Toyota,2008,5500000,83000,Petrol
+Corolla 141,Toyota,2011,7200000,87000,Petrol
+Corolla 141,Toyota,2008,5500000,90000,Petrol
+Corolla 141,Toyota,2008,5500000,93000,Petrol
+Corolla 141,Toyota,2007,5300000,96500,Petrol
+Corolla 141,Toyota,2008,5500000,101000,Petrol
+Corolla 141,Toyota,2008,5500000,101000,Petrol
+Corolla 141,Toyota,2008,5500000,103000,Petrol
+Corolla 141,Toyota,2008,5500000,104538,Petrol
+Corolla 141,Toyota,2008,5500000,105000,Petrol
+Corolla 141,Toyota,2008,5500000,105000,Petrol
+Corolla 141,Toyota,2008,5500000,106094,Petrol
+Corolla 141,Toyota,2008,5500000,108000,Petrol
+Corolla 141,Toyota,2008,5500000,109000,Petrol
+Corolla 141,Toyota,2008,5500000,110000,Petrol
+Corolla 141,Toyota,2007,5300000,114340,Petrol
+Corolla 141,Toyota,2008,5500000,117000,Petrol
+Corolla 141,Toyota,2007,5300000,117500,Petrol
+Corolla 141,Toyota,2008,5500000,120000,Petrol
+Corolla 141,Toyota,2007,5300000,123000,Petrol
+Corolla 141,Toyota,2008,5500000,130000,Petrol
+Corolla 141,Toyota,2008,5500000,130500,Petrol
+Corolla 141,Toyota,2008,5500000,132000,Petrol
+Corolla 141,Toyota,2008,5500000,134000,Petrol
+Corolla 141,Toyota,2007,5300000,135000,Diesel
+Corolla 141,Toyota,2008,5500000,136000,Petrol
+Corolla 141,Toyota,2008,5500000,140000,Petrol
+Corolla 141,Toyota,2008,5500000,144500,Petrol
+Corolla 141,Toyota,2008,5500000,145000,Petrol
+Corolla 141,Toyota,2007,5300000,145000,Petrol
+Corolla 141,Toyota,2011,6600000,149000,Diesel
+Corolla 141,Toyota,2008,5500000,160000,Petrol
+Corolla 141,Toyota,2008,5500000,161100,Petrol
+Corolla 141,Toyota,2008,5500000,163000,Petrol
+Corolla 141,Toyota,2007,5300000,165000,Petrol
+Corolla 141,Toyota,2008,5500000,190000,Petrol
+Corolla 141,Toyota,2008,5500000,193000,Petrol
+Corolla 141,Toyota,2008,5500000,237200,Petrol
+Corona Premio,Toyota,2000,4550000,260000,Petrol
+Corona Premio,Toyota,2000,4550000,260000,Petrol
+Premio,Toyota,2010,7600000,115000,Petrol
+Premio,Toyota,2007,6950000,116000,Petrol
+Premio,Toyota,2010,7600000,116000,Petrol
+Premio,Toyota,2010,7600000,116200,Petrol
+Premio,Toyota,2009,7500000,117000,Petrol
+Premio,Toyota,2007,6950000,117000,Petrol
+Premio,Toyota,2007,6950000,118000,Petrol
+Premio,Toyota,2007,6950000,118000,Petrol
+Premio,Toyota,2002,5500000,120000,Petrol
+Premio,Toyota,2011,8500000,120000,Petrol
+Premio,Toyota,2000,4550000,123123,Diesel
+Premio,Toyota,2008,7500000,127865,Petrol
+Premio,Toyota,2007,6950000,130000,Petrol
+Premio,Toyota,2007,6950000,134500,Petrol
+Premio,Toyota,2004,5975000,136500,Petrol
+Premio,Toyota,2008,7500000,145000,Petrol
+Premio,Toyota,2012,9275000,145000,Petrol
+Premio,Toyota,2000,4550000,150000,Diesel
+Premio,Toyota,2008,7500000,150000,Petrol
+Premio,Toyota,2010,7600000,150000,Petrol
+Premio,Toyota,2007,6950000,152000,Petrol
+Premio,Toyota,2011,8500000,154000,Petrol
+Premio,Toyota,2007,6950000,159000,Petrol
+Premio,Toyota,2002,5500000,160000,Petrol
+Premio,Toyota,2007,6950000,160000,Petrol
+Premio,Toyota,2002,5500000,165000,Petrol
+Premio,Toyota,2007,6950000,165000,Petrol
+Premio,Toyota,2011,8500000,167000,Petrol
+Premio,Toyota,2007,6950000,172000,Petrol
+Premio,Toyota,2007,6950000,172000,Petrol
+Premio,Toyota,2004,5975000,179000,Petrol
+Premio,Toyota,2006,6200000,205000,Petrol
+Premio 240,Toyota,2007,6900000,88900,Petrol
+Premio 240,Toyota,2001,5300000,135000,Petrol
+Premio 240,Toyota,2003,5500000,142000,Petrol
+Premio 240,Toyota,2003,5990000,144000,Petrol
+Premio 240,Toyota,2005,5990000,145000,Petrol
+Premio 240,Toyota,2004,5975000,166000,Petrol
+Premio 240,Toyota,2005,5990000,170000,Petrol
+Premio 240,Toyota,2002,5500000,198000,Petrol
+Premio 240,Toyota,2003,6000000,210600,Petrol
+Premio 260,Toyota,2018,13690000,11400,Petrol
+Premio 260,Toyota,2018,13690000,13000,Petrol
+Premio 260,Toyota,2015,11690000,65000,Petrol
+Premio 260,Toyota,2012,9275000,73000,Petrol
+Premio 260,Toyota,2013,8550000,80000,Petrol
+Premio 260,Toyota,2013,8550000,89400,Petrol
+Premio 260,Toyota,2009,7650000,96000,Petrol
+Premio 260,Toyota,2007,6950000,112000,Petrol
+Premio G Superior,Toyota,2019,20450000,500,Petrol
+Premio G Superior,Toyota,2019,20450000,2000,Petrol
+Premio G Superior,Toyota,2020,22100000,2300,Petrol
+Premio G Superior,Toyota,2019,20450000,3100,Petrol
+Premio G Superior,Toyota,2018,13975000,3450,Petrol
+Premio G Superior,Toyota,2018,13975000,5000,Petrol
+Premio G Superior,Toyota,2019,20450000,6500,Petrol
+Premio G Superior,Toyota,2018,13975000,7500,Petrol
+Premio G Superior,Toyota,2017,12750000,8200,Petrol
+Premio G Superior,Toyota,2018,13975000,9000,Petrol
+Premio G Superior,Toyota,2019,20450000,10000,Petrol
+Premio G Superior,Toyota,2018,13975000,10200,Petrol
+Premio G Superior,Toyota,2007,7200000,140000,Petrol
+Premio G Superior,Toyota,2011,8375000,173564,Petrol
+Premio G Superior,Toyota,2013,8550000,174000,Petrol
+Prius,Toyota,2015,7650000,6000,Hybrid
+Prius,Toyota,2007,4800000,11800,Petrol
+Prius,Toyota,2012,7790000,24191,Hybrid
+Prius,Toyota,2013,7500000,25000,Petrol
+Prius,Toyota,2016,9650000,26000,Hybrid
+Prius,Toyota,2015,7650000,27000,Hybrid
+Prius,Toyota,2013,7500000,35000,Hybrid
+Prius,Toyota,2016,9500000,39000,Hybrid
+Prius,Toyota,2014,7650000,40500,Hybrid
+Prius,Toyota,2016,9500000,41000,Hybrid
+Prius,Toyota,2016,9500000,45000,Petrol
+Prius,Toyota,2016,9500000,46000,Hybrid
+Prius,Toyota,2013,6600000,48000,Petrol
+Prius,Toyota,2011,5950000,54475,Petrol
+Prius,Toyota,2014,7650000,56000,Hybrid
+Prius,Toyota,2013,6600000,56000,Hybrid
+Prius,Toyota,2017,9800000,56000,Hybrid
+Prius,Toyota,2015,7650000,56000,Hybrid
+Prius,Toyota,2013,6600000,57000,Hybrid
+Prius,Toyota,2013,6600000,58000,Hybrid
+Prius,Toyota,2012,7790000,58200,Hybrid
+Prius,Toyota,2016,9500000,59000,Hybrid
+Prius,Toyota,2016,9500000,59966,Petrol
+Prius,Toyota,2014,7650000,60000,Petrol
+Prius,Toyota,2016,9500000,60000,Hybrid
+Prius,Toyota,2013,6600000,60679,Hybrid
+Prius,Toyota,2012,7790000,61500,Hybrid
+Prius,Toyota,2012,7790000,63000,Hybrid
+Prius,Toyota,2012,7790000,66800,Hybrid
+Prius,Toyota,2013,6600000,67000,Petrol
+Prius,Toyota,2013,6600000,67000,Hybrid
+Prius,Toyota,2010,5500000,67324,Petrol
+Prius,Toyota,2011,5950000,68000,Petrol
+Prius,Toyota,2010,5500000,70000,Petrol
+Prius,Toyota,2013,6600000,70000,Hybrid
+Prius,Toyota,2013,6600000,70000,Hybrid
+Prius,Toyota,2014,7650000,70000,Hybrid
+Prius,Toyota,2013,6600000,71000,Hybrid
+Prius,Toyota,2013,6600000,72000,Hybrid
+Prius,Toyota,2012,7790000,72000,Hybrid
+Prius,Toyota,2013,6600000,72300,Hybrid
+Prius,Toyota,2014,7650000,73843,Hybrid
+Prius,Toyota,2012,7790000,74000,Petrol
+Prius,Toyota,2012,7790000,74800,Hybrid
+Prius,Toyota,2013,6600000,74800,Petrol
+Prius,Toyota,2015,8775000,75000,Hybrid
+Prius,Toyota,2010,5500000,76000,Petrol
+Prius,Toyota,2013,6600000,76000,Petrol
+Prius,Toyota,2008,4885000,76800,Petrol
+Prius,Toyota,2013,6600000,77000,Hybrid
+Prius,Toyota,2015,8775000,78650,Hybrid
+Prius,Toyota,2012,7790000,79000,Petrol
+Prius,Toyota,2013,6600000,79002,Hybrid
+Prius,Toyota,2011,5950000,80000,Hybrid
+Prius,Toyota,2012,7790000,80000,Hybrid
+Prius,Toyota,2013,6600000,80000,Hybrid
+Prius,Toyota,2014,7650000,80000,Petrol
+Prius,Toyota,2012,7790000,83000,Hybrid
+Prius,Toyota,2015,8775000,84000,Hybrid
+Prius,Toyota,2008,4885000,85000,Petrol
+Prius,Toyota,2008,4885000,85000,Hybrid
+Prius,Toyota,2009,6400000,85000,Hybrid
+Prius,Toyota,2012,7790000,85000,Hybrid
+Prius,Toyota,2013,6600000,85000,Hybrid
+Prius,Toyota,2014,7650000,85000,Petrol
+Prius,Toyota,2012,7790000,86000,Petrol
+Prius,Toyota,2012,7790000,86200,Hybrid
+Prius,Toyota,2015,8775000,86500,Petrol
+Prius,Toyota,2010,5500000,86789,Hybrid
+Prius,Toyota,2008,4885000,87500,Petrol
+Prius,Toyota,2010,5500000,88000,Hybrid
+Prius,Toyota,2012,7790000,88500,Hybrid
+Prius,Toyota,2008,4885000,88794,Hybrid
+Prius,Toyota,2014,7650000,89000,Hybrid
+Prius,Toyota,2014,7650000,89000,Hybrid
+Prius,Toyota,2008,4885000,90000,Hybrid
+Prius,Toyota,2009,6400000,90000,Hybrid
+Prius,Toyota,2010,5500000,90000,Hybrid
+Prius,Toyota,2011,5950000,90000,Hybrid
+Prius,Toyota,2007,4800000,91000,Hybrid
+Prius,Toyota,2009,6400000,91000,Petrol
+Prius,Toyota,2012,7790000,91000,Petrol
+Prius,Toyota,2011,5950000,91000,Hybrid
+Prius,Toyota,2013,6600000,91000,Petrol
+Prius,Toyota,2011,5950000,92000,Hybrid
+Prius,Toyota,2010,5500000,92000,Hybrid
+Prius,Toyota,2009,6400000,92000,Hybrid
+Prius,Toyota,2012,7790000,93000,Petrol
+Prius,Toyota,2013,6600000,93000,Hybrid
+Prius,Toyota,2011,5950000,94008,Hybrid
+Prius,Toyota,2009,6400000,95000,Hybrid
+Prius,Toyota,2012,7790000,95000,Petrol
+Prius,Toyota,2010,5500000,95000,Hybrid
+Prius,Toyota,2011,5950000,96000,Hybrid
+Prius,Toyota,2014,7650000,96526,Petrol
+Prius,Toyota,2012,7790000,97000,Petrol
+Prius,Toyota,2013,6600000,97000,Hybrid
+Prius,Toyota,2011,5950000,98000,Hybrid
+Prius,Toyota,2012,7790000,100000,Hybrid
+Prius,Toyota,2014,7650000,100000,Petrol
+Prius,Toyota,2014,7650000,100000,Hybrid
+Prius,Toyota,2011,5950000,101000,Hybrid
+Prius,Toyota,2012,7790000,101684,Hybrid
+Prius,Toyota,2011,5950000,101956,Hybrid
+Prius,Toyota,2013,6600000,102000,Hybrid
+Prius,Toyota,2013,6600000,102000,Hybrid
+Prius,Toyota,2008,4885000,103000,Hybrid
+Prius,Toyota,2008,4885000,104174,Hybrid
+Prius,Toyota,2012,6275000,105000,Petrol
+Prius,Toyota,2012,6275000,106000,Hybrid
+Prius,Toyota,2012,6275000,107000,Hybrid
+Prius,Toyota,2011,5950000,108000,Hybrid
+Prius,Toyota,2012,6275000,108000,Hybrid
+Prius,Toyota,2013,6600000,109000,Hybrid
+Prius,Toyota,2012,6275000,109000,Hybrid
+Prius,Toyota,2013,6600000,109500,Petrol
+Prius,Toyota,2011,5950000,109566,Hybrid
+Prius,Toyota,2008,4885000,110000,Hybrid
+Prius,Toyota,2012,6275000,110000,Petrol
+Prius,Toyota,2010,5500000,110000,Hybrid
+Prius,Toyota,2012,6275000,110000,Hybrid
+Prius,Toyota,2013,6600000,110000,Hybrid
+Prius,Toyota,2013,6600000,111000,Hybrid
+Prius,Toyota,2010,5500000,112900,Hybrid
+Prius,Toyota,2008,4885000,113000,Hybrid
+Prius,Toyota,2009,6400000,113000,Hybrid
+Prius,Toyota,2009,6400000,113000,Petrol
+Prius,Toyota,2013,6600000,113631,Hybrid
+Prius,Toyota,2009,6400000,114000,Petrol
+Prius,Toyota,2009,6400000,114900,Petrol
+Prius,Toyota,2013,6600000,115000,Petrol
+Prius,Toyota,2013,6600000,115000,Hybrid
+Prius,Toyota,2012,6275000,116000,Hybrid
+Prius,Toyota,2008,4885000,116736,Hybrid
+Prius,Toyota,2007,4800000,118000,Petrol
+Prius,Toyota,2012,6275000,118000,Petrol
+Prius,Toyota,2012,6275000,118400,Hybrid
+Prius,Toyota,2010,5500000,120000,Hybrid
+Prius,Toyota,2012,6275000,120000,Hybrid
+Prius,Toyota,2009,6400000,122586,Petrol
+Prius,Toyota,2010,5500000,124000,Petrol
+Prius,Toyota,2008,4885000,124000,Hybrid
+Prius,Toyota,2011,5950000,124000,Petrol
+Prius,Toyota,2011,5950000,126000,Hybrid
+Prius,Toyota,2011,5950000,127000,Hybrid
+Prius,Toyota,2012,6275000,128578,Hybrid
+Prius,Toyota,2008,4885000,129000,Hybrid
+Prius,Toyota,2010,5500000,129000,Hybrid
+Prius,Toyota,2012,6275000,129000,Petrol
+Prius,Toyota,2008,4885000,130000,Hybrid
+Prius,Toyota,2012,6275000,130000,Petrol
+Prius,Toyota,2012,6275000,130000,Hybrid
+Prius,Toyota,2008,4885000,131000,Hybrid
+Prius,Toyota,2011,5950000,131000,Hybrid
+Prius,Toyota,2008,4885000,132000,Hybrid
+Prius,Toyota,2009,6400000,132000,Hybrid
+Prius,Toyota,2008,4885000,133000,Hybrid
+Prius,Toyota,2008,4885000,134000,Hybrid
+Prius,Toyota,2012,6275000,137871,Petrol
+Prius,Toyota,2008,4885000,138000,Hybrid
+Prius,Toyota,2011,5950000,138000,Petrol
+Prius,Toyota,2013,6950000,139000,Hybrid
+Prius,Toyota,2011,5950000,140000,Hybrid
+Prius,Toyota,2011,5950000,142000,Hybrid
+Prius,Toyota,2008,4885000,142500,Hybrid
+Prius,Toyota,2008,4885000,144000,Hybrid
+Prius,Toyota,2008,4885000,144000,Hybrid
+Prius,Toyota,2009,6400000,144000,Petrol
+Prius,Toyota,2009,6400000,145000,Hybrid
+Prius,Toyota,2013,6950000,146000,Petrol
+Prius,Toyota,2007,4800000,147000,Hybrid
+Prius,Toyota,2008,4885000,147000,Hybrid
+Prius,Toyota,2008,4885000,148000,Petrol
+Prius,Toyota,2010,5500000,148000,Hybrid
+Prius,Toyota,2008,4885000,149800,Petrol
+Prius,Toyota,2010,5500000,150000,Hybrid
+Prius,Toyota,2008,4885000,150000,Hybrid
+Prius,Toyota,2011,5950000,150000,Petrol
+Prius,Toyota,2013,6950000,150000,Petrol
+Prius,Toyota,2012,6275000,150000,Hybrid
+Prius,Toyota,2011,5950000,156000,Hybrid
+Prius,Toyota,2011,5950000,157000,Hybrid
+Prius,Toyota,2009,6400000,158000,Petrol
+Prius,Toyota,2011,5950000,160000,Petrol
+Prius,Toyota,2011,5950000,160000,Petrol
+Prius,Toyota,2012,6275000,160000,Petrol
+Prius,Toyota,2013,6950000,160000,Hybrid
+Prius,Toyota,2010,5500000,161500,Hybrid
+Prius,Toyota,2009,6400000,162000,Petrol
+Prius,Toyota,2009,6400000,162000,Hybrid
+Prius,Toyota,2008,4885000,168900,Hybrid
+Prius,Toyota,2010,5500000,169000,Petrol
+Prius,Toyota,2007,4800000,170000,Hybrid
+Prius,Toyota,2011,5950000,170000,Petrol
+Prius,Toyota,2009,6400000,170000,Petrol
+Prius,Toyota,2008,4885000,175000,Hybrid
+Prius,Toyota,2008,4885000,180000,Hybrid
+Prius,Toyota,2011,5950000,180000,Petrol
+Prius,Toyota,2008,4885000,190000,Hybrid
+Prius,Toyota,2011,5950000,195000,Hybrid
+Prius,Toyota,2010,5500000,200000,Hybrid
+Prius,Toyota,2008,4885000,223500,Hybrid
+Prius,Toyota,2008,4885000,240000,Hybrid
+Prius 3rd Generation,Toyota,2012,6275000,194000,Hybrid
+Prius S Grade,Toyota,2013,6975000,65786,Hybrid
+Prius S Grade,Toyota,2012,6990000,74000,Hybrid
+Prius S Grade,Toyota,2014,7800000,75000,Hybrid
+Prius S Grade,Toyota,2013,6975000,83000,Petrol
+Prius S Grade,Toyota,2012,6990000,85000,Hybrid
+Prius S Grade,Toyota,2015,8450000,89000,Hybrid
+Prius S Grade,Toyota,2011,6190000,93000,Hybrid
+Prius S Grade,Toyota,2011,6190000,98000,Hybrid
+Prius S Grade,Toyota,2013,6975000,104000,Hybrid
+Prius S Grade,Toyota,2013,6975000,105000,Hybrid
+Prius S Grade,Toyota,2012,6990000,105600,Hybrid
+Prius S Grade,Toyota,2012,6990000,112000,Petrol
+Prius S Grade,Toyota,2012,6990000,113000,Hybrid
+Prius S Grade,Toyota,2011,6190000,164000,Petrol
+Prius S Touring,Toyota,2011,7450000,125000,Petrol
+Prius S Touring,Toyota,2011,7450000,126306,Hybrid
+Prius S Touring,Toyota,2011,7450000,130000,Hybrid
+Roomy,Toyota,2019,8200000,3000,Petrol
+Roomy,Toyota,2017,7650000,6940,Petrol
+Roomy,Toyota,2018,7900000,7200,Petrol
+Roomy,Toyota,2017,7650000,10000,Petrol
+Roomy,Toyota,2018,7900000,15000,Petrol
+Roomy,Toyota,2017,7650000,19650,Petrol
+Roomy,Toyota,2017,7650000,25000,Petrol
+Roomy,Toyota,2016,7150000,28000,Petrol
+Roomy,Toyota,2017,7650000,28500,Petrol
+Roomy,Toyota,2017,7650000,29854,Petrol
+Roomy,Toyota,2017,7650000,35000,Petrol
+Roomy,Toyota,2017,7650000,53000,Petrol
+Roomy,Toyota,2017,7650000,60000,Petrol
+Soluna,Toyota,2000,2675000,92813,Petrol
+Soluna,Toyota,2000,2675000,120000,Petrol
+Soluna,Toyota,2001,2550000,125000,Petrol
+Soluna,Toyota,2000,2675000,125000,Petrol
+Soluna,Toyota,2001,2550000,126700,Petrol
+Soluna,Toyota,2001,2550000,127000,Petrol
+Soluna,Toyota,2000,2675000,148000,Petrol
+Soluna,Toyota,2002,3000000,149600,Petrol
+Soluna,Toyota,2000,2675000,152000,Petrol
+Soluna,Toyota,2003,3000000,160000,Petrol
+Soluna,Toyota,2005,2995000,160000,Petrol
+Soluna,Toyota,2000,2675000,160856,Petrol
+Soluna,Toyota,2001,2550000,170000,Petrol
+Soluna,Toyota,2003,3000000,170000,Petrol
+Soluna,Toyota,2002,3000000,180000,Petrol
+Soluna,Toyota,2005,2995000,188542,Petrol
+soluna,Toyota,2001,2550000,190000,Petrol
+Soluna,Toyota,2005,2995000,197000,Petrol
+Soluna,Toyota,2001,2550000,218000,Petrol
+Soluna,Toyota,2000,2675000,220000,Petrol
+Soluna,Toyota,2000,2675000,252000,Petrol
+Soluna,Toyota,2000,2675000,318000,Petrol
+Tank,Toyota,2018,8790000,5300,Petrol
+Tank,Toyota,2018,8790000,14654,Petrol
+Tank,Toyota,2018,8790000,15000,Petrol
+Tank,Toyota,2017,7800000,18990,Petrol
+Tank,Toyota,2016,6250000,19000,Petrol
+Tank,Toyota,2017,7800000,19850,Petrol
+Tank,Toyota,2018,8790000,20000,Petrol
+Tank,Toyota,2017,7800000,21500,Petrol
+Tank,Toyota,2017,7800000,21786,Petrol
+Tank,Toyota,2017,7800000,27000,Petrol
+Tank,Toyota,2017,7800000,36000,Petrol
+Tank,Toyota,2018,8790000,36500,Petrol
+Tank,Toyota,2017,7800000,50000,Petrol
+Vios,Toyota,2004,4350000,80000,Petrol
+Vios,Toyota,2005,4650000,85000,Petrol
+Vios,Toyota,2006,4550000,86000,Petrol
+Vios,Toyota,2004,4350000,93500,Petrol
+Vios,Toyota,2003,3990000,98000,Petrol
+Vios,Toyota,2003,3990000,99000,Petrol
+Vios,Toyota,2010,5985000,99230,Petrol
+Vios,Toyota,2003,3990000,100512,Petrol
+Vios,Toyota,2005,4190000,102000,Petrol
+Vios,Toyota,2004,4100000,106000,Petrol
+Vios,Toyota,2006,4550000,106000,Petrol
+Vios,Toyota,2004,4100000,110000,Petrol
+Vios,Toyota,2003,3990000,110000,Petrol
+Vios,Toyota,2003,3990000,112000,Petrol
+Vios,Toyota,2005,4650000,115000,Petrol
+Vios,Toyota,2004,4100000,118000,Petrol
+Vios,Toyota,2003,3990000,120000,Petrol
+Vios,Toyota,2004,4100000,120000,Petrol
+Vios,Toyota,2004,4100000,120000,Petrol
+Vios,Toyota,2005,4650000,120000,Petrol
+Vios,Toyota,2005,4650000,125000,Petrol
+Vios,Toyota,2006,4550000,125000,Petrol
+Vios,Toyota,2003,3990000,125000,Petrol
+Vios,Toyota,2004,4100000,130000,Petrol
+Vios,Toyota,2003,3990000,131000,Petrol
+Vios,Toyota,2007,4670000,131000,Petrol
+Vios,Toyota,2003,3990000,133000,Petrol
+Vios,Toyota,2003,3990000,135000,Petrol
+Vios,Toyota,2005,4650000,135000,Petrol
+Vios,Toyota,2007,4670000,140000,Petrol
+Vios,Toyota,2007,4670000,142000,Petrol
+Vios,Toyota,2007,4670000,143000,Petrol
+Vios,Toyota,2007,4670000,145700,Petrol
+Vios,Toyota,2004,4100000,149000,Petrol
+Vios,Toyota,2006,4550000,149000,Petrol
+Vios,Toyota,2006,4550000,152000,Petrol
+Vios,Toyota,2004,4100000,152000,Petrol
+Vios,Toyota,2004,4100000,153500,Petrol
+Vios,Toyota,2003,3990000,155000,Petrol
+Vios,Toyota,2003,3990000,158000,Petrol
+Vios,Toyota,2005,4650000,160000,Petrol
+Vios,Toyota,2004,4100000,160000,Petrol
+Vios,Toyota,2004,4100000,160000,Petrol
+Vios,Toyota,2003,3990000,162000,Petrol
+Vios,Toyota,2004,4100000,165000,Petrol
+Vios,Toyota,2004,4100000,165000,Petrol
+Vios,Toyota,2003,3990000,167000,Petrol
+Vios,Toyota,2004,4100000,171000,Petrol
+Vios,Toyota,2004,4100000,173000,Petrol
+Vios,Toyota,2003,3990000,173000,Petrol
+Vios,Toyota,2006,4550000,175500,Petrol
+Vios,Toyota,2008,5375000,177000,Petrol
+Vios,Toyota,2004,4100000,180000,Petrol
+Vios,Toyota,2003,3990000,180000,Petrol
+Vios,Toyota,2003,3990000,180000,Petrol
+Vios,Toyota,2003,3990000,191000,Petrol
+Vios,Toyota,2004,4100000,195000,Petrol
+Vios,Toyota,2003,3990000,209263,Petrol
+Vios,Toyota,2004,4100000,210000,Petrol
+Vios,Toyota,2004,4100000,228000,Petrol
+Vios,Toyota,2007,4670000,240000,Petrol
+Vitz,Toyota,2019,8790000,1000,Petrol
+Vitz,Toyota,2020,8900000,1300,Petrol
+Vitz,Toyota,2018,7500000,2300,Petrol
+Vitz,Toyota,2015,6150000,27350,Petrol
+Vitz,Toyota,2014,5850000,27584,Petrol
+Vitz,Toyota,2016,6100000,27860,Petrol
+Vitz,Toyota,2016,6100000,28000,Petrol
+Vitz,Toyota,2016,6100000,28000,Petrol
+Vitz,Toyota,2018,7500000,28500,Petrol
+Vitz,Toyota,2014,5850000,28900,Petrol
+Vitz,Toyota,2015,6150000,29000,Petrol
+Vitz,Toyota,2018,7500000,29000,Petrol
+Vitz,Toyota,2018,7500000,29000,Petrol
+Vitz,Toyota,2017,6850000,29500,Petrol
+Vitz,Toyota,2017,6850000,29838,Petrol
+Vitz,Toyota,2017,6850000,29900,Petrol
+Vitz,Toyota,2016,6100000,30700,Petrol
+Vitz,Toyota,2015,6150000,31000,Petrol
+Vitz,Toyota,2016,6100000,31000,Petrol
+Vitz,Toyota,2017,6850000,31000,Petrol
+Vitz,Toyota,2017,6850000,31000,Petrol
+Vitz,Toyota,2016,6100000,31000,Petrol
+Vitz,Toyota,2018,7500000,31300,Petrol
+Vitz,Toyota,2019,8790000,31900,Petrol
+Vitz,Toyota,2015,6150000,32000,Petrol
+Vitz,Toyota,2016,6100000,32000,Petrol
+Vitz,Toyota,2016,6100000,32000,Petrol
+Vitz,Toyota,2018,7500000,32000,Petrol
+Vitz,Toyota,2018,7500000,32000,Petrol
+Vitz,Toyota,2016,6100000,32500,Petrol
+Vitz,Toyota,2015,6150000,32500,Petrol
+Vitz,Toyota,2016,6100000,33000,Petrol
+Vitz,Toyota,2017,6850000,33400,Petrol
+Vitz,Toyota,2016,6100000,33500,Petrol
+Vitz,Toyota,2016,6100000,34000,Petrol
+Vitz,Toyota,2017,6850000,34000,Petrol
+Vitz,Toyota,2018,7500000,34028,Petrol
+Vitz,Toyota,2015,6150000,35000,Petrol
+Vitz,Toyota,2017,6850000,35000,Petrol
+Vitz,Toyota,2018,7500000,35000,Petrol
+Vitz,Toyota,2018,7500000,35000,Petrol
+Vitz,Toyota,2018,7500000,35000,Petrol
+Vitz,Toyota,2017,6850000,36000,Petrol
+Vitz,Toyota,2018,7500000,36000,Petrol
+Vitz,Toyota,2018,7500000,36000,Petrol
+Vitz,Toyota,2015,6150000,36900,Petrol
+Vitz,Toyota,2015,6150000,38000,Petrol
+Vitz,Toyota,2016,6100000,38000,Petrol
+Vitz,Toyota,2015,6150000,38000,Petrol
+Vitz,Toyota,2016,6100000,38000,Petrol
+Vitz,Toyota,2017,6850000,38000,Petrol
+Vitz,Toyota,2018,7500000,38000,Petrol
+Vitz,Toyota,2018,7500000,38800,Petrol
+Vitz,Toyota,2017,6850000,39000,Petrol
+Vitz,Toyota,2017,6850000,39900,Petrol
+Vitz,Toyota,2014,5850000,40000,Petrol
+Vitz,Toyota,2015,6150000,40000,Petrol
+Vitz,Toyota,2015,6150000,40000,Petrol
+Vitz,Toyota,2015,6150000,40000,Petrol
+Vitz,Toyota,2015,6150000,40000,Petrol
+Vitz,Toyota,2016,6100000,40000,Petrol
+Vitz,Toyota,2016,6100000,40000,Petrol
+Vitz,Toyota,2017,6850000,40000,Petrol
+Vitz,Toyota,2017,6850000,40000,Petrol
+Vitz,Toyota,2016,6100000,40950,Petrol
+Vitz,Toyota,2015,6150000,41000,Petrol
+Vitz,Toyota,2015,6150000,41000,Petrol
+Vitz,Toyota,2016,6100000,42000,Petrol
+Vitz,Toyota,2015,6150000,43000,Petrol
+Vitz,Toyota,2015,6150000,43000,Petrol
+Vitz,Toyota,2016,6100000,43000,Petrol
+Vitz,Toyota,2018,7500000,43000,Petrol
+Vitz,Toyota,2018,7500000,43200,Petrol
+Vitz,Toyota,2016,6100000,43325,Petrol
+Vitz,Toyota,2015,6150000,44000,Petrol
+Vitz,Toyota,2016,6100000,44000,Petrol
+Vitz,Toyota,2016,6100000,44000,Petrol
+Vitz,Toyota,2016,6100000,44000,Petrol
+Vitz,Toyota,2017,6850000,44000,Petrol
+Vitz,Toyota,2017,6850000,44000,Petrol
+Vitz,Toyota,2018,7500000,44000,Petrol
+Vitz,Toyota,2016,6100000,44500,Petrol
+Vitz,Toyota,2014,5850000,44700,Petrol
+Vitz,Toyota,2016,6100000,44800,Petrol
+Vitz,Toyota,2016,6100000,45000,Petrol
+Vitz,Toyota,2016,6100000,45000,Petrol
+Vitz,Toyota,2017,6850000,45000,Petrol
+Vitz,Toyota,2018,7500000,45000,Petrol
+Vitz,Toyota,2018,7500000,45000,Petrol
+Vitz,Toyota,2016,6100000,46000,Petrol
+Vitz,Toyota,2016,6100000,47000,Petrol
+Vitz,Toyota,2018,7500000,47000,Petrol
+Vitz,Toyota,2016,6100000,47132,Petrol
+Vitz,Toyota,2015,6150000,48000,Petrol
+Vitz,Toyota,2016,6100000,48000,Petrol
+Vitz,Toyota,2016,6100000,48000,Petrol
+Vitz,Toyota,2015,6150000,48000,Petrol
+Vitz,Toyota,2017,6850000,48840,Petrol
+Vitz,Toyota,2017,6850000,49470,Petrol
+Vitz,Toyota,2015,6150000,51000,Petrol
+Vitz,Toyota,2015,6150000,51000,Petrol
+Vitz,Toyota,2016,6100000,51000,Petrol
+Vitz,Toyota,2015,6150000,51900,Petrol
+Vitz,Toyota,2015,6150000,52000,Petrol
+Vitz,Toyota,2018,7500000,52496,Petrol
+Vitz,Toyota,2016,6100000,53000,Petrol
+Vitz,Toyota,2015,6150000,54000,Petrol
+Vitz,Toyota,2017,6850000,54000,Petrol
+Vitz,Toyota,2017,6850000,55000,Petrol
+Vitz,Toyota,2007,4350000,56000,Petrol
+Vitz,Toyota,2008,4550000,56000,Petrol
+Vitz,Toyota,2016,6100000,56000,Petrol
+Vitz,Toyota,2016,6100000,56000,Petrol
+Vitz,Toyota,2016,6100000,56000,Petrol
+Vitz,Toyota,2008,4550000,57500,Petrol
+Vitz,Toyota,2015,6150000,58000,Petrol
+Vitz,Toyota,2016,6100000,58000,Petrol
+Vitz,Toyota,2015,6150000,58907,Petrol
+Vitz,Toyota,2016,6100000,59000,Petrol
+Vitz,Toyota,2016,6100000,59000,Petrol
+Vitz,Toyota,2015,6150000,60000,Petrol
+Vitz,Toyota,2016,6100000,60000,Petrol
+Vitz,Toyota,2015,6150000,60000,Petrol
+Vitz,Toyota,2017,6850000,60000,Petrol
+Vitz,Toyota,2007,4350000,90000,Petrol
+Vitz,Toyota,2008,4550000,90000,Petrol
+Vitz,Toyota,2007,4350000,90000,Petrol
+Vitz,Toyota,2015,6150000,90000,Petrol
+Vitz,Toyota,2009,4750000,91000,Petrol
+Vitz,Toyota,2007,4350000,91500,Petrol
+Vitz,Toyota,2008,4550000,92000,Petrol
+Vitz,Toyota,2007,4350000,92000,Petrol
+Vitz,Toyota,2008,4550000,92158,Petrol
+Vitz,Toyota,2007,4350000,92500,Petrol
+Vitz,Toyota,2007,4350000,93000,Petrol
+Vitz,Toyota,2008,4550000,94000,Petrol
+Vitz,Toyota,2008,4550000,94000,Petrol
+Vitz,Toyota,2010,5100000,94025,Petrol
+Vitz,Toyota,2009,4750000,96000,Petrol
+Vitz,Toyota,2008,4550000,96000,Petrol
+Vitz,Toyota,2009,4750000,97000,Petrol
+Vitz,Toyota,2008,4550000,97000,Petrol
+Vitz,Toyota,2007,4350000,97750,Petrol
+Vitz,Toyota,2007,4350000,98000,Petrol
+Vitz,Toyota,2005,3500000,98000,Petrol
+Vitz,Toyota,2007,4350000,98000,Petrol
+Vitz,Toyota,2009,4750000,99000,Petrol
+Vitz,Toyota,2008,4550000,99000,Petrol
+Vitz,Toyota,2007,4350000,99000,Petrol
+Vitz,Toyota,2007,4350000,99000,Petrol
+Vitz,Toyota,2007,4350000,99421,Petrol
+Vitz,Toyota,2007,4350000,100000,Petrol
+Vitz,Toyota,2007,4350000,100000,Petrol
+Vitz,Toyota,2007,4350000,100000,Petrol
+Vitz,Toyota,2010,5100000,100000,Petrol
+Vitz,Toyota,2009,4750000,100000,Petrol
+Vitz,Toyota,2010,5100000,100000,Petrol
+Vitz,Toyota,2007,4350000,101000,Petrol
+Vitz,Toyota,2007,4350000,101000,Petrol
+Vitz,Toyota,2008,4550000,102000,Petrol
+Vitz,Toyota,2008,4550000,102000,Petrol
+Vitz,Toyota,2009,4750000,102200,Petrol
+Vitz,Toyota,2008,4550000,103000,Petrol
+Vitz,Toyota,2007,4350000,104000,Petrol
+Vitz,Toyota,2007,4350000,105000,Petrol
+Vitz,Toyota,2007,4350000,105000,Petrol
+Vitz,Toyota,2009,4750000,105000,Petrol
+Vitz,Toyota,2010,5100000,105000,Petrol
+Vitz,Toyota,2008,4550000,106000,Petrol
+Vitz,Toyota,2007,4350000,108000,Petrol
+Vitz,Toyota,2007,4350000,110000,Petrol
+Vitz,Toyota,2000,2500000,110500,Petrol
+Vitz,Toyota,2007,4350000,112000,Petrol
+Vitz,Toyota,2008,4550000,112000,Petrol
+Vitz,Toyota,2007,4350000,112000,Petrol
+Vitz,Toyota,2007,4350000,113000,Petrol
+Vitz,Toyota,2008,4550000,114000,Petrol
+Hyundai,Hyundai Accent 2001,2001,1875000,75000,Petrol
+Maruti,Maruti Suzuki Omni,2011,1350000,135582,Petrol
+Datsun,Datsun Go Plus,2017,2750000,90000,Petrol
+Maruti,Maruti Suzuki Wagon,2014,4425000,67000,Petrol

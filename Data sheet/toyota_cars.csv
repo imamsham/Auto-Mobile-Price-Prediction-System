@@ -1,0 +1,2525 @@
+make,model,model_year,gear,fuel_type,engine_cc,mileage_km,price (Rs.)
+Toyota,Yaris,2020,Automatic,Petrol,1300,500,7200000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,500,11800000
+Toyota,Premio,2019,Automatic,Petrol,1500,610,11500000
+Toyota,Vitz,2019,Automatic,Petrol,1000,1000,5790000
+Toyota,Allion ,2018,Automatic,Petrol,1500,1000,9975000
+Toyota,Premio F EX G Superior,2020,Automatic,Petrol,1500,1000,13500000
+Toyota,Axio,2019,Automatic,Hybrid,1500,1200,8350000
+Toyota,Vitz,2020,Automatic,Petrol,1000,1300,6000000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,1611,5675000
+Toyota,Premio,2019,Automatic,Petrol,1500,1900,11275000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,2000,4825000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,2000,12150000
+Toyota,Yaris,2020,Automatic,Petrol,1300,2200,6850000
+Toyota,Premio,2019,Automatic,Petrol,1500,2200,12090000
+Toyota,Vitz,2018,Automatic,Petrol,1000,2300,5260000
+Toyota,Premio G Superior,2020,Automatic,Petrol,1500,2300,11950000
+Toyota,Premio,2019,Automatic,Petrol,1500,2400,11550000
+Toyota,Premio F EX G Superior,2019,Automatic,Petrol,1500,2500,11950000
+Toyota,Vitz,2019,Automatic,Petrol,1000,2700,5950000
+Toyota,Passo XL,2017,Automatic,Petrol,1000,3000,4350000
+Toyota,Roomy,2019,Automatic,Petrol,1000,3000,5750000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,3000,5750000
+Toyota,Vitz,2018,Automatic,Petrol,1000,3000,5875000
+Toyota,Premio,2020,Automatic,Petrol,1500,3000,12500000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,3100,11650000
+Toyota,Vitz,2018,Automatic,Petrol,1000,3165,5750000
+Toyota,Vitz,2018,Automatic,Petrol,1000,3200,5450000
+Toyota,Vitz,2019,Automatic,Petrol,1000,3220,5975000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,3450,10850000
+Toyota,Vitz,2019,Automatic,Petrol,1000,3500,5900000
+Toyota,Vitz Edition 3,2020,Automatic,Petrol,1000,3700,6290000
+Toyota,Axio,2018,Automatic,Hybrid,1500,3751,7300000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,4000,5700000
+Toyota,Vitz,2019,Automatic,Petrol,1000,4000,5800000
+Toyota,Vitz,2019,Automatic,Petrol,1000,4000,5925000
+Toyota,Vitz,2019,Automatic,Petrol,1000,4000,5975000
+Toyota,Axio WXB,2018,Automatic,Hybrid,1500,4500,7900000
+Toyota,Axio WXB,2019,Automatic,Hybrid,1500,4500,8085000
+Toyota,Vitz,2018,Automatic,Petrol,1000,4780,5175000
+Toyota,Vitz,2018,Automatic,Petrol,1000,4800,5300000
+Toyota,Premio,2019,Automatic,Petrol,1500,4846,11000000
+Toyota,Vitz,2018,Automatic,Petrol,1000,4900,5375000
+Toyota,Vitz,2018,Automatic,Petrol,1000,5000,5890000
+Toyota,Vitz,2019,Automatic,Petrol,1000,5000,5925000
+Toyota,Vitz,2019,Automatic,Petrol,1000,5000,6050000
+Toyota,Premio,2017,Automatic,Petrol,1500,5000,9750000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,5000,10600000
+Toyota,Vitz,2018,Automatic,Petrol,1000,5100,5550000
+Toyota,Vitz,2018,Automatic,Petrol,1000,5200,5350000
+Toyota,Tank,2018,Automatic,Petrol,1000,5300,5225000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,5800,4350000
+Toyota,Axio WXB,2018,Automatic,Hybrid,1500,5850,7690000
+Toyota,Wigo,2018,Automatic,Petrol,1000,5856,4275000
+Toyota,Prius,2015,Automatic,Hybrid,1800,6000,6100000
+Toyota,Premio,2018,Automatic,Petrol,1500,6000,8750000
+Toyota,Vitz,2018,Automatic,Petrol,1000,6300,5390000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,6500,12500000
+Toyota,Roomy,2017,Automatic,Petrol,1000,6940,5225000
+Toyota,Premio,2019,Automatic,Petrol,1500,6950,12050000
+Toyota,Vitz F,2018,Automatic,Petrol,1000,7000,4995000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,7000,5375000
+Toyota,Vitz Jewella,2017,Automatic,Petrol,1000,7018,4125000
+Toyota,Roomy,2018,Automatic,Petrol,1000,7200,5300000
+Toyota,Wigo,2018,Automatic,Petrol,1000,7500,4025000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,7500,10800000
+Toyota,Premio,2018,Automatic,Petrol,1500,7800,10700000
+Toyota,Premio F EX G Superior,2018,Automatic,Petrol,1500,7800,11175000
+Toyota,Aqua G Grade,2015,Automatic,Hybrid,1500,7900,3750000
+Toyota,Premio,2018,Automatic,Petrol,1500,7903,10600000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,8000,4625000
+Toyota,Vitz,2017,Automatic,Petrol,1000,8000,4750000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,8000,7850000
+Toyota,Allion,2018,Automatic,Petrol,1500,8000,9300000
+Toyota,Vitz,2019,Automatic,Petrol,1000,8200,5890000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,8200,9100000
+Toyota,Premio,2019,Automatic,Petrol,1500,8500,11300000
+Toyota,Vitz,2018,Automatic,Petrol,1000,9000,5875000
+Toyota,Vitz,2019,Automatic,Petrol,1000,9000,5890000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,9000,6500000
+Toyota,Axio,2017,Automatic,Hybrid,1500,9000,6785000
+Toyota,Premio,2018,Automatic,Petrol,1500,9000,8835000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,9000,10500000
+Toyota,Premio,2019,Automatic,Petrol,1500,9000,11500000
+Toyota,Allion,2018,Automatic,Petrol,1500,9185,9775000
+Toyota,Vitz,2018,Automatic,Petrol,1000,9300,5375000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,9800,5590000
+Toyota,Allion,2018,Automatic,Petrol,1500,9875,9890000
+Toyota,Passo XL,2017,Automatic,Petrol,1000,10000,4375000
+Toyota,Roomy,2017,Automatic,Petrol,1000,10000,5050000
+Toyota,Premio F EX G Superior,2018,Automatic,Petrol,1500,10000,10385000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,10000,11150000
+Toyota,Vitz,2018,Automatic,Diesel,1000,10020,5200000
+Toyota,Axio,2015,Automatic,Hybrid,1500,10100,5225000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,10200,10500000
+Toyota,Vitz,2019,Automatic,Petrol,1000,10500,5375000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,10500,10390000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,10500,11100000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,10600,5940000
+Toyota,Vitz Edition,2019,Automatic,Petrol,1000,10900,5865000
+Toyota,Allion,2018,Automatic,Petrol,1500,10907,9850000
+Toyota,Vitz,2018,Automatic,Petrol,1000,11000,5385000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,11000,5675000
+Toyota,Axio,2018,Automatic,Petrol,1500,11000,6850000
+Toyota,Premio F Grade,2019,Automatic,Petrol,1500,11000,8800000
+Toyota,Premio,2019,Automatic,Petrol,1500,11000,11100000
+Toyota,Premio 260,2018,Automatic,Petrol,1500,11400,11500000
+Toyota,Vitz F,2018,Automatic,Petrol,1000,11500,5350000
+Toyota,Vitz F,2018,Automatic,Petrol,1000,11500,5495000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,11700,5550000
+Toyota,Vitz,2018,Automatic,Petrol,1000,11750,5495000
+Toyota,Prius,2007,Automatic,Petrol,1800,11800,2790000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,11800,10650000
+Toyota,Premio,2019,Automatic,Petrol,1500,12000,11000000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,12000,11150000
+Toyota,Wigo,2017,Automatic,Petrol,1000,12250,3800000
+Toyota,Axio WXB,2018,Automatic,Hybrid,1500,12500,7800000
+Toyota,Premio,2018,Automatic,Petrol,1500,12500,10590000
+Toyota,Vitz,2018,Automatic,Petrol,1000,12600,5175000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,12900,10750000
+Toyota,Vitz,2017,Automatic,Petrol,1000,13000,4675000
+Toyota,Allion,2008,Automatic,Petrol,1500,13000,4885000
+Toyota,Vitz,2018,Automatic,Petrol,1000,13000,5400000
+Toyota,Axio,2015,Automatic,Hybrid,1500,13000,5475000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,13000,5675000
+Toyota,Axio WXB,2018,Automatic,Hybrid,1500,13000,7890000
+Toyota,Premio 260,2018,Automatic,Petrol,1500,13000,8850000
+Toyota,Premio,2017,Automatic,Petrol,1500,13000,9500000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,13000,10700000
+Toyota,Vitz,2017,Automatic,Petrol,1000,13060,4825000
+Toyota,Passo,2019,Automatic,Petrol,1000,14000,3850000
+Toyota,Vitz,2018,Automatic,Petrol,1000,14000,5400000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,14000,5650000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,14000,10300000
+Toyota,Premio,2019,Automatic,Petrol,1500,14000,10400000
+Toyota,Vitz Jewella,2017,Automatic,Petrol,1000,14500,4450000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,14500,10550000
+Toyota,Tank,2018,Automatic,Petrol,1000,14654,5350000
+Toyota,Aqua,2017,Automatic,Petrol,1500,15000,5100000
+Toyota,Vitz,2017,Automatic,Petrol,1000,15000,5175000
+Toyota,Vitz,2018,Automatic,Petrol,1000,15000,5190000
+Toyota,Roomy,2018,Automatic,Petrol,1000,15000,5300000
+Toyota,Vitz Edition 3,2019,Automatic,Petrol,1000,15000,5575000
+Toyota,Tank,2018,Automatic,Petrol,1000,15000,5650000
+Toyota,Vitz,2018,Automatic,Petrol,1000,15000,5675000
+Toyota,Vitz F,2018,Automatic,Petrol,1000,15000,5750000
+Toyota,Axio,2017,Automatic,Hybrid,1500,15000,6300000
+Toyota,Premio,2019,Automatic,Petrol,1500,15000,11300000
+Toyota,Vitz F,2017,Automatic,Petrol,1000,15300,4975000
+Toyota,Axio WXB,2018,Automatic,Petrol,1500,15500,7375000
+Toyota,Vitz,2014,Automatic,Petrol,1000,15800,4590000
+Toyota,Axio,2018,Automatic,Hybrid,1500,15807,6400000
+Toyota,Vitz,2018,Automatic,Petrol,1000,15865,5500000
+Toyota,Aqua G Grade,2018,Automatic,Hybrid,1500,15870,4850000
+Toyota,Vitz,2017,Automatic,Petrol,1000,15870,5400000
+Toyota,Vitz,2007,Automatic,Petrol,1000,16000,3080000
+Toyota,Vitz,2018,Automatic,Petrol,1000,16000,5225000
+Toyota,Vitz,2018,Automatic,Petrol,1000,16000,5350000
+Toyota,Premio,2019,Automatic,Petrol,1500,16000,9450000
+Toyota,Vitz,2018,Automatic,Petrol,1000,16500,5425000
+Toyota,Vitz,2019,Automatic,Petrol,1000,16500,5780000
+Toyota,Axio WXB,2018,Automatic,Petrol,1500,16500,7790000
+Toyota,Vitz,2018,Automatic,Petrol,1000,16900,5225000
+Toyota,Vitz,2017,Automatic,Petrol,1000,17000,5050000
+Toyota,Vitz,2017,Automatic,Petrol,1000,17000,5125000
+Toyota,Aqua S Grade,2017,Automatic,Hybrid,1500,17000,5850000
+Toyota,Vitz,2019,Automatic,Petrol,1000,17000,5850000
+Toyota,Axio G Grade,2018,Automatic,Hybrid,1500,17000,7375000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,17000,10700000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,17000,10850000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,17200,9775000
+Toyota,Vitz,2017,Automatic,Petrol,1000,17500,4690000
+Toyota,Vitz,2018,Automatic,Petrol,1000,17500,5550000
+Toyota,Vitz,2019,Automatic,Petrol,1000,17800,5750000
+Toyota,Pixis,2018,Automatic,Petrol,660,18000,3800000
+Toyota,Pixis,2018,Automatic,Petrol,660,18000,3850000
+Toyota,Vitz,2016,Automatic,Petrol,1000,18000,4600000
+Toyota,Vitz,2017,Automatic,Petrol,1000,18000,4725000
+Toyota,Vitz,2018,Automatic,Petrol,1000,18000,5050000
+Toyota,Vitz,2019,Automatic,Petrol,1000,18000,5850000
+Toyota,Premio,2017,Automatic,Petrol,1500,18000,9475000
+Toyota,Premio,2019,Automatic,Petrol,1500,18000,9500000
+Toyota,Vitz,2016,Automatic,Petrol,1000,18600,5130000
+Toyota,Tank,2017,Automatic,Petrol,1000,18990,5695000
+Toyota,Tank,2016,Automatic,Petrol,1000,19000,5100000
+Toyota,Vitz,2018,Automatic,Petrol,1000,19000,5550000
+Toyota,Vitz,2018,Automatic,Petrol,1000,19000,5650000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,19000,6825000
+Toyota,Premio F EX G Superior,2017,Automatic,Petrol,1500,19000,9850000
+Toyota,Axio,2017,Automatic,Hybrid,1500,19300,5645000
+Toyota,Vitz Edition 3,2018,Automatic,Petrol,1000,19500,5490000
+Toyota,Roomy,2017,Automatic,Petrol,1000,19650,5225000
+Toyota,Axio,2017,Automatic,Petrol,1500,19750,5675000
+Toyota,Vitz,2020,Automatic,Petrol,1000,19800,6275000
+Toyota,Tank,2017,Automatic,Petrol,1000,19850,5175000
+Toyota,Wigo,2017,Automatic,Petrol,1000,20000,3300000
+Toyota,Vitz,2015,Automatic,Petrol,1000,20000,4300000
+Toyota,Vitz,2016,Automatic,Petrol,1000,20000,4775000
+Toyota,Tank,2018,Automatic,Petrol,1000,20000,5100000
+Toyota,Vitz,2018,Automatic,Petrol,1000,20000,5200000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,20000,10000000
+Toyota,Premio,2019,Automatic,Petrol,1500,20000,11800000
+Toyota,Vitz Jewella,2017,Automatic,Petrol,1000,20100,4650000
+Toyota,Axio WXB,2018,Automatic,Hybrid,1500,20100,7200000
+Toyota,Wigo,2017,Automatic,Petrol,1000,21000,3750000
+Toyota,Passo,2017,Automatic,Petrol,1000,21000,4750000
+Toyota,Vitz,2017,Automatic,Petrol,1000,21000,4825000
+Toyota,Vitz,2017,Automatic,Petrol,1000,21000,4875000
+Toyota,Vitz,2017,Automatic,Petrol,1000,21000,4900000
+Toyota,Vitz,2017,Automatic,Petrol,1000,21000,5050000
+Toyota,Vitz LED Version,2017,Automatic,Petrol,1000,21000,5050000
+Toyota,Premio G Superior,2019,Automatic,Petrol,1500,21000,10850000
+Toyota,Vitz LED Version,2016,Automatic,Petrol,1000,21300,4250000
+Toyota,Tank,2017,Automatic,Petrol,1000,21500,5500000
+Toyota,Premio,2019,Automatic,Petrol,1500,21500,8800000
+Toyota,Tank,2017,Automatic,Petrol,1000,21786,5175000
+Toyota,Pixis,2017,Automatic,Petrol,660,22000,3000000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,22000,4800000
+Toyota,Vitz,2017,Automatic,Petrol,1000,22000,5090000
+Toyota,Vitz,2018,Automatic,Petrol,1000,22000,5100000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,22000,5285000
+Toyota,Vitz,2018,Automatic,Petrol,1000,22000,5350000
+Toyota,Vitz,2018,Automatic,Petrol,1000,22000,5400000
+Toyota,Axio WXB,2012,Automatic,Hybrid,1500,22000,6450000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,22000,7050000
+Toyota,Vitz Edition 2,2019,Automatic,Petrol,1000,22100,5995000
+Toyota,Allion,2017,Automatic,Petrol,1500,22300,8000000
+Toyota,Vitz,2017,Automatic,Petrol,1000,22500,4875000
+Toyota,Vitz,2017,Automatic,Petrol,1000,23000,4800000
+Toyota,Vitz,2017,Automatic,Petrol,1000,23000,5150000
+Toyota,Premio,2018,Automatic,Petrol,1500,23000,10300000
+Toyota,Axio,2017,Automatic,Hybrid,1500,23100,5690000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,23200,5350000
+Toyota,Vitz,2018,Automatic,Petrol,1000,23500,5200000
+Toyota,Vitz,2018,Automatic,Petrol,1000,23500,5590000
+Toyota,Premio,2019,Automatic,Petrol,1500,23500,10925000
+Toyota,Vitz,2018,Automatic,Petrol,1000,23600,5275000
+Toyota,F NZT260,2018,Automatic,Petrol,1500,23990,7900000
+Toyota,Passo,2005,Automatic,Petrol,1000,24000,2550000
+Toyota,Vitz,2015,Automatic,Petrol,1000,24000,4050000
+Toyota,Vitz,2016,Automatic,Petrol,1000,24000,4390000
+Toyota,Vitz Edition,2018,Automatic,Petrol,1000,24000,5490000
+Toyota,Premio,2017,Automatic,Petrol,1500,24000,7550000
+Toyota,Premio,2017,Automatic,Petrol,1500,24000,10500000
+Toyota,Vitz,2016,Automatic,Petrol,1000,24100,4675000
+Toyota,Prius,2012,Automatic,Hybrid,1800,24191,4400000
+Toyota,Premio,2018,Automatic,Petrol,1500,24300,10300000
+Toyota,Vitz,2016,Automatic,Petrol,1000,24500,4385000
+Toyota,Premio,2012,Automatic,Petrol,1500,25000,3050000
+Toyota,Prius,2013,Automatic,Petrol,1800,25000,4250000
+Toyota,Vitz,2015,Automatic,Petrol,1000,25000,4250000
+Toyota,Roomy,2017,Automatic,Petrol,1000,25000,5000000
+Toyota,Vitz,2018,Automatic,Petrol,1000,25000,5150000
+Toyota,Vitz,2017,Automatic,Petrol,1000,25000,5175000
+Toyota,Vitz,2018,Automatic,Petrol,1000,25000,5590000
+Toyota,Axio G Grade,2018,Automatic,Petrol,1500,25000,6800000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,25000,7500000
+Toyota,Axio WXB,2019,Automatic,Petrol,1500,25000,8150000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,25000,8990000
+Toyota,Premio,2017,Automatic,Petrol,1500,25000,9650000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,25096,6450000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,25096,6450000
+Toyota,Vitz,2015,Automatic,Petrol,1000,25580,4200000
+Toyota,Vitz,2017,Automatic,Petrol,1000,25580,5150000
+Toyota,Pixis,2017,Automatic,Petrol,660,26000,3250000
+Toyota,Vitz,2016,Automatic,Petrol,1000,26000,4650000
+Toyota,Vitz,2016,Automatic,Petrol,1000,26000,4655000
+Toyota,Axio,2016,Automatic,Hybrid,1500,26000,5200000
+Toyota,Axio Fielder,2018,Automatic,Hybrid,1500,26000,7000000
+Toyota,Axio WXB,2017,Automatic,Petrol,1500,26000,7550000
+Toyota,Allion,2016,Automatic,Petrol,1500,26000,7675000
+Toyota,Prius,2016,Automatic,Hybrid,1800,26000,8200000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,26000,10500000
+Toyota,Vitz,2017,Automatic,Petrol,1000,26100,4900000
+Toyota,Vitz,2015,Automatic,Petrol,1000,26300,4450000
+Toyota,Vitz LED Version,2016,Automatic,Petrol,1000,26338,4950000
+Toyota,Premio,2017,Automatic,Petrol,1500,26500,7350000
+Toyota,VITZ KSP130,2017,Automatic,Petrol,1000,26800,4790000
+Toyota,Premio,2017,Automatic,Petrol,1500,26800,9250000
+Toyota,Wigo,2017,Automatic,Petrol,1000,27000,3895000
+Toyota,VITZ KSP130,2015,Automatic,Petrol,1000,27000,4400000
+Toyota,Vitz,2015,Automatic,Petrol,1000,27000,4450000
+Toyota,Tank,2017,Automatic,Petrol,1000,27000,4975000
+Toyota,Prius,2015,Automatic,Hybrid,1800,27000,4990000
+Toyota,Vitz,2018,Automatic,Petrol,1000,27000,5900000
+Toyota,Axio,2017,Automatic,Hybrid,1500,27000,7000000
+Toyota,Allion,2016,Automatic,Petrol,1500,27000,7900000
+Toyota,Premio,2018,Automatic,Petrol,1500,27000,7990000
+Toyota,Premio,2017,Automatic,Petrol,1500,27000,9650000
+Toyota,Premio,2018,Automatic,Petrol,1500,27000,9750000
+Toyota,Premio,2018,Automatic,Petrol,1500,27000,9750000
+Toyota,Premio,2018,Automatic,Petrol,1500,27000,12600000
+Toyota,VITZ KSP130,2015,Automatic,Petrol,1000,27030,3550000
+Toyota,Vitz,2015,Automatic,Petrol,1000,27350,4575000
+Toyota,Vitz,2014,Automatic,Petrol,1000,27584,4295000
+Toyota,Vitz,2016,Automatic,Petrol,1000,27860,4375000
+Toyota,Avanza,2012,Manual,Petrol,1500,28000,4400000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,28000,4450000
+Toyota,Vitz,2016,Automatic,Petrol,1000,28000,4525000
+Toyota,Vitz,2016,Automatic,Petrol,1000,28000,4575000
+Toyota,Roomy,2016,Automatic,Petrol,1000,28000,5000000
+Toyota,Roomy,2017,Automatic,Petrol,1000,28500,4965000
+Toyota,Vitz,2018,Automatic,Petrol,1000,28500,5225000
+Toyota,Vitz,2014,Automatic,Petrol,1000,28900,4260000
+Toyota,Vitz Edition 2,2017,Automatic,Petrol,1000,29000,4625000
+Toyota,Vitz,2015,Automatic,Petrol,1000,29000,4675000
+Toyota,Vitz,2018,Automatic,Petrol,1000,29000,5290000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,29000,5390000
+Toyota,Vitz,2018,Automatic,Petrol,1000,29000,5500000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,29000,5575000
+Toyota,Axio,2016,Automatic,Hybrid,1500,29000,6250000
+Toyota,Aqua X Urban,2016,Automatic,Hybrid,1500,29000,6500000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,29000,6875000
+Toyota,Premio,2016,Automatic,Petrol,1500,29000,9000000
+Toyota,Vitz,2017,Automatic,Petrol,1000,29500,4850000
+Toyota,Vitz,2017,Automatic,Petrol,1000,29838,4990000
+Toyota,Roomy,2017,Automatic,Petrol,1000,29854,4790000
+Toyota,Vitz,2017,Automatic,Petrol,1000,29900,4850000
+Toyota,Pixis,2017,Automatic,Petrol,660,30000,3350000
+Toyota,VITZ KSP130,2017,Automatic,Petrol,1000,30000,3900000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,30000,4200000
+Toyota,Vitz LED Version,2016,Automatic,Petrol,1000,30000,4590000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,30000,5200000
+Toyota,Axio,2015,Automatic,Hybrid,1500,30000,5500000
+Toyota,Prius S Touring,2014,Automatic,Petrol,1800,30000,5700000
+Toyota,Noah,2014,Automatic,Hybrid,1800,30000,6500000
+Toyota,Premio,2018,Automatic,Petrol,1500,30000,8575000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,30000,9800000
+Toyota,Aqua,2018,Automatic,Hybrid,1500,30400,6350000
+Toyota,Vitz,2016,Automatic,Petrol,1000,30700,4350000
+Toyota,Vitz,2015,Automatic,Petrol,1000,31000,4385000
+Toyota,Vitz,2016,Automatic,Petrol,1000,31000,4650000
+Toyota,Vitz,2017,Automatic,Petrol,1000,31000,4775000
+Toyota,Vitz,2017,Automatic,Petrol,1000,31000,4825000
+Toyota,Vitz,2016,Automatic,Petrol,1000,31000,4950000
+Toyota,Vitz Edition 3,2018,Automatic,Petrol,1000,31000,5345000
+Toyota,Vitz Edition 3,2018,Automatic,Petrol,1000,31000,5345000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,31000,5800000
+Toyota,Allion,2016,Automatic,Petrol,1500,31000,7000000
+Toyota,Premio Ex,2017,Automatic,Petrol,1500,31000,9350000
+Toyota,Vitz,2018,Automatic,Petrol,1000,31300,5265000
+Toyota,Vitz,2019,Automatic,Petrol,1000,31900,5950000
+Toyota,Vitz,2015,Automatic,Petrol,1000,32000,4050000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,32000,4350000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,32000,4500000
+Toyota,Vitz,2016,Automatic,Petrol,1000,32000,4550000
+Toyota,Vitz,2016,Automatic,Petrol,1000,32000,4590000
+Toyota,Corolla 141,2013,Automatic,Petrol,1500,32000,5000000
+Toyota,Vitz,2018,Automatic,Petrol,1000,32000,5200000
+Toyota,Vitz,2018,Automatic,Petrol,1000,32000,5390000
+Toyota,Axio,2016,Automatic,Hybrid,1500,32000,5480000
+Toyota,Axio WXB,2016,Automatic,Petrol,1500,32000,5790000
+Toyota,Allion ,2018,Automatic,Petrol,1500,32000,9580000
+Toyota,Vitz,2016,Automatic,Petrol,1000,32500,4550000
+Toyota,Vitz,2015,Automatic,Petrol,1000,32500,4575000
+Toyota,Vitz,2016,Automatic,Petrol,1000,33000,4600000
+Toyota,Premio,2018,Automatic,Petrol,1500,33000,10550000
+Toyota,Prius G Touring,2012,Automatic,Petrol,1800,33200,4700000
+Toyota,Vitz,2017,Automatic,Petrol,1000,33400,4875000
+Toyota,Vitz,2016,Automatic,Petrol,1000,33500,4625000
+Toyota,Wigo,2017,Automatic,Petrol,1000,34000,4090000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,34000,4195000
+Toyota,Passo XL,2018,Automatic,Petrol,1000,34000,4500000
+Toyota,Passo,2017,Automatic,Petrol,1000,34000,4600000
+Toyota,Vitz,2016,Automatic,Petrol,1000,34000,4775000
+Toyota,Vitz,2017,Automatic,Petrol,1000,34000,4775000
+Toyota,Vitz Edition 3,2018,Automatic,Petrol,1000,34000,5350000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,34000,7975000
+Toyota,Allion,2016,Automatic,Petrol,1500,34000,8900000
+Toyota,Premio,2017,Automatic,Petrol,1500,34000,9190000
+Toyota,Premio,2017,Automatic,Petrol,1500,34000,9390000
+Toyota,Premio,2017,Automatic,Petrol,1500,34000,9500000
+Toyota,Premio,2018,Automatic,Petrol,1500,34000,11000000
+Toyota,Vitz,2018,Automatic,Petrol,1000,34028,5250000
+Toyota,Premio F EX G Superior,2018,Automatic,Diesel,1500,34263,9875000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,34300,4350000
+Toyota,Premio,2018,Automatic,Petrol,1500,34500,10225000
+Toyota,Premio,2018,Automatic,Petrol,1500,34700,10350000
+Toyota,Premio,2016,Automatic,Petrol,1500,34900,8750000
+Toyota,Passo,2017,Automatic,Petrol,1000,35000,3475000
+Toyota,Vitz,2015,Automatic,Petrol,1000,35000,4375000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,35000,4500000
+Toyota,Aqua X Urban,2015,Automatic,Petrol,1500,35000,4550000
+Toyota,Prius,2013,Automatic,Hybrid,1800,35000,4700000
+Toyota,Vitz LED Version,2016,Automatic,Petrol,1000,35000,4790000
+Toyota,Roomy,2017,Automatic,Petrol,1000,35000,4800000
+Toyota,Vitz,2017,Automatic,Petrol,1000,35000,4850000
+Toyota,Vitz,2018,Automatic,Petrol,1000,35000,5100000
+Toyota,Vitz,2018,Automatic,Petrol,1000,35000,5275000
+Toyota,Vitz,2018,Automatic,Petrol,1000,35000,5375000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,35000,7000000
+Toyota,Premio,2017,Automatic,Petrol,1500,35000,8350000
+Toyota,Premio,2018,Automatic,Petrol,1500,35000,10500000
+Toyota,Axio,2016,Automatic,Hybrid,1500,35400,5475000
+Toyota,Vitz F,2015,Automatic,Petrol,1000,36000,4290000
+Toyota,Aqua,2015,Automatic,Petrol,1500,36000,4300000
+Toyota,Vitz,2017,Automatic,Petrol,1000,36000,4475000
+Toyota,Tank,2017,Automatic,Petrol,1000,36000,5125000
+Toyota,Vitz,2018,Automatic,Petrol,1000,36000,5275000
+Toyota,Vitz,2018,Automatic,Petrol,1000,36000,5375000
+Toyota,Axio,2016,Automatic,Hybrid,1500,36000,5650000
+Toyota,Axio,2016,Automatic,Petrol,1500,36000,5750000
+Toyota,Axio,2017,Automatic,Hybrid,1500,36000,5875000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,36000,6850000
+Toyota,Premio,2016,Automatic,Petrol,1500,36000,9100000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,36300,6875000
+Toyota,Tank,2018,Automatic,Petrol,1000,36500,5500000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,36500,6500000
+Toyota,Vitz LED Version,2016,Automatic,Petrol,1000,36700,4875000
+Toyota,Vitz,2015,Automatic,Petrol,1000,36900,4395000
+Toyota,Vitz Edition 2,2018,Automatic,Petrol,1000,37000,4355000
+Toyota,Axio WXB,2017,Automatic,Petrol,1500,37000,6850000
+Toyota,Premio,2012,Automatic,Petrol,1500,37303,6500000
+Toyota,Pixis,2016,Automatic,Petrol,660,38000,3450000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,38000,3750000
+Toyota,Vitz,2015,Automatic,Petrol,1000,38000,4300000
+Toyota,Wigo,2020,Automatic,Petrol,1000,38000,4350000
+Toyota,Vitz,2016,Automatic,Petrol,1000,38000,4375000
+Toyota,Vitz,2015,Automatic,Petrol,1000,38000,4450000
+Toyota,Vitz,2015,Automatic,Petrol,1000,38000,4450000
+Toyota,Vitz,2016,Automatic,Petrol,1000,38000,4590000
+Toyota,Vitz,2017,Automatic,Petrol,1000,38000,5000000
+Toyota,Vitz,2018,Automatic,Petrol,1000,38000,5325000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,38000,6990000
+Toyota,Axio,2018,Automatic,Petrol,1500,38000,7700000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,38000,9025000
+Toyota,Premio,2016,Automatic,Petrol,1500,38000,9050000
+Toyota,Premio,2017,Automatic,Petrol,1500,38000,9425000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,38000,9475000
+Toyota,Vitz F,2017,Automatic,Petrol,1000,38425,4895000
+Toyota,Prius S Touring,2012,Automatic,Hybrid,1800,38500,5175000
+Toyota,Aqua,2014,Automatic,Petrol,1500,38750,4875000
+Toyota,Vitz,2018,Automatic,Petrol,1000,38800,5275000
+Toyota,Vitz F,2017,Automatic,Petrol,1000,39000,4495000
+Toyota,Vitz,2017,Automatic,Petrol,1000,39000,5125000
+Toyota,Axio,2015,Automatic,Petrol,1500,39000,5550000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,39000,6200000
+Toyota,Prius,2016,Automatic,Hybrid,1800,39000,6750000
+Toyota,Premio,2018,Automatic,Petrol,1500,39000,9850000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,39500,4000000
+Toyota,Premio,2018,Automatic,Petrol,1500,39500,10000000
+Toyota,Vitz,2017,Automatic,Petrol,1000,39900,4900000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,40000,3300000
+Toyota,Aqua G Grade,2012,Automatic,Petrol,1500,40000,3590000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,40000,3850000
+Toyota,Vitz,2014,Automatic,Petrol,1000,40000,4125000
+Toyota,Passo,2016,Automatic,Petrol,1000,40000,4160000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,40000,4250000
+Toyota,Vitz,2015,Automatic,Petrol,1000,40000,4250000
+Toyota,VITZ KSP130,2015,Automatic,Petrol,1000,40000,4300000
+Toyota,Vitz,2015,Automatic,Petrol,1000,40000,4315000
+Toyota,Vitz,2015,Automatic,Petrol,1000,40000,4425000
+Toyota,Vitz,2015,Automatic,Petrol,1000,40000,4450000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,40000,4500000
+Toyota,Vitz,2016,Automatic,Petrol,1000,40000,4590000
+Toyota,Vitz,2016,Automatic,Petrol,1000,40000,4650000
+Toyota,Passo XL,2017,Automatic,Petrol,1000,40000,4690000
+Toyota,Axio,2014,Automatic,Petrol,1500,40000,4745000
+Toyota,Vitz,2017,Automatic,Petrol,1000,40000,4800000
+Toyota,Vitz,2017,Automatic,Petrol,1000,40000,4990000
+Toyota,Axio,2016,Automatic,Hybrid,1500,40000,5550000
+Toyota,Prius G Sport,2014,Automatic,Hybrid,1800,40000,5600000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,40400,4925000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,40500,3890000
+Toyota,Prius,2014,Automatic,Hybrid,1800,40500,5300000
+Toyota,Vitz,2016,Automatic,Petrol,1000,40950,4475000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,41000,4000000
+Toyota,Vitz,2015,Automatic,Petrol,1000,41000,4350000
+Toyota,Vitz,2015,Automatic,Petrol,1000,41000,4360000
+Toyota,Axio,2014,Automatic,Hybrid,1500,41000,4390000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,41000,4420000
+Toyota,Axio,2015,Automatic,Petrol,1500,41000,5300000
+Toyota,Axio G Grade,2016,Automatic,Petrol,1500,41000,5500000
+Toyota,Axio,2016,Automatic,Petrol,1500,41000,5600000
+Toyota,Axio,2016,Automatic,Petrol,1500,41000,5800000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,41000,7450000
+Toyota,Prius,2016,Automatic,Hybrid,1800,41000,7600000
+Toyota,Premio,2014,Automatic,Petrol,1500,41000,7675000
+Toyota,Allion,2017,Automatic,Petrol,1500,41000,8850000
+Toyota,Axio,2015,Automatic,Hybrid,1500,41500,5250000
+Toyota,Premio,2016,Automatic,Petrol,1500,41800,8150000
+Toyota,VITZ KSP130,2014,Automatic,Petrol,1000,42000,4225000
+Toyota,Vitz,2016,Automatic,Petrol,1000,42000,4530000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,42000,6870000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,42000,7800000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,42000,8350000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,42000,10150000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,42035,3800000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,42700,6750000
+Toyota,Wigo,2017,Automatic,Petrol,1000,43000,3990000
+Toyota,Vitz,2015,Automatic,Petrol,1000,43000,4340000
+Toyota,Vitz,2015,Automatic,Petrol,1000,43000,4385000
+Toyota,Vitz,2016,Automatic,Petrol,1000,43000,4550000
+Toyota,Vitz Edition 2,2017,Automatic,Petrol,1000,43000,4825000
+Toyota,Aqua,2016,Automatic,Hybrid,1500,43000,5100000
+Toyota,Vitz,2018,Automatic,Petrol,1000,43000,5200000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,43000,6800000
+Toyota,Premio,2017,Automatic,Petrol,1500,43000,7250000
+Toyota,Premio,2017,Automatic,Petrol,1500,43000,9475000
+Toyota,Premio,2017,Automatic,Petrol,1500,43000,9475000
+Toyota,Premio F EX G Superior,2018,Automatic,Petrol,1500,43000,10300000
+Toyota,Vitz,2018,Automatic,Petrol,1000,43200,5390000
+Toyota,Vitz,2016,Automatic,Petrol,1000,43325,4450000
+Toyota,Passo XL,2017,Automatic,Petrol,1000,44000,4275000
+Toyota,Vitz,2015,Automatic,Petrol,1000,44000,4400000
+Toyota,Aqua,2015,Automatic,Petrol,1500,44000,4425000
+Toyota,Vitz,2016,Automatic,Petrol,1000,44000,4475000
+Toyota,Vitz,2016,Automatic,Petrol,1000,44000,4525000
+Toyota,Vitz,2016,Automatic,Petrol,1000,44000,4650000
+Toyota,Vitz,2017,Automatic,Petrol,1000,44000,4790000
+Toyota,Vitz,2017,Automatic,Petrol,1000,44000,5175000
+Toyota,Vitz,2018,Automatic,Petrol,1000,44000,5290000
+Toyota,Axio G Grade,2017,Automatic,Hybrid,1500,44000,6190000
+Toyota,Axio,2015,Automatic,Hybrid,1500,44000,6250000
+Toyota,Premio,2018,Automatic,Petrol,1500,44000,9850000
+Toyota,Axio,2016,Automatic,Hybrid,1500,44256,5625000
+Toyota,Vitz,2016,Automatic,Petrol,1000,44500,4675000
+Toyota,Vitz,2014,Automatic,Petrol,1000,44700,4375000
+Toyota,Vitz,2016,Automatic,Petrol,1000,44800,4550000
+Toyota,Aqua G Grade,2012,Automatic,Petrol,1500,45000,3500000
+Toyota,Vitz,2016,Automatic,Petrol,1000,45000,4390000
+Toyota,Vitz,2016,Automatic,Petrol,1000,45000,4420000
+Toyota,Vitz F,2017,Automatic,Petrol,1000,45000,4475000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,45000,4500000
+Toyota,Vitz,2017,Automatic,Petrol,1000,45000,4630000
+Toyota,Axio,2014,Automatic,Hybrid,1500,45000,4750000
+Toyota,Aqua,2015,Automatic,Petrol,1500,45000,4850000
+Toyota,Vitz,2018,Automatic,Petrol,1000,45000,5190000
+Toyota,Vitz,2018,Automatic,Petrol,1000,45000,5275000
+Toyota,Aqua,2017,Automatic,Hybrid,1500,45000,5345000
+Toyota,Prius,2016,Automatic,Petrol,1800,45000,5490000
+Toyota,Axio,2017,Automatic,Petrol,1500,45000,6675000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,45000,9500000
+Toyota,Axio,2016,Automatic,Petrol,1500,45560,5900000
+Toyota,Aqua,2014,Automatic,Petrol,1500,46000,3900000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,46000,3990000
+Toyota,Vitz F,2016,Automatic,Petrol,1000,46000,4300000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,46000,4450000
+Toyota,Vitz,2016,Automatic,Petrol,1000,46000,4550000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,46000,7150000
+Toyota,Prius,2016,Automatic,Hybrid,1800,46000,8800000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,46000,9675000
+Toyota,Premio,2017,Automatic,Petrol,1500,46957,8090000
+Toyota,Aqua,2012,Automatic,Petrol,1500,47000,3075000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,47000,3250000
+Toyota,Pixis,2016,Automatic,Petrol,660,47000,3275000
+Toyota,Vitz,2016,Automatic,Petrol,1000,47000,4375000
+Toyota,Vitz,2018,Automatic,Petrol,1000,47000,5250000
+Toyota,Axio,2016,Automatic,Hybrid,1500,47000,5325000
+Toyota,Axio 165,2015,Automatic,Hybrid,1500,47000,5450000
+Toyota,Allion,2018,Automatic,Petrol,1500,47000,8150000
+Toyota,Allion,2016,Automatic,Petrol,1500,47000,8200000
+Toyota,Aqua,2015,Automatic,Petrol,1500,47100,4075000
+Toyota,Vitz,2016,Automatic,Petrol,1000,47132,4495000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,47500,3700000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,47569,6400000
+Toyota,Premio,2018,Automatic,Petrol,1500,47600,10750000
+Toyota,IST,2003,Automatic,Petrol,1300,48000,2925000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,48000,3250000
+Toyota,Avanza,2012,Automatic,Petrol,1500,48000,4200000
+Toyota,Vitz,2015,Automatic,Petrol,1000,48000,4360000
+Toyota,Prius,2013,Automatic,Petrol,1800,48000,4400000
+Toyota,Vitz,2016,Automatic,Petrol,1000,48000,4475000
+Toyota,Vitz,2016,Automatic,Petrol,1000,48000,4565000
+Toyota,Vitz,2015,Automatic,Petrol,1000,48000,4575000
+Toyota,Axio,2016,Automatic,Hybrid,1500,48000,5825000
+Toyota,Axio X Grade,2016,Automatic,Hybrid,1500,48000,6290000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,48000,8190000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,48100,6590000
+Toyota,Allion 260,2016,Automatic,Petrol,1500,48128,8295000
+Toyota,Vitz,2017,Automatic,Petrol,1000,48840,4375000
+Toyota,Passo XL,2016,Automatic,Petrol,1000,49000,4395000
+Toyota,Axio,2016,Automatic,Hybrid,1500,49000,5240000
+Toyota,Premio,2015,Automatic,Petrol,1500,49000,8175000
+Toyota,Allion,2016,Automatic,Petrol,1500,49000,8200000
+Toyota,Premio,2017,Automatic,Petrol,1500,49000,8995000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,49000,9390000
+Toyota,Vitz,2017,Automatic,Petrol,1000,49470,4600000
+Toyota,Axio,2014,Automatic,Hybrid,1500,49850,4500000
+Toyota,Passo,2015,Automatic,Petrol,1000,50000,3980000
+Toyota,Tank,2017,Automatic,Petrol,1000,50000,3990000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,50000,4725000
+Toyota,Axio,2015,Automatic,Hybrid,1500,50000,4825000
+Toyota,Axio,2017,Automatic,Hybrid,1500,50000,5800000
+Toyota,Premio,2013,Automatic,Petrol,1500,50000,6650000
+Toyota,Premio,2013,Automatic,Petrol,1500,50000,6650000
+Toyota,Premio,2016,Automatic,Petrol,1500,50000,8450000
+Toyota,Premio,2017,Automatic,Petrol,1500,50000,8995000
+Toyota,Premio,2017,Automatic,Petrol,1500,50000,9750000
+Toyota,Passo,2012,Automatic,Petrol,1000,50228,3125000
+Toyota,Vitz F,2015,Automatic,Petrol,1000,50600,4525000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,50680,3875000
+Toyota,Vitz,2015,Automatic,Petrol,1000,51000,4275000
+Toyota,Vitz,2015,Automatic,Petrol,1000,51000,4425000
+Toyota,Vitz,2016,Automatic,Petrol,1000,51000,4500000
+Toyota,Axio,2015,Automatic,Petrol,1500,51000,4975000
+Toyota,Axio X Grade,2017,Automatic,Hybrid,1500,51000,5725000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,51000,6695000
+Toyota,Aqua G Grade,2015,Automatic,Hybrid,1500,51500,3800000
+Toyota,Axio WXB,2017,Automatic,Petrol,1500,51789,6950000
+Toyota,Vitz,2015,Automatic,Petrol,1000,51900,4200000
+Toyota,Prius S Touring,2014,Automatic,Petrol,1800,52000,4350000
+Toyota,Vitz,2015,Automatic,Petrol,1000,52000,4385000
+Toyota,Axio,2015,Automatic,Hybrid,1500,52000,4950000
+Toyota,Axio,2015,Automatic,Hybrid,1500,52000,5525000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,52000,5850000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,52000,6075000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,52000,6500000
+Toyota,Premio,2013,Automatic,Petrol,1500,52000,6890000
+Toyota,Premio,2017,Automatic,Petrol,1500,52000,9550000
+Toyota,Premio,2017,Automatic,Petrol,1500,52000,9650000
+Toyota,Aqua S Grade,2015,Automatic,Hybrid,1500,52300,4275000
+Toyota,Vitz,2018,Automatic,Petrol,1000,52496,5250000
+Toyota,Aqua X Urban,2015,Automatic,Petrol,1500,52600,4550000
+Toyota,Aqua,2014,Automatic,Petrol,1500,53000,4150000
+Toyota,Axio,2011,Automatic,Petrol,1500,53000,4175000
+Toyota,Vitz,2016,Automatic,Petrol,1000,53000,4400000
+Toyota,Roomy,2017,Automatic,Petrol,1000,53000,4700000
+Toyota,Prius S Touring,2014,Automatic,Hybrid,1800,53000,4875000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,53000,5300000
+Toyota,Axio,2016,Automatic,Hybrid,1500,53000,5475000
+Toyota,Axio G Grade,2015,Automatic,Petrol,1500,53000,5475000
+Toyota,Axio,2016,Automatic,Hybrid,1500,53000,5550000
+Toyota,Axio X Grade,2016,Automatic,Petrol,1500,53000,5750000
+Toyota,Premio G Superior,2014,Automatic,Petrol,1500,53000,8100000
+Toyota,Premio,2017,Automatic,Petrol,1500,53000,9200000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,53000,9375000
+Toyota,Aqua G grade,2017,Automatic,Petrol,1500,53100,3850000
+Toyota,Aqua G Sport,2014,Automatic,Petrol,1500,53156,5250000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,53300,4780000
+Toyota,Premio,2007,Automatic,Petrol,1500,53700,4500000
+Toyota,Aqua S Grade,2014,Automatic,Petrol,1500,54000,3310000
+Toyota,Aqua,2015,Automatic,Petrol,1500,54000,3785000
+Toyota,Vitz,2015,Automatic,Petrol,1000,54000,4250000
+Toyota,Axio,2015,Automatic,Hybrid,1500,54000,4375000
+Toyota,Axio,2015,Automatic,Petrol,1500,54000,4700000
+Toyota,Vitz,2017,Automatic,Petrol,1000,54000,4885000
+Toyota,Allion,2014,Automatic,Petrol,1500,54000,7600000
+Toyota,Passo,2011,Automatic,Petrol,1000,54008,2985000
+Toyota,Prius,2011,Automatic,Petrol,1800,54475,3850000
+Toyota,Axio,2016,Automatic,Hybrid,1500,54600,5850000
+Toyota,Aqua,2014,Automatic,Petrol,1500,55000,3675000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,55000,4050000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,55000,4500000
+Toyota,Vitz,2017,Automatic,Petrol,1000,55000,4850000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,55000,5500000
+Toyota,Axio G Grade,2015,Automatic,Petrol,1500,55000,5575000
+Toyota,Axio,2018,Automatic,Petrol,1500,55000,6500000
+Toyota,Premio,2017,Automatic,Petrol,1500,55000,9650000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,55000,9750000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,55227,3850000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,55400,3900000
+Toyota,Passo,2008,Automatic,Petrol,1000,56000,2375000
+Toyota,Vitz,2007,Automatic,Petrol,1000,56000,3075000
+Toyota,Vitz,2008,Automatic,Petrol,1000,56000,3600000
+Toyota,Vitz RS,2007,Automatic,Petrol,1000,56000,3625000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,56000,4200000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,56000,4350000
+Toyota,Corolla 141,2008,Manual,Diesel,1500,56000,4350000
+Toyota,Vitz,2016,Automatic,Petrol,1000,56000,4390000
+Toyota,Vitz,2016,Automatic,Petrol,1000,56000,4535000
+Toyota,Vitz,2016,Automatic,Petrol,1000,56000,4650000
+Toyota,Prius,2014,Automatic,Hybrid,1800,56000,4700000
+Toyota,Prius,2013,Automatic,Hybrid,1800,56000,5150000
+Toyota,Prius,2017,Automatic,Hybrid,1800,56000,5700000
+Toyota,Prius,2015,Automatic,Hybrid,1800,56000,6000000
+Toyota,Allion,2016,Automatic,Petrol,1500,56000,7900000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,56000,8350000
+Toyota,Premio,2016,Automatic,Petrol,1500,56000,8800000
+Toyota,Premio,2018,Automatic,Petrol,1500,56000,10500000
+Toyota,VITZ KSP130,2016,Automatic,Petrol,1000,56400,4375000
+Toyota,Aqua,2012,Automatic,Petrol,1500,57000,3150000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,57000,3675000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,57000,4100000
+Toyota,Axio,2013,Automatic,Hybrid,1500,57000,4275000
+Toyota,Prius,2013,Automatic,Hybrid,1800,57000,4450000
+Toyota,Axio,2014,Automatic,Hybrid,1500,57000,4950000
+Toyota,Axio,2015,Automatic,Hybrid,1500,57000,5550000
+Toyota,Axio,2015,Automatic,Hybrid,1500,57000,5650000
+Toyota,Premio,2016,Automatic,Petrol,1500,57000,8790000
+Toyota,Premio,2017,Automatic,Petrol,1500,57000,8790000
+Toyota,Vitz,2008,Automatic,Petrol,1000,57500,3375000
+Toyota,Aqua,2013,Automatic,Petrol,1500,58000,3400000
+Toyota,Vitz,2015,Automatic,Petrol,1000,58000,3999999
+Toyota,Vitz,2016,Automatic,Petrol,1000,58000,4400000
+Toyota,Prius,2013,Automatic,Hybrid,1800,58000,4500000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,58000,4600000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,58000,4650000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,58000,4990000
+Toyota,Aqua G Sport,2015,Automatic,Hybrid,1500,58000,5175000
+Toyota,Axio,2014,Automatic,Hybrid,1500,58046,5200000
+Toyota,Prius,2012,Automatic,Hybrid,1800,58200,4490000
+Toyota,Aqua G Sport,2014,Automatic,Petrol,1500,58500,4950000
+Toyota,Vitz,2015,Automatic,Petrol,1000,58907,4500000
+Toyota,Passo,2010,Automatic,Petrol,1000,59000,2900000
+Toyota,Vitz,2016,Automatic,Petrol,1000,59000,4425000
+Toyota,Vitz,2016,Automatic,Petrol,1000,59000,4475000
+Toyota,Axio,2016,Automatic,Hybrid,1500,59000,5525000
+Toyota,Prius G Touring,2015,Automatic,Hybrid,1800,59000,5890000
+Toyota,Prius G,2015,Automatic,Hybrid,1800,59000,5935000
+Toyota,Prius,2016,Automatic,Hybrid,1800,59000,7500000
+Toyota,Axio,2015,Automatic,Hybrid,1500,59200,5200000
+Toyota,Prius G Touring,2011,Automatic,Hybrid,1800,59700,4490000
+Toyota,Premio,2015,Automatic,Petrol,1500,59900,8100000
+Toyota,Prius,2016,Automatic,Petrol,1800,59966,6500000
+Toyota,Aqua,2013,Automatic,Petrol,1500,60000,3550000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,60000,3650000
+Toyota,Aqua S Grade,2014,Automatic,Petrol,1500,60000,3700000
+Toyota,Aqua,2013,Automatic,Petrol,1500,60000,3800000
+Toyota,Aqua,2014,Automatic,Petrol,1500,60000,3850000
+Toyota,Prius,2014,Automatic,Petrol,1800,60000,4225000
+Toyota,Vitz,2015,Automatic,Petrol,1000,60000,4325000
+Toyota,Vitz,2016,Automatic,Petrol,1000,60000,4350000
+Toyota,Vitz,2015,Automatic,Petrol,1000,60000,4425000
+Toyota,Aqua,2016,Automatic,Petrol,1500,60000,4450000
+Toyota,Roomy,2017,Automatic,Petrol,1000,60000,4650000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,60000,4875000
+Toyota,Vitz,2017,Automatic,Petrol,1000,60000,4875000
+Toyota,Axio,2015,Automatic,Petrol,1500,60000,4990000
+Toyota,Prius,2016,Automatic,Hybrid,1800,60000,5500000
+Toyota,Axio,2017,Automatic,Hybrid,1500,60000,5675000
+Toyota,Allion,2013,Automatic,Petrol,1500,60000,6500000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,60000,6650000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,60000,7975000
+Toyota,Premio,2016,Automatic,Petrol,1500,60000,8200000
+Toyota,Starlet,2009,Automatic,Petrol,1500,60085,2490000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,60100,3225000
+Toyota,Premio,2013,Automatic,Petrol,1500,60500,6990000
+Toyota,Axio Fielder,2015,Automatic,Petrol,1500,60568,4375000
+Toyota,Prius,2013,Automatic,Hybrid,1800,60679,4600000
+Toyota,Vitz,2010,Automatic,Petrol,1000,61000,3425000
+Toyota,Axio,2015,Automatic,Hybrid,1500,61000,4525000
+Toyota,Vitz,2017,Automatic,Petrol,1000,61000,4850000
+Toyota,Axio,2015,Automatic,Hybrid,1500,61000,5050000
+Toyota,Avanza,2014,Automatic,Petrol,1500,61000,5250000
+Toyota,Axio,2016,Automatic,Hybrid,1500,61000,5790000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,61000,5850000
+Toyota,Premio,2014,Automatic,Petrol,1500,61000,7500000
+Toyota,Avanza,2011,Manual,Petrol,1500,61043,3200000
+Toyota,Vitz,2016,Automatic,Petrol,1000,61200,4590000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,61200,4750000
+Toyota,Prius,2012,Automatic,Hybrid,1800,61500,4000000
+Toyota,Aqua S Grade,2013,Automatic,Hybrid,1500,61632,3400000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,62000,3800000
+Toyota,Aqua,2014,Automatic,Petrol,1500,62000,3950000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,62000,3975000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,62000,3990000
+Toyota,Axio,2014,Automatic,Hybrid,1500,62000,4600000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,62000,6750000
+Toyota,Premio,2014,Automatic,Petrol,1500,62000,7175000
+Toyota,Premio,2014,Automatic,Petrol,1500,62000,7400000
+Toyota,Premio G Superior,2014,Automatic,Petrol,1500,62000,7490000
+Toyota,Premio G Superior,2018,Automatic,Petrol,1500,62000,10025000
+Toyota,Passo,2005,Automatic,Petrol,1000,62130,2500000
+Toyota,Premio,2013,Automatic,Petrol,1500,62235,6890000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,62400,7925000
+Toyota,Aqua,2012,Automatic,Petrol,1500,62500,3200000
+Toyota,Aqua,2013,Automatic,Petrol,1500,63000,3265000
+Toyota,Axio,2013,Automatic,Hybrid,1500,63000,4050000
+Toyota,Prius,2012,Automatic,Hybrid,1800,63000,4250000
+Toyota,Axio,2013,Automatic,Hybrid,1500,63000,4400000
+Toyota,Vitz,2016,Automatic,Petrol,1000,63000,4550000
+Toyota,Axio X Grade,2015,Automatic,Petrol,1500,63000,4575000
+Toyota,Premio,2014,Automatic,Petrol,1500,63000,7450000
+Toyota,Premio,2016,Automatic,Petrol,1500,63000,8225000
+Toyota,Premio,2016,Automatic,Petrol,1500,63000,8800000
+Toyota,Belta,2012,Automatic,Petrol,1300,63002,3350000
+Toyota,Axio,2014,Automatic,Hybrid,1500,63100,4650000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,63421,4550000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,63600,3980000
+Toyota,Avanza,2011,Manual,Petrol,1500,64000,2900000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,64000,3300000
+Toyota,Aqua,2014,Automatic,Petrol,1500,64000,3890000
+Toyota,Vitz,2015,Automatic,Petrol,1000,64000,4700000
+Toyota,Axio,2015,Automatic,Hybrid,1500,64000,5300000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,64000,6550000
+Toyota,Premio,2014,Automatic,Petrol,1500,64400,7250000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,64500,3850000
+Toyota,Vitz,2016,Automatic,Petrol,1000,64500,4350000
+Toyota,Vitz,2008,Automatic,Petrol,1000,64564,2900000
+Toyota,Aqua G Grade,2012,Automatic,Petrol,1500,64567,3650000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,65000,2780000
+Toyota,Vitz,2009,Automatic,Petrol,1000,65000,3550000
+Toyota,Aqua,2014,Automatic,Petrol,1500,65000,3600000
+Toyota,Aqua,2013,Automatic,Petrol,1500,65000,3850000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,65000,4250000
+Toyota,Vitz,2015,Automatic,Petrol,1000,65000,4250000
+Toyota,Vitz,2015,Automatic,Petrol,1000,65000,4275000
+Toyota,Vitz,2016,Automatic,Petrol,1000,65000,4425000
+Toyota,Prius S Touring,2014,Automatic,Hybrid,1800,65000,4590000
+Toyota,Axio,2013,Automatic,Hybrid,1500,65000,4700000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,65000,4725000
+Toyota,Axio,2010,Automatic,Petrol,1500,65000,4850000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,65000,4900000
+Toyota,Axio,2015,Automatic,Hybrid,1500,65000,5300000
+Toyota,Axio,2015,Automatic,Petrol,1500,65000,5450000
+Toyota,Axio,2015,Automatic,Hybrid,1500,65000,5600000
+Toyota,Axio,2017,Automatic,Petrol,1500,65000,5825000
+Toyota,Axio X Grade,2017,Automatic,Hybrid,1500,65000,6100000
+Toyota,Axio,2016,Automatic,Hybrid,1500,65000,6250000
+Toyota,Axio WXB,2016,Automatic,Hybrid,1500,65000,6300000
+Toyota,Premio 260,2015,Automatic,Petrol,1500,65000,7250000
+Toyota,Prius W50,2016,Automatic,Hybrid,1800,65000,7500000
+Toyota,Premio,2016,Automatic,Petrol,1500,65000,8750000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,65395,3550000
+Toyota,Prius S Grade,2013,Automatic,Hybrid,1800,65786,4535000
+Toyota,Aqua,2014,Automatic,Petrol,1500,65800,4350000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,66000,3625000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,66000,3850000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,66000,3850000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,66000,3875000
+Toyota,Axio X Grade,2013,Automatic,Hybrid,1500,66000,4450000
+Toyota,Axio X Grade,2011,Automatic,Petrol,1500,66000,4800000
+Toyota,Axio,2015,Automatic,Hybrid,1500,66000,5200000
+Toyota,Premio,2013,Automatic,Petrol,1500,66000,6525000
+Toyota,Premio,2013,Automatic,Petrol,1500,66000,6850000
+Toyota,Premio,2015,Automatic,Petrol,1500,66000,7700000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,66000,7975000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,66000,8690000
+Toyota,Premio G Superior,2017,Automatic,Petrol,1500,66000,9775000
+Toyota,Starlet,2012,Automatic,Petrol,1500,66085,2685000
+Toyota,Premio,2015,Automatic,Petrol,1500,66400,7775000
+Toyota,Premio,2010,Automatic,Petrol,1500,66500,5945000
+Toyota,Premio,2013,Automatic,Petrol,1500,66500,6835000
+Toyota,Prius,2012,Automatic,Hybrid,1800,66800,3790000
+Toyota,Vitz,2011,Automatic,Petrol,1000,67000,3275000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,67000,3290000
+Toyota,Vitz,2009,Automatic,Petrol,1000,67000,3450000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,67000,3675000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,67000,3690000
+Toyota,Prius,2013,Automatic,Petrol,1800,67000,3825000
+Toyota,Prius,2013,Automatic,Hybrid,1800,67000,4000000
+Toyota,Axio,2009,Manual,Petrol,1500,67000,4075000
+Toyota,Axio X Grade,2014,Automatic,Hybrid,1500,67000,4150000
+Toyota,Axio,2014,Automatic,Hybrid,1500,67000,4450000
+Toyota,Axio,2016,Automatic,Hybrid,1500,67000,5685000
+Toyota,Premio,2015,Automatic,Petrol,1500,67000,6500000
+Toyota,Premio G Superior,2014,Automatic,Petrol,1500,67000,6790000
+Toyota,Premio,2015,Automatic,Petrol,1500,67000,8100000
+Toyota,Prius Alpha,2012,Automatic,Hybrid,1800,67100,3790000
+Toyota,Prius,2010,Automatic,Petrol,1800,67324,3975000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,67500,3275000
+Toyota,Etios,2013,Manual,Petrol,1500,67800,3475000
+Toyota,Vitz,2008,Automatic,Petrol,1000,68000,3325000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,68000,3500000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,68000,3600000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,68000,3660000
+Toyota,Aqua G Grade,2013,Automatic,Petrol,1500,68000,3775000
+Toyota,Prius,2011,Automatic,Petrol,1800,68000,3800000
+Toyota,Axio X Grade,2014,Automatic,Hybrid,1500,68000,3850000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,68000,4000000
+Toyota,Vitz,2015,Automatic,Petrol,1000,68000,4250000
+Toyota,Axio,2014,Automatic,Hybrid,1500,68000,4350000
+Toyota,Axio,2014,Automatic,Hybrid,1500,68000,4450000
+Toyota,Axio 165,2014,Automatic,Hybrid,1500,68000,4875000
+Toyota,Prius S Touring,2013,Automatic,Hybrid,1800,68000,4990000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,68000,5590000
+Toyota,Premio,2015,Automatic,Petrol,1500,68000,7975000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,68000,8075000
+Toyota,Vitz,2018,Automatic,Petrol,1000,68249,5390000
+Toyota,Axio,2015,Automatic,Hybrid,1500,68400,5350000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,68500,5725000
+Toyota,Premio G Superior,2014,Automatic,Petrol,1500,68500,7450000
+Toyota,Aqua,2014,Automatic,Petrol,1500,68850,3950000
+Toyota,Aqua,2012,Automatic,Petrol,1500,69000,3220000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,69000,3300000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,69000,3475000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,69000,3550000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,69000,3800000
+Toyota,Vitz,2015,Automatic,Petrol,1000,69000,4250000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,69000,4650000
+Toyota,Axio,2014,Automatic,Hybrid,1500,69000,4675000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,69000,4880000
+Toyota,Prius 3rd Genaration,2015,Automatic,Hybrid,1800,69000,4890000
+Toyota,Allion ,2010,Automatic,Petrol,1500,69000,5590000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,69000,5900000
+Toyota,Aqua,2013,Automatic,Petrol,1500,69266,3895000
+Toyota,Aqua G Grade,2012,Automatic,Petrol,1500,69500,3650000
+Toyota,Passo,2007,Automatic,Petrol,1000,70000,2675000
+Toyota,Vitz,2005,Automatic,Petrol,1000,70000,3150000
+Toyota,Aqua,2013,Automatic,Petrol,1500,70000,3250000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,70000,3450000
+Toyota,Aqua,2013,Automatic,Petrol,1500,70000,3500000
+Toyota,Aqua S Grade,2014,Automatic,Hybrid,1500,70000,3685000
+Toyota,Prius Alpha,2012,Automatic,Petrol,1800,70000,3900000
+Toyota,Prius,2010,Automatic,Petrol,1800,70000,3950000
+Toyota,Vitz,2015,Automatic,Petrol,1000,70000,4385000
+Toyota,Axio,2013,Automatic,Hybrid,1500,70000,4490000
+Toyota,Axio,2015,Automatic,Hybrid,1500,70000,4825000
+Toyota,Prius,2013,Automatic,Hybrid,1800,70000,5000000
+Toyota,Prius,2013,Automatic,Hybrid,1800,70000,5100000
+Toyota,Prius,2014,Automatic,Hybrid,1800,70000,5200000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,70000,5500000
+Toyota,Prius GS,2013,Automatic,Hybrid,1800,70000,5875000
+Toyota,Allion 260,2013,Automatic,Petrol,1500,70000,6250000
+Toyota,Premio,2015,Automatic,Petrol,1500,70000,6500000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,70000,6850000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,70000,6925000
+Toyota,Vitz U Grade,2010,Automatic,Petrol,1000,70900,3790000
+Toyota,Aqua,2012,Automatic,Petrol,1500,71000,3050000
+Toyota,Vitz,2012,Automatic,Petrol,1000,71000,3400000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,71000,3550000
+Toyota,Avanza,2012,Manual,Petrol,1500,71000,4025000
+Toyota,Aqua,2014,Automatic,Petrol,1500,71000,4050000
+Toyota,Prius S Touring,2012,Automatic,Hybrid,1800,71000,4100000
+Toyota,Prius,2013,Automatic,Hybrid,1800,71000,4600000
+Toyota,Axio,2014,Automatic,Hybrid,1500,71000,4850000
+Toyota,Prius 30,2013,Automatic,Hybrid,1800,71000,4900000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,71000,5050000
+Toyota,Allion,2013,Automatic,Petrol,1500,71000,5735000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,71000,6000000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,71300,3900000
+Toyota,Yaris,2007,Automatic,Petrol,1300,71500,3785000
+Toyota,Vitz,2013,Automatic,Petrol,1000,71500,3850000
+Toyota,Allion,2013,Automatic,Petrol,1500,71500,6725000
+Toyota,Vitz,2008,Automatic,Petrol,1000,71612,3450000
+Toyota,Axio G Grade,2014,Automatic,Petrol,1500,71700,4695000
+Toyota,Vitz,2008,Automatic,Petrol,1000,72000,3350000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,72000,3485000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,72000,3750000
+Toyota,Aqua,2013,Automatic,Petrol,1500,72000,3825000
+Toyota,Prius,2013,Automatic,Hybrid,1800,72000,3990000
+Toyota,Prius,2012,Automatic,Hybrid,1800,72000,4100000
+Toyota,VITZ KSP130,2015,Automatic,Petrol,1000,72000,4450000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,72000,4600000
+Toyota,Axio,2013,Automatic,Hybrid,1500,72000,4695000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,72000,5275000
+Toyota,Premio,2016,Automatic,Petrol,1500,72000,8600000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,72115,5450000
+Toyota,Vitz,2007,Automatic,Petrol,1000,72300,3080000
+Toyota,Prius,2013,Automatic,Hybrid,1800,72300,4650000
+Toyota,Prius,2013,Automatic,Hybrid,1800,72300,4650000
+Toyota,Premio,2013,Automatic,Petrol,1500,72500,5800000
+Toyota,Vitz,2015,Automatic,Petrol,1000,72626,4550000
+Toyota,Aqua G Sport,2015,Automatic,Petrol,1500,73000,5150000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,73000,5300000
+Toyota,Premio G Superior,2007,Automatic,Petrol,1500,73000,5400000
+Toyota,Axio Fielder,2015,Automatic,Petrol,1500,73000,5500000
+Toyota,Axio,2015,Automatic,Hybrid,1500,73000,5550000
+Toyota,Premio 260,2012,Automatic,Petrol,1500,73000,6350000
+Toyota,Premio,2014,Automatic,Petrol,1500,73000,7790000
+Toyota,Axio,2016,Automatic,Hybrid,1500,73200,5300000
+Toyota,Vitz,2008,Automatic,Petrol,1000,73432,3325000
+Toyota,Vitz,2008,Automatic,Petrol,1000,73500,3475000
+Toyota,Yaris,2014,Automatic,Petrol,1300,73500,4950000
+Toyota,Axio,2017,Automatic,Hybrid,1500,73500,6950000
+Toyota,Prius,2014,Automatic,Hybrid,1800,73843,4750000
+Toyota,Aqua,2013,Automatic,Petrol,1500,73900,3490000
+Toyota,Passo,2004,Automatic,Petrol,1000,74000,2575000
+Toyota,Aqua,2013,Automatic,Petrol,1500,74000,2980000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,74000,3260000
+Toyota,Aqua,2014,Automatic,Petrol,1500,74000,3500000
+Toyota,Belta,2009,Automatic,Petrol,1300,74000,3575000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,74000,3890000
+Toyota,Axio X Grade,2014,Automatic,Hybrid,1500,74000,3975000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,74000,4225000
+Toyota,Prius S Grade,2012,Automatic,Hybrid,1800,74000,4250000
+Toyota,Axio,2013,Automatic,Hybrid,1500,74000,4350000
+Toyota,Axio,2013,Automatic,Hybrid,1500,74000,4350000
+Toyota,Prius,2012,Automatic,Petrol,1800,74000,4700000
+Toyota,Axio,2016,Automatic,Petrol,1500,74000,5825000
+Toyota,Premio,2010,Automatic,Petrol,1500,74000,5875000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,74450,3275000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,74600,3375000
+Toyota,Prius,2012,Automatic,Hybrid,1800,74800,3475000
+Toyota,Prius,2013,Automatic,Petrol,1800,74800,4930000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,74976,4625000
+Toyota,Yaris,2007,Manual,Petrol,1300,75000,2850000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,75000,3050000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,75000,3100000
+Toyota,Aqua,2014,Automatic,Petrol,1500,75000,3400000
+Toyota,Vitz,2008,Automatic,Petrol,1000,75000,3425000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,75000,3425000
+Toyota,Vitz,2007,Automatic,Petrol,1000,75000,3550000
+Toyota,Prius C,2014,Automatic,Hybrid,1800,75000,3750000
+Toyota,Aqua S Grade,2014,Automatic,Hybrid,1500,75000,3795000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,75000,4525000
+Toyota,Prius S Grade,2014,Automatic,Hybrid,1800,75000,4535000
+Toyota,Axio,2015,Automatic,Petrol,1500,75000,4900000
+Toyota,Prius,2015,Automatic,Hybrid,1800,75000,5050000
+Toyota,Premio,2013,Automatic,Petrol,1500,75000,6090000
+Toyota,Premio,2013,Automatic,Petrol,1500,75000,6090000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,75000,6175000
+Toyota,Allion,2013,Automatic,Petrol,1500,75000,6500000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,75000,7000000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,75000,7850000
+Toyota,Premio G Superior,2015,Automatic,Petrol,1500,75000,7960000
+Toyota,Aqua,2015,Automatic,Petrol,1500,75400,3650000
+Toyota,Axio,2015,Automatic,Hybrid,1500,75500,5325000
+Toyota,Aqua X Urban,2015,Automatic,Petrol,1500,75876,4675000
+Toyota,Vitz,2008,Automatic,Petrol,1000,76000,2775000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,76000,2895000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,76000,3100000
+Toyota,Aqua,2012,Automatic,Petrol,1500,76000,3450000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,76000,3550000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,76000,3550000
+Toyota,Aqua,2014,Automatic,Petrol,1500,76000,3585000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,76000,3775000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,76000,3790000
+Toyota,Prius,2010,Automatic,Petrol,1800,76000,3850000
+Toyota,Axio,2014,Automatic,Hybrid,1500,76000,4750000
+Toyota,Prius,2013,Automatic,Petrol,1800,76000,4825000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,76000,6800000
+Toyota,Prius 3rd Genaration,2015,Automatic,Hybrid,1800,76400,5345000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,76400,5390000
+Toyota,Passo,2007,Automatic,Petrol,1000,76470,2670000
+Toyota,IST,2007,Automatic,Petrol,1300,76500,3790000
+Toyota,Axio,2013,Automatic,Hybrid,1500,76500,4350000
+Toyota,Axio,2013,Automatic,Hybrid,1500,76500,4350000
+Toyota,Axio,2015,Automatic,Hybrid,1500,76500,4750000
+Toyota,Axio,2016,Automatic,Hybrid,1500,76500,5750000
+Toyota,Premio,2011,Automatic,Petrol,1500,76500,5975000
+Toyota,Allion,2011,Automatic,Petrol,1500,76501,5650000
+Toyota,Prius,2008,Automatic,Petrol,1800,76800,3150000
+Toyota,IST,2008,Automatic,Petrol,1300,77000,3500000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,77000,3600000
+Toyota,Aqua,2013,Automatic,Petrol,1500,77000,3700000
+Toyota,Axio X Grade,2015,Automatic,Hybrid,1500,77000,4425000
+Toyota,Prius,2013,Automatic,Hybrid,1800,77000,4490000
+Toyota,Aqua,2013,Automatic,Petrol,1500,77000,4500000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,77000,5250000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,77000,5350000
+Toyota,Corolla 141,2012,Automatic,Petrol,1500,77250,4400000
+Toyota,Axio,2015,Automatic,Hybrid,1500,77350,5250000
+Toyota,Vitz,2007,Automatic,Petrol,1000,77500,3275000
+Toyota,Axio,2010,Automatic,Petrol,1500,77553,4175000
+Toyota,Aqua S Grade,2016,Automatic,Hybrid,1500,77600,4975000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,78000,3175000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,78000,3300000
+Toyota,Vitz,2008,Automatic,Petrol,1000,78000,3450000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,78000,3475000
+Toyota,Vitz,2007,Automatic,Petrol,1000,78000,3500000
+Toyota,Aqua,2012,Automatic,Petrol,1500,78000,3550000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,78000,3565000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,78000,3575000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,78000,3675000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,78000,3690000
+Toyota,Vitz,2010,Automatic,Petrol,1000,78000,3690000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,78000,3850000
+Toyota,Aqua,2013,Automatic,Petrol,1500,78000,3850000
+Toyota,Alphard,2004,Automatic,Petrol,2400,78000,3875000
+Toyota,Axio,2015,Automatic,Hybrid,1500,78000,4850000
+Toyota,Axio,2015,Automatic,Hybrid,1500,78000,5000000
+Toyota,Axio,2015,Automatic,Petrol,1500,78000,5090000
+Toyota,Axio,2016,Automatic,Hybrid,1500,78000,5175000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,78000,5225000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,78000,6950000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,78200,3500000
+Toyota,Vitz,2008,Automatic,Petrol,1000,78367,3495000
+Toyota,Prius,2015,Automatic,Hybrid,1800,78650,4690000
+Toyota,Aqua,2013,Automatic,Petrol,1500,79000,3375000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,79000,3390000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,79000,3475000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,79000,3950000
+Toyota,Prius,2012,Automatic,Petrol,1800,79000,4175000
+Toyota,Axio,2011,Automatic,Petrol,1500,79000,4350000
+Toyota,Prius G Touring,2013,Automatic,Hybrid,1800,79000,4775000
+Toyota,Axio,2015,Automatic,Hybrid,1500,79000,4950000
+Toyota,SAI,2009,Automatic,Petrol,2400,79000,5350000
+Toyota,Premio,2013,Automatic,Petrol,1500,79000,6825000
+Toyota,Prius,2013,Manual,Hybrid,1800,79002,4790000
+Toyota,Prius S Touring,2014,Automatic,Petrol,1800,79350,4625000
+Toyota,Axio G Grade,2014,Automatic,Petrol,1500,79589,4500000
+Toyota,Prius G Touring ,2013,Automatic,Hybrid,1800,79875,4950000
+Toyota,Vitz,2000,Automatic,Petrol,1000,80000,2200000
+Toyota,Vios,2004,Automatic,Petrol,1500,80000,2600000
+Toyota,Vitz,2009,Automatic,Petrol,1000,80000,2800000
+Toyota,Avanza,2011,Manual,Petrol,1500,80000,3150000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,80000,3190000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,80000,3200000
+Toyota,Aqua,2013,Automatic,Petrol,1500,80000,3280000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,80000,3280000
+Toyota,Vitz KSP90,2009,Automatic,Petrol,1000,80000,3325000
+Toyota,Aqua,2012,Automatic,Petrol,1500,80000,3400000
+Toyota,Belta,2008,Automatic,Petrol,1300,80000,3450000
+Toyota,Vitz,2010,Automatic,Petrol,1000,80000,3450000
+Toyota,Belta,2007,Automatic,Petrol,1300,80000,3550000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,80000,3590000
+Toyota,Prius,2011,Automatic,Hybrid,1800,80000,3750000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,80000,3840000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,80000,3850000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,80000,3925000
+Toyota,IST,2008,Automatic,Petrol,1300,80000,3975000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,80000,4050000
+Toyota,Prius,2012,Automatic,Hybrid,1800,80000,4400000
+Toyota,Axio,2014,Automatic,Hybrid,1500,80000,4450000
+Toyota,Aqua,2015,Automatic,Petrol,1500,80000,4500000
+Toyota,Axio,2013,Automatic,Hybrid,1500,80000,4500000
+Toyota,Prius,2013,Automatic,Hybrid,1800,80000,4500000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,80000,4575000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,80000,4620000
+Toyota,Prius 3rd Genaration,2013,Automatic,Hybrid,1800,80000,4650000
+Toyota,Axio,2014,Automatic,Hybrid,1500,80000,4700000
+Toyota,Axio,2014,Automatic,Petrol,1500,80000,4750000
+Toyota,Prius S Touring,2013,Automatic,Hybrid,1800,80000,4750000
+Toyota,Prius,2014,Automatic,Petrol,1800,80000,5025000
+Toyota,Axio,2015,Automatic,Hybrid,1500,80000,5100000
+Toyota,SAI,2010,Automatic,Hybrid,2400,80000,5275000
+Toyota,Axio,2015,Automatic,Hybrid,1500,80000,5375000
+Toyota,Axio G Grade,2015,Automatic,Petrol,1500,80000,5590000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,80000,5700000
+Toyota,Premio,2011,Automatic,Petrol,1500,80000,5965000
+Toyota,Premio 260,2013,Automatic,Petrol,1500,80000,7200000
+Toyota,Premio,2013,Automatic,Petrol,1500,80000,7275000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,80000,8550000
+Toyota,Premio,2017,Automatic,Petrol,1500,80000,9500000
+Toyota,Passo,2009,Automatic,Petrol,1000,80400,2875000
+Toyota,Vitz,2007,Automatic,Petrol,1000,80500,3195000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,80500,3550000
+Toyota,Axio,2015,Automatic,Hybrid,1500,80500,5490000
+Toyota,Aqua,2013,Automatic,Petrol,1500,81000,3500000
+Toyota,Aqua,2015,Automatic,Petrol,1500,81000,3550000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,81000,3850000
+Toyota,Axio,2007,Automatic,Petrol,1500,81000,3925000
+Toyota,Vitz,2015,Automatic,Petrol,1000,81000,4375000
+Toyota,Axio,2014,Automatic,Hybrid,1500,81000,4750000
+Toyota,Prius S Touring,2014,Automatic,Hybrid,1800,81000,4950000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,81000,5200000
+Toyota,Axio,2015,Automatic,Hybrid,1500,81000,5600000
+Toyota,Premio G Superior,2016,Automatic,Petrol,1500,81000,7650000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,81250,3575000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,81500,4300000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,81550,3425000
+Toyota,Vitz,2008,Automatic,Petrol,1000,82000,2865000
+Toyota,Vitz,2008,Automatic,Petrol,1000,82000,3100000
+Toyota,Vitz,2008,Automatic,Petrol,1000,82000,3200000
+Toyota,Passo,2010,Automatic,Petrol,1000,82000,3250000
+Toyota,Aqua,2013,Automatic,Petrol,1500,82000,3300000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,82000,3375000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,82000,3600000
+Toyota,Prius G Touring,2013,Automatic,Petrol,1800,82000,4600000
+Toyota,Axio,2015,Automatic,Hybrid,1500,82000,5390000
+Toyota,Allion ,2010,Automatic,Petrol,1500,82000,5490000
+Toyota,Premio,2013,Automatic,Petrol,1500,82000,5800000
+Toyota,Premio,2013,Automatic,Petrol,1500,82000,6875000
+Toyota,Premio,2013,Automatic,Petrol,1500,82000,7050000
+Toyota,Premio,2015,Automatic,Petrol,1500,82000,7850000
+Toyota,Vitz,2009,Automatic,Petrol,1000,82300,3450000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,82500,3100000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,82600,3650000
+Toyota,Aqua,2012,Automatic,Petrol,1500,82700,3450000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,82833,3475000
+Toyota,Aqua,2013,Automatic,Petrol,1500,83000,3200000
+Toyota,Aqua,2013,Automatic,Petrol,1500,83000,3285000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,83000,3400000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,83000,3590000
+Toyota,Aqua G Grade,2014,Automatic,Petrol,1500,83000,3650000
+Toyota,Aqua,2012,Automatic,Petrol,1500,83000,3690000
+Toyota,Vitz,2011,Automatic,Petrol,1000,83000,3785000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,83000,3800000
+Toyota,Prius S Grade,2013,Automatic,Petrol,1800,83000,4200000
+Toyota,Axio,2013,Automatic,Hybrid,1500,83000,4225000
+Toyota,Aqua G Sport,2014,Automatic,Hybrid,1500,83000,4675000
+Toyota,Prius,2012,Manual,Hybrid,1800,83000,4675000
+Toyota,Allion 260,2013,Automatic,Petrol,1500,83000,6550000
+Toyota,Premio,2014,Automatic,Petrol,1500,83000,6550000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,83000,6980000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,83300,3465000
+Toyota,Aqua S Grade,2014,Automatic,Petrol,1500,83400,4075000
+Toyota,Prius G Touring,2011,Automatic,Hybrid,1800,83500,4175000
+Toyota,Vitz,2007,Automatic,Petrol,1000,84000,3385000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,84000,3790000
+Toyota,Prius,2015,Automatic,Hybrid,1800,84000,4690000
+Toyota,Axio,2016,Automatic,Hybrid,1500,84000,4975000
+Toyota,Axio,2015,Automatic,Hybrid,1500,84000,5440000
+Toyota,Axio,2015,Automatic,Hybrid,1500,84000,5475000
+Toyota,Axio,2016,Automatic,Hybrid,1500,84000,5675000
+Toyota,Allion 260,2011,Automatic,Petrol,1500,84000,5850000
+Toyota,Premio,2013,Automatic,Petrol,1500,84000,6475000
+Toyota,Premio,2013,Automatic,Petrol,1500,84000,6595000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,84500,3475000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,84500,3900000
+Toyota,Premio,2007,Automatic,Petrol,1500,84900,6800000
+Toyota,Vitz,2008,Automatic,Petrol,1000,85000,2750000
+Toyota,Vios,2005,Automatic,Petrol,1500,85000,2800000
+Toyota,Vitz,2008,Automatic,Petrol,1000,85000,2835000
+Toyota,Vitz,2011,Automatic,Petrol,1000,85000,3120000
+Toyota,Vitz,2007,Automatic,Petrol,1000,85000,3175000
+Toyota,Vitz,2008,Automatic,Petrol,1000,85000,3200000
+Toyota,Prius,2008,Automatic,Petrol,1800,85000,3250000
+Toyota,Prius,2008,Automatic,Hybrid,1800,85000,3300000
+Toyota,Vitz,2008,Automatic,Petrol,1000,85000,3450000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,85000,3450000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,85000,3525000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,85000,3550000
+Toyota,Aqua,2013,Automatic,Petrol,1500,85000,3585000
+Toyota,Aqua,2012,Automatic,Petrol,1500,85000,3820000
+Toyota,Prius,2009,Automatic,Hybrid,1800,85000,3825000
+Toyota,Vitz,2013,Automatic,Petrol,1000,85000,4095000
+Toyota,Prius S Grade,2012,Automatic,Hybrid,1800,85000,4175000
+Toyota,Prius,2012,Automatic,Hybrid,1800,85000,4225000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,85000,4400000
+Toyota,Prius,2013,Automatic,Hybrid,1800,85000,4500000
+Toyota,Prius G,2013,Automatic,Petrol,1800,85000,4725000
+Toyota,Prius,2014,Automatic,Petrol,1800,85000,4900000
+Toyota,Axio,2015,Automatic,Hybrid,1500,85000,4950000
+Toyota,Axio,2015,Automatic,Hybrid,1500,85000,4995000
+Toyota,Allion,2010,Automatic,Petrol,1500,85000,5300000
+Toyota,Axio G Grade,2015,Automatic,Hybrid,1500,85000,5475000
+Toyota,Premio,2013,Automatic,Petrol,1500,85000,6135000
+Toyota,Premio,2013,Automatic,Petrol,1500,85000,6550000
+Toyota,Allion,2013,Automatic,Petrol,1500,85000,6600000
+Toyota,Esquire,2015,Automatic,Petrol,1800,85000,6990000
+Toyota,Axio G Grade,2015,Automatic,Petrol,1500,85258,5500000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,85440,3980000
+Toyota,Vitz,2008,Automatic,Petrol,1000,85500,3450000
+Toyota,Vitz,2009,Automatic,Petrol,1000,86000,2990000
+Toyota,Vios,2006,Automatic,Petrol,1500,86000,3100000
+Toyota,Vitz,2007,Automatic,Petrol,1000,86000,3125000
+Toyota,Vitz,2010,Automatic,Petrol,1000,86000,3475000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,86000,3625000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,86000,3840000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,86000,3850000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,86000,3975000
+Toyota,Axio G Grade,2013,Automatic,Hybrid,1500,86000,4000000
+Toyota,Axio,2013,Automatic,Hybrid,1500,86000,4100000
+Toyota,Prius,2012,Automatic,Petrol,1800,86000,4200000
+Toyota,Prius 3rd Genaration,2012,Automatic,Hybrid,1800,86000,4300000
+Toyota,Axio G Grade,2013,Automatic,Hybrid,1500,86000,4625000
+Toyota,Vitz,2015,Automatic,Petrol,1000,86000,4675000
+Toyota,Allion,2010,Automatic,Petrol,1500,86000,5600000
+Toyota,Allion,2010,Automatic,Petrol,1500,86000,5750000
+Toyota,Premio,2011,Automatic,Petrol,1500,86000,5990000
+Toyota,Prius,2012,Automatic,Hybrid,1800,86200,4580000
+Toyota,Vitz,2007,Automatic,Petrol,1000,86212,3300000
+Toyota,Passo,2004,Automatic,Petrol,1000,86250,2450000
+Toyota,Prius,2015,Automatic,Petrol,1800,86500,5300000
+Toyota,Prius,2010,Automatic,Hybrid,1800,86789,3860000
+Toyota,Vitz,2007,Automatic,Petrol,1000,87000,2940000
+Toyota,Vitz,2007,Automatic,Petrol,1000,87000,3100000
+Toyota,Vitz,2007,Automatic,Petrol,1000,87000,3150000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,87000,3250000
+Toyota,Aqua,2013,Automatic,Petrol,1500,87000,3450000
+Toyota,Aqua,2013,Automatic,Petrol,1500,87000,3650000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,87000,3750000
+Toyota,Corolla 141,2011,Automatic,Petrol,1500,87000,3900000
+Toyota,Prius 3rd Genaration,2011,Automatic,Hybrid,1800,87000,4250000
+Toyota,Prius S Touring,2014,Automatic,Hybrid,1800,87000,4350000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,87000,4675000
+Toyota,Allion,2013,Automatic,Petrol,1500,87000,4950000
+Toyota,Axio,2014,Automatic,Petrol,1500,87000,4950000
+Toyota,Axio,2015,Automatic,Hybrid,1500,87000,5275000
+Toyota,Axio,2015,Automatic,Hybrid,1500,87000,5400000
+Toyota,Axio,2015,Automatic,Hybrid,1500,87000,5490000
+Toyota,Axio G Grade,2015,Automatic,Petrol,1500,87000,5600000
+Toyota,Corolla 110,2003,Automatic,Petrol,1300,87500,2235000
+Toyota,Prius,2008,Automatic,Petrol,1800,87500,3275000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,87800,3465000
+Toyota,Vitz,2007,Automatic,Petrol,1000,87900,3190000
+Toyota,Vitz,2005,Automatic,Petrol,1000,88000,2525000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,88000,2800000
+Toyota,Aqua,2012,Automatic,Petrol,1500,88000,2935000
+Toyota,Vitz,2007,Automatic,Petrol,1000,88000,3260000
+Toyota,Aqua,2014,Automatic,Petrol,1500,88000,3600000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,88000,3625000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,88000,3650000
+Toyota,Prius,2010,Automatic,Hybrid,1800,88000,3700000
+Toyota,Aqua,2013,Automatic,Petrol,1500,88000,3775000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,88000,3790000
+Toyota,Aqua,2014,Automatic,Petrol,1500,88000,3950000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,88000,3975000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,88000,4000000
+Toyota,Axio,2010,Automatic,Petrol,1500,88000,4090000
+Toyota,Axio,2008,Automatic,Petrol,1500,88000,4090000
+Toyota,Axio,2008,Automatic,Diesel,1500,88000,4190000
+Toyota,Axio,2013,Automatic,Hybrid,1500,88000,4500000
+Toyota,Prius S Touring,2014,Automatic,Petrol,1800,88000,4650000
+Toyota,Prius S Touring,2013,Automatic,Hybrid,1800,88000,4825000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,88000,4950000
+Toyota,Premio G Superior,2008,Automatic,Petrol,1500,88000,5575000
+Toyota,Premio,2013,Automatic,Petrol,1500,88000,6350000
+Toyota,Axio,2015,Automatic,Hybrid,1500,88200,5335000
+Toyota,Prius G Sport,2012,Automatic,Hybrid,1800,88300,5095000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,88350,3390000
+Toyota,Vitz,2009,Automatic,Petrol,1000,88500,3050000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,88500,3325000
+Toyota,Prius,2012,Automatic,Hybrid,1800,88500,4000000
+Toyota,Axio,2013,Automatic,Petrol,1500,88500,5000000
+Toyota,Vitz,2009,Automatic,Petrol,1000,88700,3360000
+Toyota,Prius,2008,Automatic,Hybrid,1800,88794,2975000
+Toyota,Avanza,2007,Manual,Petrol,1500,88800,3325000
+Toyota,Premio 240,2007,Automatic,Petrol,1500,88900,4625000
+Toyota,Vitz,2008,Automatic,Petrol,1000,89000,3285000
+Toyota,Vitz,2008,Automatic,Petrol,1000,89000,3290000
+Toyota,Vitz,2007,Automatic,Petrol,1000,89000,3350000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,89000,3390000
+Toyota,Belta,2007,Automatic,Petrol,1300,89000,3445000
+Toyota,Vitz,2008,Automatic,Petrol,1000,89000,3450000
+Toyota,Belta,2008,Automatic,Petrol,1300,89000,3650000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,89000,3685000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,89000,3890000
+Toyota,Axio,2008,Automatic,Petrol,1500,89000,4000000
+Toyota,Prius S Grade,2015,Automatic,Hybrid,1800,89000,4550000
+Toyota,Aqua X Urban,2015,Automatic,Hybrid,1500,89000,4650000
+Toyota,Prius,2014,Automatic,Hybrid,1800,89000,4825000
+Toyota,Prius,2014,Automatic,Hybrid,1800,89000,4975000
+Toyota,Axio,2015,Automatic,Petrol,1500,89000,5125000
+Toyota,Allion,2010,Automatic,Petrol,1500,89000,5500000
+Toyota,Premio F,2012,Automatic,Petrol,1500,89000,6400000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,89000,6600000
+Toyota,Premio G Superior,2014,Automatic,Petrol,1500,89000,7400000
+Toyota,Passo,2012,Automatic,Petrol,1000,89400,2930000
+Toyota,Premio 260,2013,Automatic,Petrol,1500,89400,7080000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,89600,3195000
+Toyota,Premio,2014,Automatic,Petrol,1500,89900,6225000
+Toyota,Belta,2008,Automatic,Petrol,1300,89912,2825000
+Toyota,Vitz,2007,Automatic,Petrol,1000,90000,2600000
+Toyota,Vitz,2008,Automatic,Petrol,1000,90000,2850000
+Toyota,Yaris,2007,Manual,Petrol,1300,90000,2850000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,90000,2900000
+Toyota,Aqua,2012,Automatic,Petrol,1500,90000,2990000
+Toyota,Prius,2008,Automatic,Hybrid,1800,90000,3010000
+Toyota,Prius,2009,Automatic,Hybrid,1800,90000,3050000
+Toyota,Prius,2010,Automatic,Hybrid,1800,90000,3200000
+Toyota,Vitz,2007,Automatic,Petrol,1000,90000,3290000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,90000,3400000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,90000,3550000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,90000,3650000
+Toyota,Prius,2011,Automatic,Hybrid,1800,90000,3825000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,90000,3975000
+Toyota,Prius Alpha,2012,Automatic,Hybrid,1800,90000,4150000
+Toyota,Vitz,2015,Automatic,Petrol,1000,90000,4490000
+Toyota,Axio,2014,Automatic,Hybrid,1500,90000,4525000
+Toyota,Axio,2014,Automatic,Hybrid,1500,90000,4700000
+Toyota,Allion,2008,Automatic,Petrol,1500,90000,4900000
+Toyota,Allion,2010,Automatic,Petrol,1500,90000,5450000
+Toyota,Axio,2015,Automatic,Petrol,1500,90000,5750000
+Toyota,Axio,2017,Automatic,Hybrid,1500,90000,5825000
+Toyota,Premio G Superior,2010,Automatic,Petrol,1500,90000,5890000
+Toyota,Premio G Superior,2010,Automatic,Petrol,1500,90000,5950000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,90000,7225000
+Toyota,Allion,2011,Automatic,Petrol,1500,90080,5875000
+Toyota,Aqua,2013,Automatic,Petrol,1500,90100,3400000
+Toyota,Axio Fielder,2015,Automatic,Hybrid,1500,90255,4290000
+Toyota,Prius,2007,Automatic,Hybrid,1800,91000,2900000
+Toyota,Prius 20,2008,Automatic,Hybrid,1800,91000,2950000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,91000,3050000
+Toyota,Prius 2nd Generation,2007,Automatic,Petrol,1800,91000,3100000
+Toyota,Prius,2009,Automatic,Petrol,1800,91000,3250000
+Toyota,Vitz,2009,Automatic,Petrol,1000,91000,3475000
+Toyota,Belta,2009,Automatic,Petrol,1300,91000,3650000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,91000,3850000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,91000,3950000
+Toyota,Prius,2012,Automatic,Petrol,1800,91000,3975000
+Toyota,Prius,2011,Automatic,Hybrid,1800,91000,4150000
+Toyota,Prius,2013,Automatic,Petrol,1800,91000,4475000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,91000,4825000
+Toyota,Axio,2015,Automatic,Petrol,1500,91000,4900000
+Toyota,SAI,2011,Automatic,Hybrid,2400,91000,5850000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,91000,7190000
+Toyota,Vitz,2007,Automatic,Petrol,1000,91500,3200000
+Toyota,Vitz,2008,Automatic,Petrol,1000,92000,2715000
+Toyota,Vitz,2007,Automatic,Petrol,1000,92000,2950000
+Toyota,IST,2003,Automatic,Petrol,1300,92000,2965000
+Toyota,Aqua,2012,Automatic,Petrol,1500,92000,2990000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,92000,3025000
+Toyota,Aqua S Grade,2013,Automatic,Petrol,1500,92000,3125000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,92000,3185000
+Toyota,Belta,2010,Automatic,Petrol,1300,92000,3570000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,92000,3575000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,92000,3700000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,92000,3750000
+Toyota,Prius,2011,Automatic,Hybrid,1800,92000,3750000
+Toyota,Prius,2010,Automatic,Hybrid,1800,92000,3750000
+Toyota,Aqua,2013,Automatic,Petrol,1500,92000,3800000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,92000,3970000
+Toyota,Allion 240,2004,Automatic,Petrol,1500,92000,3975000
+Toyota,Prius,2009,Automatic,Hybrid,1800,92000,3975000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,92000,3985000
+Toyota,Axio,2008,Automatic,Hybrid,1500,92000,4185000
+Toyota,Axio,2008,Automatic,Petrol,1500,92000,4190000
+Toyota,Aqua G Sport,2013,Automatic,Hybrid,1500,92000,4200000
+Toyota,Aqua S Grade,2015,Automatic,Hybrid,1500,92000,4340000
+Toyota,Prius S Touring,2014,Automatic,Hybrid,1800,92000,4500000
+Toyota,Axio,2013,Automatic,Hybrid,1500,92000,4535000
+Toyota,Axio G Grade,2011,Automatic,Petrol,1500,92000,4690000
+Toyota,Allion ,2006,Automatic,Petrol,1500,92000,4775000
+Toyota,Axio,2015,Automatic,Hybrid,1500,92000,5000000
+Toyota,Allion 260,2009,Automatic,Petrol,1500,92000,5150000
+Toyota,Allion,2010,Automatic,Petrol,1500,92000,5525000
+Toyota,Vitz,2008,Automatic,Petrol,1000,92158,3395000
+Toyota,Axio,2014,Automatic,Hybrid,1500,92200,4475000
+Toyota,Vitz,2007,Automatic,Petrol,1000,92500,2800000
+Toyota,Allion,2010,Automatic,Petrol,1500,92700,5650000
+Toyota,Soluna,2000,Manual,Petrol,1500,92813,1650000
+Toyota,Prius Alpha,2013,Automatic,Petrol,1800,92900,4190000
+Toyota,Passo,2008,Automatic,Petrol,1000,93000,2175000
+Toyota,Vitz,2007,Automatic,Petrol,1000,93000,2750000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,93000,3350000
+Toyota,Prius S Grade,2011,Automatic,Hybrid,1800,93000,3575000
+Toyota,Corolla 141,2008,Automatic,Petrol,1600,93000,3675000
+Toyota,Prius,2012,Automatic,Petrol,1800,93000,4450000
+Toyota,Aqua X Urban,2015,Automatic,Petrol,1500,93000,4690000
+Toyota,Prius,2013,Automatic,Hybrid,1800,93000,4850000
+Toyota,Allion,2009,Automatic,Petrol,1500,93000,4900000
+Toyota,Prius G Sport,2013,Automatic,Hybrid,1800,93000,5500000
+Toyota,Premio,2011,Automatic,Petrol,1500,93000,5590000
+Toyota,Axio X Grade,2016,Automatic,Hybrid,1500,93000,5750000
+Toyota,Premio,2013,Automatic,Petrol,1500,93000,6200000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,93000,7350000
+Toyota,Belta,2010,Automatic,Petrol,1300,93100,3090000
+Toyota,Vios,2004,Automatic,Petrol,1500,93500,2850000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,94000,2850000
+Toyota,Vitz,2008,Automatic,Petrol,1000,94000,3000000
+Toyota,Vitz,2008,Automatic,Petrol,1000,94000,3380000
+Toyota,GP5 S Grade,2014,Automatic,Petrol,1500,94000,3875000
+Toyota,Axio,2014,Automatic,Hybrid,1500,94000,4450000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,94000,4600000
+Toyota,Prius,2011,Automatic,Hybrid,1800,94008,3650000
+Toyota,Vitz,2010,Automatic,Petrol,1000,94025,3425000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,94200,3495000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,94464,3400000
+Toyota,Passo,2004,Automatic,Petrol,1000,95000,2550000
+Toyota,Passo,2010,Automatic,Petrol,1000,95000,2860000
+Toyota,Prius,2009,Automatic,Hybrid,1800,95000,3200000
+Toyota,Aqua,2013,Automatic,Petrol,1500,95000,3225000
+Toyota,Prius S Touring,2010,Automatic,Hybrid,1800,95000,3650000
+Toyota,Belta,2008,Automatic,Petrol,1300,95000,3675000
+Toyota,Prius,2012,Automatic,Petrol,1800,95000,3700000
+Toyota,Prius,2012,Automatic,Petrol,1800,95000,3700000
+Toyota,Prius,2010,Automatic,Hybrid,1800,95000,3775000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,95000,3925000
+Toyota,Prius S Touring,2013,Automatic,Petrol,1800,95000,4350000
+Toyota,Premio,2010,Automatic,Petrol,1500,95000,5785000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,95600,4650000
+Toyota,Vitz,2009,Automatic,Petrol,1000,96000,2850000
+Toyota,Aqua,2013,Automatic,Petrol,1500,96000,2900000
+Toyota,Prius 2nd Generation,2008,Automatic,Hybrid,1800,96000,3250000
+Toyota,Belta,2007,Automatic,Petrol,1300,96000,3285000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,96000,3295000
+Toyota,Vitz,2008,Automatic,Petrol,1000,96000,3375000
+Toyota,Allion 240,2006,Automatic,Petrol,1500,96000,3500000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,96000,3625000
+Toyota,Prius,2011,Automatic,Hybrid,1800,96000,3650000
+Toyota,Aqua,2014,Automatic,Hybrid,1500,96000,3875000
+Toyota,Allion 260,2011,Automatic,Petrol,1500,96000,4825000
+Toyota,Allion,2009,Automatic,Petrol,1500,96000,4985000
+Toyota,Axio,2015,Automatic,Hybrid,1500,96000,5050000
+Toyota,Premio 260,2009,Automatic,Petrol,1500,96000,5500000
+Toyota,Prius G Sport,2014,Automatic,Hybrid,1800,96000,5850000
+Toyota,Premio,2011,Automatic,Petrol,1500,96000,5950000
+Toyota,Premio,2013,Automatic,Petrol,1500,96000,7425000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,96471,4825000
+Toyota,Corolla 141,2007,Automatic,Petrol,1500,96500,3750000
+Toyota,Prius,2014,Automatic,Petrol,1800,96526,5350000
+Toyota,Premio,2013,Automatic,Petrol,1500,96530,7290000
+Toyota,Vitz,2009,Automatic,Petrol,1000,97000,2850000
+Toyota,Vitz,2008,Automatic,Petrol,1000,97000,3050000
+Toyota,Prius S Touring,2010,Automatic,Petrol,1800,97000,3385000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,97000,3490000
+Toyota,Prius S Touring,2012,Automatic,Hybrid,1800,97000,4150000
+Toyota,Axio,2016,Automatic,Hybrid,1500,97000,4270000
+Toyota,Allion,2007,Automatic,Petrol,1500,97000,4450000
+Toyota,Prius,2012,Automatic,Petrol,1800,97000,4575000
+Toyota,Prius,2013,Automatic,Hybrid,1800,97000,4650000
+Toyota,Prius G Touring,2012,Automatic,Hybrid,1800,97000,4650000
+Toyota,Allion,2010,Automatic,Petrol,1500,97000,4790000
+Toyota,Allion,2008,Automatic,Petrol,1500,97000,4950000
+Toyota,Allion,2010,Automatic,Petrol,1500,97000,5525000
+Toyota,Axio,2014,Automatic,Petrol,1500,97219,4475000
+Toyota,Vitz,2007,Automatic,Petrol,1000,97750,3275000
+Toyota,Passo,2007,Automatic,Petrol,1000,98000,2490000
+Toyota,Vios,2003,Manual,Petrol,1500,98000,2625000
+Toyota,Vitz,2007,Automatic,Petrol,1000,98000,2650000
+Toyota,Passo,2008,Automatic,Petrol,1000,98000,2725000
+Toyota,Prius,2011,Automatic,Hybrid,1800,98000,2850000
+Toyota,Vitz,2005,Automatic,Petrol,1000,98000,3140000
+Toyota,Vitz,2007,Automatic,Petrol,1000,98000,3250000
+Toyota,Aqua,2013,Automatic,Petrol,1500,98000,3320000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,98000,3325000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,98000,3375000
+Toyota,Yaris,2007,Automatic,Petrol,1300,98000,3400000
+Toyota,Prius S Grade,2011,Automatic,Hybrid,1800,98000,3475000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,98000,3825000
+Toyota,Aqua S Grade,2014,Automatic,Hybrid,1500,98000,3990000
+Toyota,Prius G Touring,2012,Automatic,Petrol,1800,98000,4250000
+Toyota,Axio,2015,Automatic,Petrol,1500,98000,5200000
+Toyota,Premio,2009,Automatic,Petrol,1500,98000,5450000
+Toyota,Premio G Superior,2012,Automatic,Petrol,1500,98000,6150000
+Toyota,Premio,2014,Automatic,Petrol,1500,98000,7075000
+Toyota,Aqua,2012,Automatic,Petrol,1500,98400,2990000
+Toyota,Aqua G Grade,2013,Automatic,Petrol,1500,98500,3980000
+Toyota,Vitz KSP90,2007,Automatic,Petrol,1000,98700,3245000
+Toyota,Prius W30,2013,Automatic,Petrol,1800,98987,4500000
+Toyota,Vios,2003,Automatic,Petrol,1500,99000,2500000
+Toyota,Vitz,2009,Automatic,Petrol,1000,99000,2890000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,99000,3200000
+Toyota,Vitz,2008,Automatic,Petrol,1000,99000,3320000
+Toyota,Vitz,2007,Automatic,Petrol,1000,99000,3460000
+Toyota,Vitz,2007,Automatic,Petrol,1000,99000,3525000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,99000,3590000
+Toyota,Axio,2014,Automatic,Hybrid,1500,99000,4400000
+Toyota,Allion 240,2005,Automatic,Petrol,1500,99000,4750000
+Toyota,Axio,2015,Automatic,Petrol,1500,99000,5325000
+Toyota,Vitz KSP90,2007,Automatic,Petrol,1000,99200,3300000
+Toyota,Vios,2010,Automatic,Petrol,1500,99230,2810000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,99324,3385000
+Toyota,Vitz,2007,Automatic,Petrol,1000,99421,2750000
+Toyota,Aqua G Grade,2014,Automatic,Hybrid,1500,99500,3950000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,99600,3175000
+Toyota,Duet,2000,Automatic,Petrol,1000,100000,1550000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,100000,2750000
+Toyota,Vitz,2007,Automatic,Petrol,1000,100000,2775000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,100000,2800000
+Toyota,Etios,2013,Manual,Petrol,1500,100000,3050000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,100000,3200000
+Toyota,Aqua G Grade,2013,Automatic,Hybrid,1500,100000,3200000
+Toyota,Prius W20,2013,Automatic,Hybrid,1800,100000,3275000
+Toyota,Vitz,2007,Automatic,Petrol,1000,100000,3375000
+Toyota,Vitz,2007,Automatic,Petrol,1000,100000,3450000
+Toyota,Vitz,2010,Automatic,Petrol,1000,100000,3550000
+Toyota,Vitz,2009,Automatic,Petrol,1000,100000,3575000
+Toyota,Vitz,2010,Automatic,Petrol,1000,100000,3675000
+Toyota,Prius G Touring,2011,Automatic,Petrol,1800,100000,3900000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,100000,3950000
+Toyota,Axio,2007,Automatic,Petrol,1500,100000,4075000
+Toyota,Prius G Touring,2012,Automatic,Hybrid,1800,100000,4250000
+Toyota,Axio,2013,Automatic,Hybrid,1500,100000,4300000
+Toyota,Prius,2012,Automatic,Hybrid,1800,100000,4375000
+Toyota,Prius,2014,Automatic,Petrol,1800,100000,4400000
+Toyota,Prius,2014,Automatic,Petrol,1800,100000,4400000
+Toyota,Axio,2014,Automatic,Hybrid,1500,100000,4500000
+Toyota,Allion,2007,Automatic,Petrol,1500,100000,4575000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,100000,4650000
+Toyota,Allion 260,2009,Automatic,Petrol,1500,100000,4750000
+Toyota,Axio G Grade,2014,Automatic,Hybrid,1500,100000,4750000
+Toyota,Axio,2014,Automatic,Hybrid,1500,100000,4900000
+Toyota,Prius,2014,Automatic,Hybrid,1800,100000,5000000
+Toyota,Allion,2010,Automatic,Petrol,1500,100000,5475000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,100000,5700000
+Toyota,Allion 260,2013,Automatic,Petrol,1500,100000,7050000
+Toyota,Premio,2013,Automatic,Petrol,1500,100000,7150000
+Toyota,Premio,2013,Automatic,Petrol,1500,100000,7150000
+Toyota,Prius G,2013,Automatic,Hybrid,1800,100113,4680000
+Toyota,Aqua,2013,Automatic,Petrol,1500,100150,3375000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,100200,3950000
+Toyota,Axio,2008,Automatic,Petrol,1500,100500,3700000
+Toyota,Vios,2003,Automatic,Petrol,1500,100512,2980000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,100560,2735000
+Toyota,Vitz,2007,Automatic,Petrol,1000,101000,2980000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,101000,3225000
+Toyota,Prius,2011,Automatic,Hybrid,1800,101000,3275000
+Toyota,Vitz,2007,Automatic,Petrol,1000,101000,3300000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,101000,3750000
+Toyota,IST,2007,Automatic,Petrol,1300,101000,3825000
+Toyota,Prius 30,2012,Automatic,Petrol,1800,101000,4100000
+Toyota,Passo,2010,Automatic,Petrol,1000,101150,3275000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,101500,4125000
+Toyota,Prius,2012,Automatic,Hybrid,1800,101684,4275000
+Toyota,Prius,2011,Automatic,Hybrid,1800,101956,3475000
+Toyota,Vios,2005,Automatic,Petrol,1500,102000,2750000
+Toyota,Premio,2003,Automatic,Petrol,1500,102000,2900000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,102000,3050000
+Toyota,Vitz,2008,Automatic,Petrol,1000,102000,3325000
+Toyota,Camry,2005,Automatic,Petrol,2000,102000,3375000
+Toyota,Vitz,2008,Automatic,Petrol,1000,102000,3380000
+Toyota,Prius 30,2011,Automatic,Hybrid,1800,102000,4000000
+Toyota,Prius,2013,Automatic,Hybrid,1800,102000,4025000
+Toyota,Avanza,2012,Manual,Petrol,1500,102000,4150000
+Toyota,Prius 30,2013,Automatic,Hybrid,1800,102000,4250000
+Toyota,Allion 240,2006,Automatic,Petrol,1500,102000,4375000
+Toyota,Prius,2013,Automatic,Hybrid,1800,102000,4700000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,102000,4850000
+Toyota,Allion,2013,Automatic,Petrol,1500,102000,5100000
+Toyota,Allion,2012,Automatic,Petrol,1500,102000,5900000
+Toyota,Vitz,2009,Automatic,Petrol,1000,102200,3450000
+Toyota,Prius S Touring,2011,Automatic,Petrol,1800,102356,4150000
+Toyota,Allion 240,2004,Automatic,Petrol,1500,102500,4250000
+Toyota,Passo,2008,Automatic,Petrol,1000,103000,2800000
+Toyota,Prius,2008,Automatic,Hybrid,1800,103000,3100000
+Toyota,Avanza,2010,Manual,Petrol,1500,103000,3175000
+Toyota,Avanza,2010,Manual,Petrol,1500,103000,3275000
+Toyota,Vitz,2008,Automatic,Petrol,1000,103000,3410000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,103000,3675000
+Toyota,Prius 3rd Generation,2011,Automatic,Petrol,1800,103000,3675000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,103000,4850000
+Toyota,Axio WXB,2017,Automatic,Hybrid,1500,103000,6800000
+Toyota,Axio,2011,Automatic,Petrol,1500,103450,4690000
+Toyota,Passo,2009,Automatic,Petrol,1000,104000,2795000
+Toyota,Vitz U Grade,2010,Automatic,Petrol,1000,104000,2875000
+Toyota,Vitz,2007,Automatic,Petrol,1000,104000,3250000
+Toyota,Prius S Grade,2013,Automatic,Hybrid,1800,104000,4390000
+Toyota,Prius 30,2012,Automatic,Petrol,1800,104000,4550000
+Toyota,Allion,2010,Automatic,Petrol,1500,104000,4790000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,104000,5475000
+Toyota,Camry,2013,Automatic,Hybrid,2000,104000,5975000
+Toyota,Premio,2013,Automatic,Petrol,1500,104000,6700000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,104005,5860000
+Toyota,Prius,2008,Automatic,Hybrid,1800,104174,3100000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,104538,3850000
+Toyota,Passo,2004,Automatic,Petrol,1000,105000,2295000
+Toyota,Vitz,2007,Automatic,Petrol,1000,105000,2520000
+Toyota,Passo,2005,Automatic,Petrol,1000,105000,2600000
+Toyota,Passo,2006,Automatic,Petrol,1000,105000,2680000
+Toyota,Vitz,2007,Automatic,Petrol,1000,105000,2680000
+Toyota,Vitz,2009,Automatic,Petrol,1000,105000,2800000
+Toyota,Vitz,2010,Automatic,Petrol,1000,105000,2950000
+Toyota,Belta,2008,Automatic,Petrol,1300,105000,3400000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,105000,3425000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,105000,3600000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,105000,3650000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,105000,3750000
+Toyota,IST,2007,Automatic,Petrol,1300,105000,3875000
+Toyota,Prius S Grade,2013,Automatic,Hybrid,1800,105000,3890000
+Toyota,Axio,2013,Automatic,Hybrid,1500,105000,4125000
+Toyota,Prius,2012,Automatic,Petrol,1800,105000,4475000
+Toyota,Allion,2010,Automatic,Petrol,1500,105000,4625000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,105000,4725000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,105000,5995000
+Toyota,Corolla 121,2002,Automatic,Diesel,1300,105240,3225000
+Toyota,Axio,2013,Automatic,Hybrid,1500,105305,4700000
+Toyota,Prius S Grade,2012,Automatic,Hybrid,1800,105600,3575000
+Toyota,Premio,2008,Automatic,Petrol,1500,105670,4650000
+Toyota,Passo,2007,Automatic,Petrol,1000,106000,2650000
+Toyota,Prius NHW20,2008,Automatic,Hybrid,1800,106000,2700000
+Toyota,Vios,2004,Automatic,Petrol,1500,106000,2725000
+Toyota,Vios,2006,Automatic,Petrol,1500,106000,2850000
+Toyota,Vitz,2008,Automatic,Petrol,1000,106000,3350000
+Toyota,Prius S Touring,2010,Automatic,Hybrid,1800,106000,3425000
+Toyota,Prius,2012,Automatic,Hybrid,1800,106000,4000000
+Toyota,Axio,2008,Automatic,Petrol,1500,106000,4075000
+Toyota,Axio,2008,Automatic,Petrol,1500,106000,4150000
+Toyota,NZE121,2007,Automatic,Petrol,1500,106000,4625000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,106000,4700000
+Toyota,Allion,2012,Automatic,Petrol,1500,106000,5790000
+Toyota,Allion,2007,Automatic,Petrol,1500,106000,6200000
+Toyota,Premio,2013,Automatic,Petrol,1500,106000,6900000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,106094,3735000
+Toyota,Premio,2007,Automatic,Petrol,1500,106403,5250000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,107000,2690000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,107000,3480000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,107000,3495000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,107000,3650000
+Toyota,Aqua S Grade,2013,Automatic,Hybrid,1500,107000,3675000
+Toyota,Axio,2007,Automatic,Petrol,1500,107000,3800000
+Toyota,Axio,2008,Automatic,Petrol,1500,107000,4190000
+Toyota,Allion,2006,Automatic,Petrol,1500,107000,4400000
+Toyota,Prius,2012,Automatic,Hybrid,1800,107000,4425000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,107000,7275000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,107960,3450000
+Toyota,Vitz,2007,Automatic,Petrol,1000,108000,2700000
+Toyota,Belta,2007,Automatic,Petrol,1300,108000,3595000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,108000,3700000
+Toyota,Axio G Grade,2010,Automatic,Petrol,1500,108000,3950000
+Toyota,Prius,2011,Automatic,Hybrid,1800,108000,3975000
+Toyota,Axio,2007,Automatic,Petrol,1500,108000,4150000
+Toyota,Axio,2013,Automatic,Petrol,1500,108000,4150000
+Toyota,Prius,2012,Automatic,Hybrid,1800,108000,4485000
+Toyota,Axio Fielder,2014,Automatic,Hybrid,1500,108000,5250000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,108000,5690000
+Toyota,Avanza,2008,Manual,Petrol,1500,108300,2985000
+Toyota,Premio,2013,Automatic,Petrol,1500,108500,6625000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,109000,3690000
+Toyota,Aqua,2012,Automatic,Petrol,1500,109000,3700000
+Toyota,Prius 3rd Genaration,2010,Automatic,Hybrid,1800,109000,3975000
+Toyota,Axio,2007,Automatic,Petrol,1500,109000,4250000
+Toyota,Prius,2013,Automatic,Hybrid,1800,109000,4275000
+Toyota,Prius 3rd Genaration,2013,Automatic,Hybrid,1800,109000,4295000
+Toyota,Allion,2007,Automatic,Petrol,1500,109000,4350000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,109000,4750000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,109000,4750000
+Toyota,Prius,2012,Automatic,Hybrid,1800,109000,4850000
+Toyota,Prius,2013,Automatic,Petrol,1800,109500,4685000
+Toyota,Prius,2011,Automatic,Hybrid,1800,109566,3750000
+Toyota,Passo,2004,Automatic,Petrol,1000,110000,2015000
+Toyota,Starlet,2007,Automatic,Petrol,1500,110000,2200000
+Toyota,Vios,2004,Automatic,Petrol,1500,110000,2490000
+Toyota,Vios,2003,Automatic,Petrol,1500,110000,2490000
+Toyota,Vitz,2007,Automatic,Petrol,1000,110000,2650000
+Toyota,Passo,2009,Automatic,Petrol,1000,110000,2890000
+Toyota,Prius,2008,Automatic,Hybrid,1800,110000,2950000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,110000,3085000
+Toyota,Prius,2012,Automatic,Petrol,1800,110000,3150000
+Toyota,Prius,2010,Automatic,Hybrid,1800,110000,3275000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,110000,3700000
+Toyota,Prius KW30,2011,Automatic,Hybrid,1800,110000,3750000
+Toyota,Aqua,2015,Automatic,Hybrid,1500,110000,3775000
+Toyota,Prius Alpha,2012,Automatic,Hybrid,1800,110000,4100000
+Toyota,Axio X Grade,2010,Automatic,Petrol,1500,110000,4350000
+Toyota,Prius,2012,Automatic,Hybrid,1800,110000,4350000
+Toyota,Axio G Grade,2013,Automatic,Hybrid,1500,110000,4550000
+Toyota,Prius,2013,Automatic,Hybrid,1800,110000,4745000
+Toyota,Prius S Touring,2013,Automatic,Hybrid,1800,110000,4775000
+Toyota,Allion,2008,Automatic,Petrol,1500,110000,5200000
+Toyota,Allion,2008,Automatic,Petrol,1500,110000,5390000
+Toyota,Premio,2010,Automatic,Petrol,1500,110008,5895000
+Toyota,Premio,2007,Automatic,Petrol,1500,110206,5525000
+Toyota,Vitz,2000,Automatic,Petrol,1000,110500,2250000
+Toyota,Verossa,2001,Automatic,Petrol,2000,111000,2775000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,111000,3500000
+Toyota,VITZ KSP130,2013,Automatic,Petrol,1000,111000,3775000
+Toyota,Axio,2008,Automatic,Petrol,1500,111000,3850000
+Toyota,Prius,2013,Automatic,Hybrid,1800,111000,4250000
+Toyota,Premio,2012,Automatic,Petrol,1500,111000,6350000
+Toyota,Premio G Superior,2012,Automatic,Petrol,1500,111000,6375000
+Toyota,Aqua,2012,Automatic,Petrol,1500,111200,2850000
+Toyota,Vios,2003,Automatic,Petrol,1500,112000,2525000
+Toyota,Passo,2009,Automatic,Petrol,1000,112000,2840000
+Toyota,Prius 20,2008,Automatic,Hybrid,1800,112000,3000000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,112000,3200000
+Toyota,Vitz,2007,Automatic,Petrol,1000,112000,3225000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,112000,3275000
+Toyota,Vitz,2008,Automatic,Petrol,1000,112000,3300000
+Toyota,Vitz,2007,Automatic,Petrol,1000,112000,3375000
+Toyota,Prius W30,2011,Automatic,Hybrid,1800,112000,3525000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,112000,3790000
+Toyota,Axio G Grade,2007,Automatic,Petrol,1500,112000,4080000
+Toyota,Prius S Grade,2012,Automatic,Petrol,1800,112000,4390000
+Toyota,Allion,2007,Automatic,Petrol,1500,112000,4725000
+Toyota,Allion,2007,Automatic,Petrol,1500,112000,4750000
+Toyota,Allion,2007,Automatic,Petrol,1500,112000,4900000
+Toyota,Allion,2010,Automatic,Petrol,1500,112000,5385000
+Toyota,Premio G Superior,2007,Automatic,Petrol,1500,112000,5390000
+Toyota,Premio 260,2007,Automatic,Petrol,1500,112000,5475000
+Toyota,Passo,2007,Automatic,Petrol,1000,112200,2100000
+Toyota,Prius 3rd Genaration,2011,Automatic,Hybrid,1800,112500,3890000
+Toyota,Allion,2010,Automatic,Petrol,1500,112500,5325000
+Toyota,Prius,2010,Automatic,Hybrid,1800,112900,3175000
+Toyota,Prius,2008,Automatic,Hybrid,1800,113000,2900000
+Toyota,Vitz,2007,Automatic,Petrol,1000,113000,3400000
+Toyota,Prius,2009,Automatic,Hybrid,1800,113000,3500000
+Toyota,Prius,2009,Automatic,Petrol,1800,113000,4075000
+Toyota,Prius S Grade,2012,Automatic,Hybrid,1800,113000,4375000
+Toyota,Allion,2009,Automatic,Petrol,1500,113000,4650000
+Toyota,Premio,2010,Automatic,Petrol,1500,113000,5890000
+Toyota,IST,2007,Automatic,Petrol,1300,113500,3850000
+Toyota,Prius,2013,Automatic,Hybrid,1800,113631,3540000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,114000,3200000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,114000,3200000
+Toyota,Camry,2002,Automatic,Petrol,2000,114000,3250000
+Toyota,Vitz,2008,Automatic,Petrol,1000,114000,3300000
+Toyota,Belta,2007,Automatic,Petrol,1300,114000,3375000
+Toyota,Prius,2009,Automatic,Petrol,1800,114000,3400000
+Toyota,Prius 3rd Generation,2009,Automatic,Petrol,1800,114000,3625000
+Toyota,Prius 3rd Generation,2012,Automatic,Hybrid,1800,114000,3700000
+Toyota,Corolla 141,2007,Automatic,Petrol,1500,114340,3350000
+Toyota,Prius,2009,Automatic,Petrol,1800,114900,1790000
+Toyota,Vitz,2000,Automatic,Petrol,1000,115000,2300000
+Toyota,Passo,2004,Automatic,Petrol,1000,115000,2350000
+Toyota,Passo,2007,Automatic,Petrol,1000,115000,2775000
+Toyota,Passo,2007,Automatic,Petrol,1000,115000,2790000
+Toyota,Vios,2005,Automatic,Petrol,1500,115000,3000000
+Toyota,Vitz,2007,Automatic,Petrol,1000,115000,3125000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,115000,3290000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,115000,3390000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,115000,3450000
+Toyota,Belta,2007,Automatic,Petrol,1300,115000,3495000
+Toyota,Vitz,2009,Automatic,Petrol,1000,115000,3675000
+Toyota,Belta,2007,Automatic,Petrol,1300,115000,3725000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,115000,3875000
+Toyota,Axio G Grade,2011,Automatic,Petrol,1500,115000,3975000
+Toyota,Belta,2010,Automatic,Petrol,1300,115000,3975000
+Toyota,Prius,2013,Automatic,Petrol,1800,115000,4375000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,115000,4625000
+Toyota,Allion,2008,Automatic,Petrol,1500,115000,4650000
+Toyota,Prius,2013,Automatic,Hybrid,1800,115000,4650000
+Toyota,Premio,2010,Automatic,Petrol,1500,115000,5690000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,115308,3485000
+Toyota,Vitz,2001,Automatic,Petrol,1000,116000,2150000
+Toyota,Prius W20,2009,Automatic,Hybrid,1800,116000,3050000
+Toyota,Vitz KSP90,2007,Automatic,Petrol,1000,116000,3225000
+Toyota,Vitz,2008,Automatic,Petrol,1000,116000,3250000
+Toyota,Prius 2nd Generation,2012,Automatic,Petrol,1800,116000,3350000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,116000,3375000
+Toyota,Belta,2007,Automatic,Petrol,1300,116000,3375000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,116000,3400000
+Toyota,Belta,2008,Automatic,Petrol,1300,116000,3650000
+Toyota,Allion,2004,Automatic,Petrol,1500,116000,3825000
+Toyota,Axio,2007,Automatic,Petrol,1500,116000,3975000
+Toyota,Axio,2007,Automatic,Petrol,1500,116000,4075000
+Toyota,Prius,2012,Automatic,Hybrid,1800,116000,4650000
+Toyota,Premio,2007,Automatic,Petrol,1500,116000,5200000
+Toyota,Premio,2010,Automatic,Petrol,1500,116000,5400000
+Toyota,Premio,2010,Automatic,Petrol,1500,116200,5560000
+Toyota,Vitz,2007,Automatic,Petrol,1000,116670,3100000
+Toyota,Prius,2008,Automatic,Hybrid,1800,116736,2550000
+Toyota,Aqua,2012,Automatic,Petrol,1500,117000,2850000
+Toyota,Carina,2001,Automatic,Petrol,1500,117000,3100000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,117000,3300000
+Toyota,Vitz,2007,Automatic,Petrol,1000,117000,3350000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,117000,3450000
+Toyota,Allion,2003,Automatic,Petrol,1500,117000,3500000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,117000,3850000
+Toyota,Allion,2007,Automatic,Petrol,1500,117000,4590000
+Toyota,Allion,2007,Automatic,Petrol,1500,117000,4850000
+Toyota,Allion,2007,Automatic,Petrol,1500,117000,4895000
+Toyota,Allion 260,2011,Automatic,Petrol,1500,117000,5100000
+Toyota,Premio,2009,Automatic,Petrol,1500,117000,5200000
+Toyota,Premio,2007,Automatic,Petrol,1500,117000,5250000
+Toyota,Passo,2008,Automatic,Petrol,1000,117260,2350000
+Toyota,Passo,2007,Automatic,Petrol,1000,117500,2650000
+Toyota,Corolla 141,2007,Automatic,Petrol,1500,117500,3798000
+Toyota,Vios,2004,Automatic,Petrol,1500,118000,2850000
+Toyota,Axio Fielder,2007,Automatic,Petrol,1500,118000,2975000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,118000,3275000
+Toyota,Prius,2007,Automatic,Petrol,1800,118000,3350000
+Toyota,Allion,2002,Automatic,Petrol,1500,118000,3600000
+Toyota,Aqua G Grade,2012,Automatic,Petrol,1500,118000,3675000
+Toyota,Axio,2007,Automatic,Petrol,1500,118000,4025000
+Toyota,Prius,2012,Automatic,Petrol,1800,118000,4200000
+Toyota,Premio,2007,Automatic,Petrol,1500,118000,5500000
+Toyota,Premio,2007,Automatic,Petrol,1500,118000,5650000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,118000,5990000
+Toyota,Prius,2012,Automatic,Hybrid,1800,118400,4350000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,119000,3050000
+Toyota,Vitz,2007,Automatic,Petrol,1000,119000,3175000
+Toyota,Aqua,2012,Automatic,Petrol,1500,119000,3500000
+Toyota,Soluna,2000,Manual,Petrol,1500,120000,1650000
+Toyota,Passo,2004,Automatic,Petrol,1000,120000,2060000
+Toyota,Sprinter,2003,Automatic,Petrol,1500,120000,2150000
+Toyota,Starlet,2006,Automatic,Petrol,1500,120000,2185000
+Toyota,Vios,2003,Manual,Petrol,1500,120000,2340000
+Toyota,Carina,2000,Manual,Petrol,1500,120000,2450000
+Toyota,Cynos,2000,Manual,Petrol,1500,120000,2450000
+Toyota,IST,2002,Automatic,Petrol,1300,120000,2450000
+Toyota,Vios,2004,Automatic,Petrol,1500,120000,2690000
+Toyota,Vios,2004,Automatic,Petrol,1500,120000,2800000
+Toyota,Vios,2005,Automatic,Petrol,1500,120000,2925000
+Toyota,Vitz,2007,Automatic,Petrol,1000,120000,2925000
+Toyota,Camry,2003,Automatic,Petrol,2000,120000,3125000
+Toyota,Aqua S Grade,2012,Automatic,Petrol,1500,120000,3150000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,120000,3185000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,120000,3250000
+Toyota,Vitz,2007,Automatic,Petrol,1000,120000,3250000
+Toyota,Allion,2003,Automatic,Petrol,1500,120000,3275000
+Toyota,Allion,2004,Automatic,Petrol,1500,120000,3290000
+Toyota,Vitz,2007,Automatic,Petrol,1000,120000,3290000
+Toyota,Vitz,2008,Automatic,Petrol,1000,120000,3290000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,120000,3300000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,120000,3375000
+Toyota,Allion,2002,Automatic,Petrol,1500,120000,3390000
+Toyota,Aqua,2012,Automatic,Petrol,1500,120000,3400000
+Toyota,Allion,2003,Automatic,Petrol,1500,120000,3450000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,120000,3450000
+Toyota,Premio,2002,Automatic,Petrol,1500,120000,3500000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,120000,3600000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,120000,3600000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,120000,3600000
+Toyota,Axio,2007,Automatic,Petrol,1500,120000,3725000
+Toyota,Prius 3rd Generation,2013,Automatic,Petrol,1800,120000,3750000
+Toyota,Prius 3rd Generation,2013,Automatic,Petrol,1800,120000,3750000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,120000,3850000
+Toyota,IST,2008,Automatic,Petrol,1300,120000,3850000
+Toyota,Allion,2003,Automatic,Petrol,1500,120000,3900000
+Toyota,Prius 3rd Generation,2011,Automatic,Petrol,1800,120000,4000000
+Toyota,Axio X Grade,2008,Automatic,Petrol,1500,120000,4050000
+Toyota,Prius,2010,Automatic,Hybrid,1800,120000,4100000
+Toyota,Axio,2011,Automatic,Petrol,1500,120000,4150000
+Toyota,Axio G Grade,2007,Automatic,Petrol,1500,120000,4190000
+Toyota,Allion,2007,Automatic,Petrol,1500,120000,4250000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,120000,4275000
+Toyota,Prius,2012,Automatic,Hybrid,1800,120000,4375000
+Toyota,Premio F,2007,Automatic,Petrol,1500,120000,4550000
+Toyota,Allion,2007,Automatic,Petrol,1500,120000,4665000
+Toyota,Prius G,2013,Automatic,Petrol,1800,120000,4790000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,120000,4825000
+Toyota,Allion,2007,Automatic,Petrol,1500,120000,4850000
+Toyota,Premio,2011,Automatic,Petrol,1500,120000,5875000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,120000,6080000
+Toyota,Axio,2008,Automatic,Petrol,1500,120180,3925000
+Toyota,Yaris,2008,Automatic,Petrol,1300,120600,3550000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,121000,3100000
+Toyota,Allion,2001,Automatic,Petrol,1500,121000,3290000
+Toyota,Belta,2008,Automatic,Petrol,1300,121000,3290000
+Toyota,Vitz,2007,Automatic,Petrol,1000,121000,3290000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,121000,3350000
+Toyota,Vitz,2010,Automatic,Petrol,1000,121000,3425000
+Toyota,Allion,2001,Automatic,Petrol,1500,121000,3480000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,121000,3950000
+Toyota,Allion 240,2004,Automatic,Petrol,1500,121000,4250000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,121500,3625000
+Toyota,Vitz,2015,Automatic,Petrol,1000,121650,4175000
+Toyota,Vitz,2005,Automatic,Petrol,1000,122000,3075000
+Toyota,Belta,2008,Automatic,Petrol,1300,122000,3125000
+Toyota,Yaris,2006,Automatic,Petrol,1300,122000,3660000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,122000,4150000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,122000,4250000
+Toyota,Prius,2009,Automatic,Petrol,1800,122586,3700000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,122600,3775000
+Toyota,Corolla 141,2007,Automatic,Petrol,1500,123000,3475000
+Toyota,Vitz,2010,Automatic,Petrol,1000,123000,3525000
+Toyota,Belta,2007,Automatic,Petrol,1300,123000,3640000
+Toyota,Axio,2007,Automatic,Petrol,1500,123000,4350000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,123000,4790000
+Toyota,Camry,2007,Automatic,Petrol,2000,123000,4880000
+Toyota,Vitz RS,2008,Automatic,Petrol,1000,123100,3550000
+Toyota,Premio,2000,Automatic,Diesel,1500,123123,1275000
+Toyota,Passo,2004,Automatic,Petrol,1000,124000,2050000
+Toyota,Vitz,2001,Automatic,Petrol,1000,124000,2450000
+Toyota,Passo,2004,Automatic,Petrol,1000,124000,2475000
+Toyota,Vitz,2007,Automatic,Petrol,1000,124000,2670000
+Toyota,Prius 2nd Generation,2010,Automatic,Hybrid,1800,124000,2850000
+Toyota,Vitz,2007,Automatic,Petrol,1000,124000,3150000
+Toyota,Vitz,2008,Automatic,Petrol,1000,124000,3150000
+Toyota,Vitz,2008,Automatic,Petrol,1000,124000,3200000
+Toyota,Prius,2010,Automatic,Petrol,1800,124000,3300000
+Toyota,Prius,2008,Automatic,Hybrid,1800,124000,3490000
+Toyota,Prius,2011,Automatic,Petrol,1800,124000,4100000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,124000,4150000
+Toyota,Allion,2004,Automatic,Petrol,1500,124000,4200000
+Toyota,Allion 240,2005,Automatic,Petrol,1500,124000,4225000
+Toyota,Allion,2005,Automatic,Petrol,1500,124000,4275000
+Toyota,Allion 240,2005,Automatic,Petrol,1500,124000,4450000
+Toyota,Allion,2009,Automatic,Petrol,1500,124000,4975000
+Toyota,Prius S Touring,2012,Automatic,Petrol,1800,124500,4950000
+Toyota,Allion 260,2009,Automatic,Petrol,1500,124500,5275000
+Toyota,Soluna,2001,Manual,Petrol,1500,125000,1425000
+Toyota,Soluna,2000,Manual,Petrol,1500,125000,1650000
+Toyota,Carina,2000,Automatic,Petrol,1500,125000,2475000
+Toyota,Vios,2005,Automatic,Petrol,1500,125000,2625000
+Toyota,Vios,2006,Automatic,Petrol,1500,125000,2650000
+Toyota,Vios,2003,Automatic,Petrol,1500,125000,2850000
+Toyota,Vitz,2005,Automatic,Petrol,1000,125000,3000000
+Toyota,Prius 3rd Genaration,2009,Automatic,Hybrid,1800,125000,3250000
+Toyota,Prius S Touring,2011,Automatic,Petrol,1800,125000,4150000
+Toyota,Allion,2004,Automatic,Petrol,1500,125000,4250000
+Toyota,Prius Alpha,2013,Automatic,Hybrid,1800,125000,4300000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,125000,5180000
+Toyota,Axio G Grade,2016,Automatic,Hybrid,1500,125000,5490000
+Toyota,Allion 260,2010,Automatic,Petrol,1500,125000,5500000
+Toyota,Avanza,2011,Manual,Petrol,1500,126000,3150000
+Toyota,Vitz KSP90,2007,Automatic,Petrol,1000,126000,3235000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,126000,3575000
+Toyota,IST,2007,Automatic,Petrol,1300,126000,3950000
+Toyota,Prius,2011,Automatic,Hybrid,1800,126000,4150000
+Toyota,Allion,2010,Automatic,Petrol,1500,126000,5425000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,126306,3800000
+Toyota,Soluna,2001,Manual,Petrol,1500,126700,1720000
+Toyota,Soluna,2001,Automatic,Petrol,1500,127000,1775000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,127000,3450000
+Toyota,Yaris,2008,Automatic,Petrol,1300,127000,3575000
+Toyota,Aqua G Grade,2012,Automatic,Hybrid,1500,127000,3590000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,127000,3850000
+Toyota,Belta,2008,Automatic,Petrol,1300,127000,3850000
+Toyota,IST,2009,Automatic,Petrol,1300,127000,4050000
+Toyota,Axio,2007,Automatic,Petrol,1500,127000,4080000
+Toyota,Allion 240,2006,Automatic,Petrol,1500,127000,4250000
+Toyota,Prius,2011,Automatic,Hybrid,1800,127000,4425000
+Toyota,G Superior,2010,Automatic,Petrol,1500,127000,4600000
+Toyota,Allion 260,2012,Automatic,Petrol,1500,127000,5550000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,127000,5975000
+Toyota,Premio,2008,Automatic,Petrol,1500,127865,5150000
+Toyota,Vitz,2006,Automatic,Petrol,1000,128000,2775000
+Toyota,Allion,2004,Automatic,Petrol,1500,128000,3650000
+Toyota,Allion 240,2005,Automatic,Petrol,1500,128000,4150000
+Toyota,Prius,2012,Automatic,Hybrid,1800,128578,3875000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,128720,3995000
+Toyota,Axio,2009,Automatic,Petrol,1500,128853,4175000
+Toyota,Vitz,2007,Automatic,Petrol,1000,129000,2850000
+Toyota,Prius 2nd Generation,2008,Automatic,Petrol,1800,129000,3025000
+Toyota,Prius,2008,Automatic,Hybrid,1800,129000,3200000
+Toyota,Vitz,2008,Automatic,Petrol,1000,129000,3265000
+Toyota,Prius,2010,Automatic,Hybrid,1800,129000,3640000
+Toyota,Prius,2012,Automatic,Petrol,1800,129000,4150000
+Toyota,Platz,2001,Automatic,Petrol,1000,130000,1790000
+Toyota,Vitz,2001,Automatic,Petrol,1000,130000,2100000
+Toyota,Corolla 110,2000,Automatic,Petrol,1300,130000,2225000
+Toyota,Passo,2004,Automatic,Petrol,1000,130000,2300000
+Toyota,Vios,2004,Automatic,Petrol,1500,130000,2525000
+Toyota,Prius 2nd Generation,2009,Automatic,Petrol,1800,130000,2800000
+Toyota,Prius,2008,Automatic,Hybrid,1800,130000,2850000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,130000,3250000
+Toyota,Prius 3rd Generation,2013,Automatic,Petrol,1800,130000,3350000
+Toyota,Vitz,2008,Automatic,Petrol,1000,130000,3350000
+Toyota,Vitz,2011,Automatic,Petrol,1000,130000,3500000
+Toyota,Aqua S Grade,2013,Automatic,Petrol,1500,130000,3550000
+Toyota,Prius S Touring,2011,Automatic,Hybrid,1800,130000,3695000
+Toyota,Prius 3rd Generation,2011,Automatic,Hybrid,1800,130000,3825000
+Toyota,Allion,2008,Automatic,Petrol,1500,130000,3865000
+Toyota,IST,2007,Automatic,Petrol,1300,130000,3875000
+Toyota,Prius,2012,Automatic,Petrol,1800,130000,4000000
+Toyota,Axio,2013,Automatic,Petrol,1500,130000,4200000
+Toyota,Axio G Grade,2007,Automatic,Petrol,1500,130000,4250000
+Toyota,Axio X Grade,2008,Automatic,Petrol,1500,130000,4275000
+Toyota,Axio,2008,Automatic,Petrol,1500,130000,4300000
+Toyota,Axio,2007,Manual,Petrol,1500,130000,4300000
+Toyota,Prius 3rd Genaration,2012,Automatic,Hybrid,1800,130000,4380000
+Toyota,Prius,2012,Automatic,Hybrid,1800,130000,4625000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,130000,4690000
+Toyota,Allion,2008,Automatic,Petrol,1500,130000,4875000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,130000,5085000
+Toyota,Allion 260,2009,Automatic,Petrol,1500,130000,5250000
+Toyota,Premio,2007,Automatic,Petrol,1500,130000,5380000
+Toyota,Allion 260,2011,Automatic,Petrol,1500,130000,5890000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,130500,3650000
+Toyota,Vios,2003,Automatic,Petrol,1500,131000,2600000
+Toyota,Prius,2008,Automatic,Hybrid,1800,131000,3125000
+Toyota,Vios,2007,Automatic,Petrol,1500,131000,3225000
+Toyota,Yaris,2007,Automatic,Petrol,1300,131000,3525000
+Toyota,Prius,2011,Automatic,Hybrid,1800,131000,4150000
+Toyota,Vitz U Grade,2002,Automatic,Petrol,1000,132000,2250000
+Toyota,Prius,2008,Automatic,Hybrid,1800,132000,2825000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,132000,3150000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,132000,3350000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,132000,3380000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,132000,3425000
+Toyota,Belta,2007,Automatic,Petrol,1300,132000,3750000
+Toyota,Prius,2009,Automatic,Hybrid,1800,132000,3800000
+Toyota,Vios,2003,Automatic,Petrol,1500,133000,2775000
+Toyota,Prius,2008,Automatic,Hybrid,1800,133000,3300000
+Toyota,Allion,2004,Automatic,Petrol,1500,133000,3950000
+Toyota,Allion,2008,Automatic,Petrol,1500,133000,4175000
+Toyota,Axio X Grade,2010,Automatic,Petrol,1500,133000,4375000
+Toyota,Allion,2008,Automatic,Petrol,1500,133000,4775000
+Toyota,Axio,2007,Automatic,Petrol,1500,133250,4175000
+Toyota,Passo,2010,Automatic,Petrol,1000,134000,2450000
+Toyota,Prius,2008,Automatic,Hybrid,1800,134000,2825000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,134000,3050000
+Toyota,Prius 2nd Generation,2013,Automatic,Hybrid,1800,134000,3250000
+Toyota,Prius 2nd Generation,2013,Automatic,Hybrid,1800,134000,3350000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,134000,3475000
+Toyota,Vitz,2012,Automatic,Petrol,1000,134000,3560000
+Toyota,Axio,2007,Automatic,Petrol,1500,134000,3975000
+Toyota,Axio,2008,Automatic,Petrol,1500,134304,4195000
+Toyota,Premio,2007,Automatic,Petrol,1500,134500,5375000
+Toyota,Corolla 110,2000,Automatic,Petrol,1300,135000,2175000
+Toyota,Passo,2007,Automatic,Petrol,1000,135000,2450000
+Toyota,Vios,2003,Automatic,Petrol,1500,135000,2600000
+Toyota,Mark 2,2001,Automatic,Petrol,2000,135000,2825000
+Toyota,Prius 20,2007,Automatic,Hybrid,1800,135000,2950000
+Toyota,IST,2004,Automatic,Petrol,1300,135000,2975000
+Toyota,Vios,2005,Automatic,Petrol,1500,135000,2975000
+Toyota,Vitz,2008,Automatic,Petrol,1000,135000,3290000
+Toyota,Vitz KSP90,2008,Automatic,Petrol,1000,135000,3390000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,135000,3400000
+Toyota,IST,2007,Automatic,Petrol,1300,135000,3475000
+Toyota,Premio 240,2001,Automatic,Petrol,1500,135000,3475000
+Toyota,Corolla 121,2007,Automatic,Petrol,1300,135000,3500000
+Toyota,Axio,2007,Automatic,Petrol,1500,135000,3550000
+Toyota,Corolla 121,2007,Automatic,Petrol,1300,135000,3550000
+Toyota,Axio Fielder,2008,Automatic,Petrol,1500,135000,3575000
+Toyota,Yaris,2007,Automatic,Petrol,1300,135000,3600000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,135000,3675000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,135000,3900000
+Toyota,Corolla 141,2007,Manual,Diesel,1500,135000,3900000
+Toyota,Axio,2007,Automatic,Petrol,1500,135000,3950000
+Toyota,Allion,2003,Automatic,Petrol,1500,135000,4300000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,135000,4690000
+Toyota,Carina,2000,Automatic,Petrol,1500,135230,2300000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,135620,3650000
+Toyota,Mark 2,2000,Automatic,Petrol,2000,135678,2480000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,136000,3190000
+Toyota,Vitz,2007,Automatic,Petrol,1000,136000,3225000
+Toyota,Vitz,2009,Automatic,Petrol,1000,136000,3290000
+Toyota,Axio,2007,Automatic,Petrol,1500,136185,4375000
+Toyota,Premio,2004,Automatic,Petrol,1500,136500,3450000
+Toyota,Carina,2001,Automatic,Petrol,1500,137000,2150000
+Toyota,Prius 2nd Generation,2008,Automatic,Hybrid,1800,137000,3290000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,137000,4000000
+Toyota,Allion,2011,Automatic,Petrol,1500,137000,4250000
+Toyota,Prius,2012,Automatic,Petrol,1800,137871,4395000
+Toyota,Vitz,2001,Automatic,Petrol,1000,138000,2250000
+Toyota,Prius,2008,Automatic,Hybrid,1800,138000,2850000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,138000,3025000
+Toyota,Allion,2002,Automatic,Petrol,1500,138000,3440000
+Toyota,Allion,2002,Automatic,Petrol,1500,138000,3440000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,138000,3580000
+Toyota,Prius 3rd Generation,2009,Automatic,Hybrid,1800,138000,3600000
+Toyota,Prius,2011,Automatic,Petrol,1800,138000,4200000
+Toyota,Allion,2011,Automatic,Petrol,1500,138000,5490000
+Toyota,Starlet,2000,Automatic,Diesel,1500,138082,1720000
+Toyota,Passo,2008,Automatic,Petrol,1000,139000,2350000
+Toyota,Prius,2013,Automatic,Hybrid,1800,139000,4350000
+Toyota,Corolla 121,2001,Manual,Petrol,1300,139800,2675000
+Toyota,Altezza,2000,Automatic,Petrol,2000,139800,3675000
+Toyota,Platz,2001,Automatic,Petrol,1000,140000,1675000
+Toyota,Vitz,2000,Automatic,Petrol,1000,140000,2100000
+Toyota,Vitz,2000,Automatic,Petrol,1000,140000,2175000
+Toyota,Vios,2007,Automatic,Petrol,1500,140000,2475000
+Toyota,Carina,2004,Automatic,Diesel,1500,140000,2490000
+Toyota,Vitz U Grade,2003,Automatic,Petrol,1000,140000,2550000
+Toyota,Passo,2007,Automatic,Petrol,1000,140000,2700000
+Toyota,Vitz,2007,Automatic,Petrol,1000,140000,2700000
+Toyota,Belta,2007,Automatic,Petrol,1300,140000,2850000
+Toyota,Mark 2,2000,Automatic,Petrol,2000,140000,2850000
+Toyota,Verossa,2001,Automatic,Petrol,2000,140000,2875000
+Toyota,IST,2005,Automatic,Petrol,1300,140000,3050000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,140000,3100000
+Toyota,Corolla 121,2002,Automatic,Diesel,1300,140000,3190000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,140000,3325000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,140000,3490000
+Toyota,Belta,2009,Automatic,Petrol,1300,140000,3490000
+Toyota,Axio 165,2007,Automatic,Petrol,1500,140000,3500000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,140000,3560000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,140000,3600000
+Toyota,Vitz,2012,Automatic,Petrol,1000,140000,3750000
+Toyota,Prius,2011,Automatic,Hybrid,1800,140000,4100000
+Toyota,Axio,2007,Automatic,Petrol,1500,140000,4225000
+Toyota,Axio X Grade,2011,Automatic,Petrol,1500,140000,4250000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,140000,4525000
+Toyota,Allion,2007,Automatic,Petrol,1500,140000,4600000
+Toyota,Allion,2008,Automatic,Petrol,1500,140000,4750000
+Toyota,Allion,2010,Automatic,Petrol,1500,140000,5375000
+Toyota,Premio G Superior,2007,Automatic,Petrol,1500,140000,5375000
+Toyota,Allion,2012,Automatic,Petrol,1500,140000,6225000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,140439,3625000
+Toyota,Vitz,2007,Automatic,Petrol,1000,141000,3150000
+Toyota,Yaris,2008,Automatic,Petrol,1300,141000,3590000
+Toyota,Axio X Grade,2011,Automatic,Petrol,1500,141000,4390000
+Toyota,Prius G Sport,2013,Automatic,Hybrid,1800,141000,4975000
+Toyota,Passo,2006,Automatic,Petrol,1000,142000,2675000
+Toyota,Vios,2007,Automatic,Petrol,1500,142000,3490000
+Toyota,Premio 240,2003,Automatic,Petrol,1500,142000,3550000
+Toyota,Prius,2011,Automatic,Hybrid,1800,142000,4175000
+Toyota,Axio G Grade,2008,Automatic,Petrol,1500,142000,4260000
+Toyota,NZE121,2007,Automatic,Petrol,1500,142000,4700000
+Toyota,Allion,2007,Automatic,Petrol,1500,142000,4975000
+Toyota,Prius,2008,Automatic,Hybrid,1800,142500,3275000
+Toyota,Sprinter,2001,Automatic,Petrol,1500,142979,1945000
+Toyota,Vios,2007,Manual,Petrol,1500,143000,2565000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,143000,3550000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,143000,3585000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,143000,4675000
+Toyota,Prius,2008,Automatic,Hybrid,1800,144000,2925000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,144000,2975000
+Toyota,Prius,2008,Automatic,Hybrid,1800,144000,3275000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,144000,3350000
+Toyota,Premio 240,2003,Automatic,Petrol,1500,144000,3625000
+Toyota,Prius,2009,Automatic,Petrol,1800,144000,3775000
+Toyota,Allion,2004,Automatic,Petrol,1500,144000,3975000
+Toyota,Aqua S Grade,2012,Automatic,Hybrid,1500,144500,3575000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,144500,3675000
+Toyota,Axio G Grade,2006,Automatic,Petrol,1500,144500,3765000
+Toyota,IST,2005,Automatic,Petrol,1300,145000,3075000
+Toyota,Prius,2009,Automatic,Hybrid,1800,145000,3150000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,145000,3175000
+Toyota,Vitz,2007,Automatic,Petrol,1000,145000,3360000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,145000,3375000
+Toyota,Corolla 141,2007,Manual,Petrol,1500,145000,3380000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,145000,3450000
+Toyota,Allion,2002,Automatic,Petrol,1500,145000,3490000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,145000,3500000
+Toyota,Premio 240,2005,Automatic,Petrol,1500,145000,3500000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,145000,3515000
+Toyota,Aqua,2012,Automatic,Petrol,1500,145000,3550000
+Toyota,Prius Alpha,2012,Automatic,Hybrid,1800,145000,3600000
+Toyota,Avanza,2012,Automatic,Petrol,1500,145000,4090000
+Toyota,Premio,2008,Automatic,Petrol,1500,145000,4375000
+Toyota,Axio Fielder,2014,Automatic,Hybrid,1500,145000,4450000
+Toyota,Allion 240 ,2006,Automatic,Petrol,1500,145000,4695000
+Toyota,Premio,2012,Automatic,Petrol,1500,145000,6375000
+Toyota,Vios,2007,Automatic,Petrol,1500,145700,3450000
+Toyota,Vitz,2002,Automatic,Petrol,1000,146000,2200000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,146000,3250000
+Toyota,Allion,2002,Automatic,Petrol,1500,146000,3325000
+Toyota,Axio G Grade,2007,Manual,Petrol,1500,146000,3800000
+Toyota,Prius,2013,Automatic,Petrol,1800,146000,5100000
+Toyota,Carina,2000,Manual,Petrol,1500,147000,2175000
+Toyota,Vitz,2000,Automatic,Petrol,1000,147000,2250000
+Toyota,Prius,2007,Automatic,Hybrid,1800,147000,2675000
+Toyota,Prius,2008,Automatic,Hybrid,1800,147000,2975000
+Toyota,Prius 3rd Genaration,2010,Automatic,Petrol,1800,147000,3390000
+Toyota,Allion,2002,Automatic,Petrol,1500,147000,3460000
+Toyota,Belta,2007,Automatic,Petrol,1300,147000,3495000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,147000,5000000
+Toyota,Vitz,2007,Automatic,Petrol,1000,147400,3145000
+Toyota,Axio,2007,Automatic,Petrol,1500,147520,3975000
+Toyota,Soluna,2000,Manual,Petrol,1500,148000,1650000
+Toyota,Prius,2008,Automatic,Petrol,1800,148000,2790000
+Toyota,Prius,2010,Automatic,Hybrid,1800,148000,2900000
+Toyota,Si Carina,2000,Automatic,Petrol,1800,148000,3000000
+Toyota,Vitz,2007,Automatic,Petrol,1000,148000,3125000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,148000,3150000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,148000,3295000
+Toyota,Axio,2008,Automatic,Petrol,1500,148000,3500000
+Toyota,Axio G Grade,2010,Automatic,Petrol,1500,148000,4050000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,148000,4800000
+Toyota,Vios,2004,Automatic,Petrol,1500,149000,2850000
+Toyota,IST,2003,Automatic,Petrol,1300,149000,2875000
+Toyota,Vios,2006,Automatic,Petrol,1500,149000,2950000
+Toyota,Axio,2007,Automatic,Petrol,1500,149000,3950000
+Toyota,Axio,2007,Automatic,Petrol,1500,149000,4000000
+Toyota,Premio F,2005,Automatic,Petrol,1500,149000,4050000
+Toyota,Corolla 141,2011,Manual,Diesel,1500,149000,4375000
+Toyota,Soluna,2002,Manual,Petrol,1500,149600,1550000
+Toyota,Prius,2008,Automatic,Petrol,1800,149800,2925000
+Toyota,Carina,2000,Manual,Petrol,1500,150000,1950000
+Toyota,Carina,2000,Automatic,Petrol,1500,150000,2100000
+Toyota,Vitz,2001,Automatic,Petrol,1000,150000,2320000
+Toyota,Premio,2000,Automatic,Diesel,1500,150000,2550000
+Toyota,Prius W20,2008,Automatic,Hybrid,1800,150000,2890000
+Toyota,Prius,2010,Automatic,Hybrid,1800,150000,2900000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,150000,3100000
+Toyota,Corolla 121,2003,Manual,Petrol,1300,150000,3200000
+Toyota,Prius,2008,Automatic,Hybrid,1800,150000,3300000
+Toyota,Belta,2007,Automatic,Petrol,1300,150000,3350000
+Toyota,Belta,2007,Automatic,Petrol,1300,150000,3375000
+Toyota,Prius 3rd Generation,2010,Automatic,Hybrid,1800,150000,3450000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,150000,3475000
+Toyota,Belta,2008,Automatic,Petrol,1300,150000,3800000
+Toyota,Mark X,2008,Automatic,Petrol,2500,150000,4000000
+Toyota,Prius,2011,Automatic,Petrol,1800,150000,4250000
+Toyota,Prius,2013,Automatic,Petrol,1800,150000,4250000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,150000,4600000
+Toyota,Premio,2008,Automatic,Petrol,1500,150000,5490000
+Toyota,Prius,2012,Automatic,Hybrid,1800,150000,5500000
+Toyota,Premio,2010,Automatic,Petrol,1500,150000,5750000
+Toyota,Allion 240,2001,Automatic,Petrol,1500,151000,3150000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,151000,3590000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,151678,3250000
+Toyota,Soluna,2000,Manual,Petrol,1500,152000,1700000
+Toyota,Corolla 110,2000,Automatic,Petrol,1300,152000,2390000
+Toyota,Vios,2006,Manual,Petrol,1500,152000,2550000
+Toyota,Vios,2004,Automatic,Petrol,1500,152000,2875000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,152000,3500000
+Toyota,Premio,2007,Automatic,Petrol,1500,152000,4575000
+Toyota,Allion,2007,Automatic,Petrol,1500,152000,5100000
+Toyota,Allion,2013,Automatic,Petrol,1500,152000,6150000
+Toyota,Corolla 121,2006,Automatic,Petrol,1500,152132,3250000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,152547,3190000
+Toyota,Axio,2009,Automatic,Petrol,1500,152632,4150000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,153000,3150000
+Toyota,Prius W30,2009,Automatic,Hybrid,1800,153000,3265000
+Toyota,Allion,2003,Automatic,Petrol,1500,153000,3500000
+Toyota,Vios,2004,Manual,Petrol,1500,153500,2475000
+Toyota,Corolla 110,2000,Automatic,Petrol,1300,154000,2260000
+Toyota,Corolla 121,2002,Manual,Petrol,1300,154000,2585000
+Toyota,Premio,2011,Automatic,Petrol,1500,154000,6150000
+Toyota,Corolla 121,2003,Manual,Petrol,1300,154380,3150000
+Toyota,Vios,2003,Manual,Petrol,1500,155000,2550000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,155000,2875000
+Toyota,Corolla 121,2003,Automatic,Petrol,1500,155000,3450000
+Toyota,Yaris,2007,Automatic,Petrol,1300,155000,3650000
+Toyota,Prius 3rd Generation,2012,Automatic,Hybrid,1800,155000,4200000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,156000,3390000
+Toyota,Prius,2011,Automatic,Hybrid,1800,156000,4250000
+Toyota,Allion,2008,Automatic,Petrol,1500,156000,4290000
+Toyota,Mark X,2007,Automatic,Petrol,2500,156000,4675000
+Toyota,Prius,2011,Automatic,Hybrid,1800,157000,3525000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,157000,4690000
+Toyota,Axio,2007,Automatic,Petrol,1500,157200,4350000
+Toyota,Corolla 121,2005,Manual,Petrol,1300,157250,3450000
+Toyota,Vios,2003,Automatic,Petrol,1500,158000,2650000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,158000,3400000
+Toyota,Prius,2009,Automatic,Petrol,1800,158000,3700000
+Toyota,Axio G Grade,2007,Automatic,Petrol,1500,158000,3975000
+Toyota,Vitz,2008,Automatic,Petrol,1000,158300,3275000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,159000,3350000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,159000,3450000
+Toyota,Axio,2007,Automatic,Petrol,1500,159000,3990000
+Toyota,Axio X Grade,2007,Automatic,Petrol,1500,159000,4125000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,159000,4980000
+Toyota,Premio,2007,Automatic,Petrol,1500,159000,5200000
+Toyota,Corolla 110,2001,Automatic,Petrol,1300,159500,2150000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,159831,3550000
+Toyota,Soluna,2003,Manual,Petrol,1500,160000,1590000
+Toyota,Soluna,2005,Automatic,Petrol,1500,160000,1750000
+Toyota,Vitz,2000,Automatic,Petrol,1000,160000,1950000
+Toyota,Premio,2002,Automatic,Petrol,1500,160000,1925000
+Toyota,IST,2003,Automatic,Petrol,1300,160000,2400000
+Toyota,Vios,2005,Automatic,Petrol,1500,160000,2730000
+Toyota,Vios,2004,Automatic,Petrol,1500,160000,2750000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,160000,2900000
+Toyota,IST,2004,Automatic,Petrol,1300,160000,2925000
+Toyota,Vios,2004,Automatic,Petrol,1500,160000,3000000
+Toyota,Vitz,2007,Automatic,Petrol,1000,160000,3075000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,160000,3185000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,160000,3300000
+Toyota,Prius,2011,Automatic,Petrol,1800,160000,3300000
+Toyota,Corolla 121,2005,Manual,Petrol,1300,160000,3350000
+Toyota,Corolla 121,2004,Automatic,Petrol,1500,160000,3450000
+Toyota,Yaris,2008,Automatic,Petrol,1300,160000,3565000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,160000,3590000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,160000,3625000
+Toyota,Prius,2011,Automatic,Petrol,1800,160000,3650000
+Toyota,Yaris,2008,Automatic,Petrol,1300,160000,3650000
+Toyota,IST,2007,Automatic,Petrol,1300,160000,3750000
+Toyota,Prius,2012,Automatic,Petrol,1800,160000,4100000
+Toyota,Prius G,2012,Automatic,Hybrid,1800,160000,4150000
+Toyota,Axio,2008,Automatic,Petrol,1500,160000,4190000
+Toyota,Prius,2013,Automatic,Hybrid,1800,160000,4700000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,160000,4750000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,160000,4765000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,160000,4825000
+Toyota,Premio,2007,Automatic,Petrol,1500,160000,5175000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,160000,5300000
+Toyota,Allion,2011,Automatic,Petrol,1500,160000,5490000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,160500,2950000
+Toyota,Corolla 121,2006,Automatic,Diesel,1300,160572,3575000
+Toyota,Soluna,2000,Automatic,Petrol,1500,160856,1850000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,161100,3625000
+Toyota,Allion 240,2004,Automatic,Petrol,1500,161300,3050000
+Toyota,Prius,2010,Automatic,Hybrid,1800,161500,3150000
+Toyota,Vios,2003,Automatic,Petrol,1500,162000,2490000
+Toyota,Carina,2000,Automatic,Petrol,1500,162000,2625000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,162000,2975000
+Toyota,Prius,2009,Automatic,Petrol,1800,162000,3660000
+Toyota,Prius,2009,Automatic,Hybrid,1800,162000,3750000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,162800,3175000
+Toyota,Prius 20,2006,Automatic,Hybrid,1800,163000,2975000
+Toyota,IST,2004,Automatic,Petrol,1300,163000,3225000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,163000,3350000
+Toyota,Allion 240,2009,Automatic,Petrol,1500,163000,4350000
+Toyota,Vitz,2000,Automatic,Petrol,1000,164000,2250000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,164000,3150000
+Toyota,Prius S Grade,2011,Automatic,Petrol,1800,164000,3400000
+Toyota,Corolla 111,2000,Automatic,Petrol,1300,164900,2150000
+Toyota,Vios,2004,Manual,Petrol,1500,165000,2390000
+Toyota,Vios,2004,Automatic,Petrol,1500,165000,2850000
+Toyota,Allion 240,2001,Automatic,Petrol,1500,165000,3350000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,165000,3350000
+Toyota,Premio,2002,Automatic,Petrol,1500,165000,3450000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,165000,3550000
+Toyota,Corolla 141,2007,Automatic,Petrol,1500,165000,3700000
+Toyota,Prius 30,2012,Automatic,Petrol,1800,165000,4400000
+Toyota,Premio,2007,Automatic,Petrol,1500,165000,5150000
+Toyota,Yaris,2008,Manual,Petrol,1300,165200,3575000
+Toyota,Axio,2010,Automatic,Petrol,1500,165200,3950000
+Toyota,Premio 240,2004,Automatic,Petrol,1500,166000,3550000
+Toyota,Axio,2007,Automatic,Petrol,1500,166000,4150000
+Toyota,Aqua,2012,Automatic,Petrol,1500,166300,3390000
+Toyota,Vios,2003,Automatic,Petrol,1500,167000,2675000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,167000,3350000
+Toyota,Axio X Grade,2010,Automatic,Petrol,1500,167000,4475000
+Toyota,Premio,2011,Automatic,Petrol,1500,167000,5675000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,168000,2900000
+Toyota,Allion,2005,Automatic,Petrol,1500,168000,3840000
+Toyota,Prius,2008,Automatic,Hybrid,1800,168900,2890000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,169000,2900000
+Toyota,Prius,2010,Automatic,Petrol,1800,169000,3050000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,169000,3375000
+Toyota,Soluna,2001,Automatic,Petrol,1500,170000,1610000
+Toyota,Soluna,2003,Automatic,Petrol,1500,170000,1900000
+Toyota,Vitz,2000,Automatic,Petrol,1000,170000,2025000
+Toyota,Corolla 121,2002,Manual,Petrol,1300,170000,2890000
+Toyota,Corolla 121,2002,Manual,Petrol,1300,170000,2900000
+Toyota,Prius,2007,Automatic,Hybrid,1800,170000,3150000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,170000,3325000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,170000,3425000
+Toyota,Prius,2011,Automatic,Petrol,1800,170000,3550000
+Toyota,Prius 2nd Generation,2008,Automatic,Hybrid,1800,170000,3550000
+Toyota,Axio X Grade,2008,Automatic,Petrol,1500,170000,3575000
+Toyota,Premio 240,2005,Automatic,Petrol,1500,170000,3625000
+Toyota,Prius,2009,Automatic,Petrol,1800,170000,3780000
+Toyota,IST,2008,Automatic,Petrol,1300,170000,3850000
+Toyota,Axio G Grade,2008,Automatic,Petrol,1500,170000,4200000
+Toyota,Allion,2007,Automatic,Petrol,1500,170000,4600000
+Toyota,Allion,2008,Automatic,Petrol,1500,170676,4995000
+Toyota,Vios,2004,Automatic,Petrol,1500,171000,2850000
+Toyota,Allion 240,2006,Automatic,Petrol,1500,171000,3790000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,171000,4600000
+Toyota,Starlet,2000,Automatic,Diesel,1500,172000,1795000
+Toyota,Vitz,2007,Automatic,Petrol,1000,172000,3070000
+Toyota,Premio,2007,Automatic,Petrol,1500,172000,4850000
+Toyota,Premio,2007,Automatic,Petrol,1500,172000,4950000
+Toyota,Vios,2004,Manual,Petrol,1500,173000,2550000
+Toyota,Vios,2003,Automatic,Petrol,1500,173000,2590000
+Toyota,Premio G Superior,2011,Automatic,Petrol,1500,173564,5725000
+Toyota,Allion 260,2007,Automatic,Petrol,1500,174000,4800000
+Toyota,Premio G Superior,2013,Automatic,Petrol,1500,174000,6650000
+Toyota,Prius,2008,Automatic,Hybrid,1800,175000,2600000
+Toyota,Vitz,2007,Automatic,Petrol,1000,175000,2650000
+Toyota,Vitz RS,2000,Automatic,Petrol,1000,175000,3000000
+Toyota,Belta,2007,Automatic,Petrol,1300,175000,3300000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,175000,3375000
+Toyota,Corolla 121,2005,Manual,Petrol,1300,175000,3470000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,175050,3050000
+Toyota,Vios,2006,Automatic,Petrol,1500,175500,2850000
+Toyota,Vios,2008,Automatic,Petrol,1500,177000,2615000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,177000,2950000
+Toyota,Axio,2014,Automatic,Petrol,1500,178000,3875000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,179000,2875000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,179000,2950000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,179000,2975000
+Toyota,Premio,2004,Automatic,Petrol,1500,179000,3700000
+Toyota,Corolla 121,2001,Automatic,Diesel,1300,179850,3350000
+Toyota,Soluna,2002,Manual,Petrol,1500,180000,1650000
+Toyota,Elephant Back,2000,Automatic,Petrol,1300,180000,1750000
+Toyota,EE 111,2003,Automatic,Petrol,1330,180000,2300000
+Toyota,Prius,2008,Automatic,Hybrid,1800,180000,2500000
+Toyota,Mark 2,2000,Automatic,Petrol,2000,180000,2800000
+Toyota,Vios,2004,Automatic,Petrol,1500,180000,2800000
+Toyota,Vios,2003,Automatic,Petrol,1500,180000,2800000
+Toyota,Vios,2003,Automatic,Petrol,1500,180000,2850000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,180000,2880000
+Toyota,Carina,2000,Automatic,Petrol,1500,180000,2890000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,180000,2950000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,180000,3100000
+Toyota,Prius,2011,Automatic,Petrol,1800,180000,3100000
+Toyota,Allion,2004,Automatic,Petrol,1500,180000,3150000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,180000,3150000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,180000,3450000
+Toyota,Corolla 121,2006,Manual,Petrol,1300,180000,3550000
+Toyota,Prius G,2013,Automatic,Hybrid,1800,180000,4200000
+Toyota,Allion,2007,Automatic,Petrol,1500,180000,4250000
+Toyota,Carina,2000,Automatic,Petrol,1500,180356,2275000
+Toyota,Corolla 121,2003,Manual,Petrol,1300,181000,3190000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,181500,3000000
+Toyota,Prius NHW20,2008,Automatic,Hybrid,1800,182000,2950000
+Toyota,Aqua,2013,Automatic,Hybrid,1500,182000,3250000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,182000,3375000
+Toyota,Allion 260,2012,Automatic,Petrol,1500,183000,5880000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,184000,2800000
+Toyota,Starlet,2000,Automatic,Diesel,1500,185000,1875000
+Toyota,Yaris,2006,Automatic,Petrol,1300,185000,3550000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,185000,4375000
+Toyota,Vitz KSP90,2007,Automatic,Petrol,1000,185424,2600000
+Toyota,Corolla 121,2000,Manual,Petrol,1300,186000,3050000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,186000,3100000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,186000,3850000
+Toyota,Duet,2001,Manual,Petrol,1000,187000,1725000
+Toyota,Corolla 121,2001,Automatic,Diesel,1300,187000,3050000
+Toyota,Sprinter,2000,Manual,Petrol,1500,188500,2100000
+Toyota,Soluna,2005,Automatic,Petrol,1500,188542,1750000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,189325,3390000
+Toyota,Cresta,2004,Automatic,Diesel,2000,190000,1450000
+Toyota,soluna,2001,Manual,Petrol,1500,190000,1725000
+Toyota,Sprinter,2003,Automatic,Petrol,1500,190000,1999000
+Toyota,Camry,2003,Automatic,Petrol,2000,190000,2550000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,190000,2550000
+Toyota,Prius,2008,Automatic,Hybrid,1800,190000,2900000
+Toyota,Verossa,2004,Automatic,Petrol,2000,190000,2950000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,190000,2975000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,190000,3050000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,190000,3235000
+Toyota,Belta,2010,Automatic,Petrol,1300,190000,3300000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,190000,3300000
+Toyota,Allion,2013,Automatic,Petrol,1500,190000,4495000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,190000,4750000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,190006,3680000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,190006,3680000
+Toyota,Corolla 121,2004,Manual,Petrol,1300,190813,2675000
+Toyota,Mark 2,2000,Automatic,Petrol,2000,191000,2600000
+Toyota,Vios,2003,Automatic,Petrol,1500,191000,2750000
+Toyota,Sprinter,2003,Automatic,Petrol,1500,191547,2125000
+Toyota,Platz,2002,Automatic,Petrol,1000,192000,1950000
+Toyota,Corolla 121,2002,Manual,Diesel,1300,192000,3150000
+Toyota,Allion,2007,Automatic,Petrol,1500,192000,4000000
+Toyota,Corolla 111,2000,Manual,Petrol,1300,193000,2200000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,193000,3625000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,193000,3890000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,193000,3990000
+Toyota,Passo,2005,Automatic,Petrol,1000,194000,2525000
+Toyota,Prius 3rd Generation,2012,Automatic,Hybrid,1800,194000,4200000
+Toyota,Axio G Grade,2008,Automatic,Petrol,1500,194000,4390000
+Toyota,Corolla 110,2004,Automatic,Petrol,1300,195000,2490000
+Toyota,Verossa,2002,Automatic,Petrol,2000,195000,2650000
+Toyota,Vios,2004,Automatic,Petrol,1500,195000,2850000
+Toyota,Prius,2011,Automatic,Hybrid,1800,195000,3675000
+Toyota,Cynos,2000,Automatic,Petrol,1500,196000,1950000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,196850,3425000
+Toyota,Soluna,2005,Manual,Petrol,1500,197000,1875000
+Toyota,Allion 240,2007,Automatic,Petrol,1500,197000,4600000
+Toyota,Premio 240,2002,Automatic,Petrol,1500,198000,3475000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,198000,3900000
+Toyota,Allion 240,2003,Automatic,Petrol,1500,198500,3850000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,199000,2865000
+Toyota,Vitz,2000,Automatic,Petrol,1000,200000,2250000
+Toyota,Corolla 110,2000,Automatic,Petrol,1300,200000,2280000
+Toyota,Carina,2001,Manual,Petrol,1500,200000,2375000
+Toyota,Corolla 121,2003,Manual,Petrol,1300,200000,2540000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,200000,2650000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,200000,3000000
+Toyota,Camry,2003,Automatic,Petrol,2000,200000,3100000
+Toyota,Corolla 121,2002,Automatic,Petrol,1300,200000,3100000
+Toyota,Prius,2010,Automatic,Hybrid,1800,200000,3125000
+Toyota,Corolla 121,2007,Manual,Petrol,1300,200000,3450000
+Toyota,Allion,2002,Automatic,Petrol,1500,200000,3500000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,200000,3500000
+Toyota,Allion 240,2005,Automatic,Petrol,1500,200000,3850000
+Toyota,Allion 260,2008,Automatic,Petrol,1500,200000,4650000
+Toyota,Premio X Grade,2003,Automatic,Petrol,1500,200100,3250000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,200500,3250000
+Toyota,Corolla 121,2002,Manual,Petrol,1300,200750,2675000
+Toyota,Corolla 121,2003,Manual,Petrol,1300,200750,2990000
+Toyota,Carina,2000,Automatic,Petrol,1500,201000,2470000
+Toyota,Corolla 121,2001,Automatic,Petrol,1300,201000,3285000
+Toyota,Premio,2006,Automatic,Petrol,1500,205000,4290000
+Toyota,Cresta,2006,Automatic,Diesel,2000,206000,2700000
+Toyota,Corolla 121,2002,Automatic,Petrol,1500,206000,3300000
+Toyota,Vios,2003,Automatic,Petrol,1500,209263,2500000
+Toyota,Vios,2004,Manual,Petrol,1500,210000,2350000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,210000,3550000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,210000,3850000
+Toyota,Premio 240,2003,Automatic,Petrol,1500,210600,3550000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,211255,3350000
+Toyota,Starlet,2000,Automatic,Diesel,1500,212944,1980000
+Toyota,Carina,2002,Automatic,Petrol,1500,213000,2700000
+Toyota,Corolla 121,2002,Manual,Petrol,1300,213000,2925000
+Toyota,Corolla 121,2005,Automatic,Petrol,1300,214149,3125000
+Toyota,IST,2003,Automatic,Petrol,1300,215000,2725000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,217000,3450000
+Toyota,Sprinter,2001,Manual,Diesel,1500,218000,1340000
+Toyota,Soluna,2001,Manual,Petrol,1500,218000,1700000
+Toyota,Allion 240,2002,Automatic,Petrol,1500,218000,3400000
+Toyota,Soluna,2000,Automatic,Petrol,1500,220000,1600000
+Toyota,Corolla 121,2006,Manual,Petrol,1300,220000,3225000
+Toyota,Aqua,2012,Automatic,Hybrid,1500,220000,3625000
+Toyota,Prius,2008,Automatic,Hybrid,1800,223500,3250000
+Toyota,Carina,2001,Manual,Petrol,1500,225000,1900000
+Toyota,Camry,2003,Automatic,Petrol,2000,225000,3100000
+Toyota,Vios,2004,Manual,Petrol,1500,228000,2725000
+Toyota,Echo,2000,Manual,Petrol,1300,230000,1500000
+Toyota,Corolla 121,2001,Automatic,Petrol,1500,230000,2750000
+Toyota,Corolla 121,2003,Automatic,Petrol,1300,230000,3350000
+Toyota,Allion 260,2011,Automatic,Petrol,1500,230000,5690000
+Toyota,Axio,2009,Automatic,Petrol,1500,235000,4190000
+Toyota,Corolla 141,2008,Automatic,Petrol,1500,237200,3690000
+Toyota,Allion 240,2006,Automatic,Petrol,1500,238000,4275000
+Toyota,Prius,2008,Automatic,Hybrid,1800,240000,2550000
+Toyota,Vios,2007,Automatic,Petrol,1500,240000,2690000
+Toyota,Platz,2000,Manual,Petrol,1000,245000,1595000
+Toyota,Platz,2000,Automatic,Petrol,1000,250000,1725000
+Toyota,Corolla 121,2006,Manual,Petrol,1300,250000,2975000
+Toyota,Corolla 121,2006,Manual,Petrol,1300,250000,3075000
+Toyota,Corolla 121,2006,Manual,Petrol,1300,250000,3075000
+Toyota,Soluna,2000,Manual,Petrol,1500,252000,1750000
+Toyota,Platz,2000,Automatic,Petrol,1000,260000,1715000
+Toyota,Corona Premio,2000,Automatic,Petrol,1800,260000,2675000
+Toyota,Corona Premio,2000,Automatic,Petrol,1800,260000,2800000
+Toyota,Platz,2000,Manual,Petrol,1000,270000,1825000
+Toyota,Corolla 121,2006,Automatic,Petrol,1300,270000,3250000
+Toyota,Corolla 110,2000,Manual,Diesel,1300,275000,2210000
+Toyota,Corolla 110,2000,Manual,Diesel,1300,275000,2210000
+Toyota,Carina,2000,Automatic,Diesel,1500,285000,2875000
+Toyota,Corolla 121,2001,Automatic,Diesel,1300,287559,3350000
+Toyota,IST,2003,Automatic,Petrol,1300,300000,2650000
+Toyota,Corolla 121,2002,Automatic,Diesel,1300,300000,3300000
+Toyota,Corolla 110,2000,Manual,Diesel,1300,315000,2350000
+Toyota,Soluna,2000,Manual,Petrol,1500,318000,1590000
+Toyota,Noah,2004,Automatic,Diesel,1800,323000,3600000
+Toyota,Corolla 121,2004,Automatic,Petrol,1300,327000,3150000
+Toyota,Corolla 110,2000,Automatic,Diesel,1300,335000,1650000
+Toyota,Carina,2001,Manual,Petrol,1500,340000,2600000
+Toyota,Corolla 121,2000,Automatic,Petrol,1300,386400,3150000
