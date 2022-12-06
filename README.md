@@ -1,4 +1,9 @@
 # Auto_Moblie_Price_Prediction
+
+`Unversity of Solent : 
+BSc Final year Project 
+: M.A.M Imamdeen`
+
 To assess a used automobile's value based on many aspects, a model to calculate the price of a used car should be developed. A used car's price is influenced by a variety of variables, including the manufacture, Brand, Model,Purchased year, Mileage and Price. Knowing the car's current market cost also is important before buying or selling vehical.
 
 In this research, we use a limited dataset collection to build model to estimate car prices using data on the prices and specifications of other cars. With the support of the output models that have been offered, we can decide the car's selling price that would be the most affordable.
@@ -51,3 +56,5 @@ As our system predicts the price of a used vehicle, the dataset that has been co
 After the data validation is done the main processing is the filtration of data and this will be achieved by determining all the similar data available in the database of the framework according to the user inputted data.
 
 Once the data processing is done a machine learning model will be trained to find the valuation of the used vehicles. In order to achieve this, a combination of machine learning algorithms is used to gain a higher rate of accuracy and reliability of the final output
+
+#### Done By Imamdeen
