@@ -26,7 +26,7 @@ and now use the command to activate and switch to this setting: `conda activate 
 Open the Jupyter notebook from this directory by going to the location where you have copied this repository. Run each cell in the notebook right now.
 Every time a cell finishes executing, a new file with the `.pkl`  extension appears in the same src folder. This model is contained in this file. Flask and HTML have been used to create a web interface that can be used for prediction.
 
-### + Libraries Imported to build the ML Model:
+### + Libraries Imported to build the ML Model: 
 * Python 3
 * pandas
 * pickle
